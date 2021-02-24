@@ -3,14 +3,14 @@
     <title>Ana Paula Appel</title>
     <link href="https://anapaulaappel.github.io/feed.xml" rel="self" />
     <link href="https://anapaulaappel.github.io" />
-    <updated>2021-02-24T16:04:26-03:00</updated>
+    <updated>2021-02-24T17:20:26-03:00</updated>
     <author>
         <name>Ana Paula Appel</name>
     </author>
     <id>https://anapaulaappel.github.io</id>
 
     <entry>
-        <title> Temporally Evolving Community Detection and Prediction in HeterogeneousNetworks</title>
+        <title> Temporally Evolving Community Detection and Prediction in Heterogeneous Networks</title>
         <author>
             <name>Ana Paula Appel</name>
         </author>
@@ -19,7 +19,7 @@
             <category term="Temporal Embedding Graph Learning"/>
             <category term="Projects"/>
 
-        <updated>2021-02-24T15:57:02-03:00</updated>
+        <updated>2021-02-24T16:28:09-03:00</updated>
             <summary>
                 <![CDATA[
                      We focus the problem of combining link, content and temporal analysis for community detection and prediction in evolving networks. Such temporal and&hellip;
@@ -78,7 +78,7 @@
         </content>
     </entry>
     <entry>
-        <title>Machine Learning In Finance</title>
+        <title>Predicting Account Receivables with Machine Learning</title>
         <author>
             <name>Ana Paula Appel</name>
         </author>
@@ -87,7 +87,7 @@
             <category term="Projects"/>
             <category term="Machine Learning Finance"/>
 
-        <updated>2021-02-24T16:04:26-03:00</updated>
+        <updated>2021-02-24T17:20:26-03:00</updated>
             <summary>
                 <![CDATA[
                      Ana Paula Appel, Gabriel Louzada Malfatti, Renato Luiz de Freitas Cunha, Bruno Lima, Rogério de Paula: Predicting Account Receivables with Machine Learning.
