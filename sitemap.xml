@@ -1,78 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://anapaulaappel.github.io/gh-pages/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://anapaulaappel.github.io/apappel/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://anapaulaappel.github.io/gh-pages/</loc>
+<loc>https://anapaulaappel.github.io/apappel/</loc>
 </url>
 <url>
-<loc>https://anapaulaappel.github.io/gh-pages/about-me.html</loc>
+<loc>https://anapaulaappel.github.io/apappel/about-me.html</loc>
 <lastmod>2021-02-24T09:55:04-03:00</lastmod>
 </url>
 <url>
-<loc>https://anapaulaappel.github.io/gh-pages/award.html</loc>
+<loc>https://anapaulaappel.github.io/apappel/award.html</loc>
 <lastmod>2021-02-23T14:26:34-03:00</lastmod>
 <image:image>
-<image:loc>https://anapaulaappel.github.io/gh-pages/media/posts/5/PremioPaulinha3_Original.jpg</image:loc>
+<image:loc>https://anapaulaappel.github.io/apappel/media/posts/5/PremioPaulinha3_Original.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://anapaulaappel.github.io/gh-pages/media/posts/5/swe.png</image:loc>
+<image:loc>https://anapaulaappel.github.io/apappel/media/posts/5/swe.png</image:loc>
 <image:title><![CDATA[SWE Certificate]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://anapaulaappel.github.io/gh-pages/media/posts/5/opengroup.png</image:loc>
+<image:loc>https://anapaulaappel.github.io/apappel/media/posts/5/opengroup.png</image:loc>
 <image:title><![CDATA[Open Group Certification Data Cience]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://anapaulaappel.github.io/gh-pages/media/posts/5/IMG_4744.png</image:loc>
+<image:loc>https://anapaulaappel.github.io/apappel/media/posts/5/IMG_4744.png</image:loc>
 <image:title><![CDATA[Master Inventor Award]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://anapaulaappel.github.io/gh-pages/media/posts/5/PremioPaulinha3_Original-2.jpg</image:loc>
+<image:loc>https://anapaulaappel.github.io/apappel/media/posts/5/PremioPaulinha3_Original-2.jpg</image:loc>
 <image:title><![CDATA[Receiving Award Best Demo]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://anapaulaappel.github.io/gh-pages/interviews.html</loc>
+<loc>https://anapaulaappel.github.io/apappel/interviews.html</loc>
 <lastmod>2021-02-23T14:24:51-03:00</lastmod>
 <image:image>
-<image:loc>https://anapaulaappel.github.io/gh-pages/media/posts/1/Ana-2.jpg</image:loc>
+<image:loc>https://anapaulaappel.github.io/apappel/media/posts/1/Ana-2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://anapaulaappel.github.io/gh-pages/machine-learning-in-finance.html</loc>
+<loc>https://anapaulaappel.github.io/apappel/machine-learning-in-finance.html</loc>
 <lastmod>2021-02-23T13:34:03-03:00</lastmod>
 </url>
 <url>
-<loc>https://anapaulaappel.github.io/gh-pages/page/2/</loc>
+<loc>https://anapaulaappel.github.io/apappel/page/2/</loc>
 </url>
 <url>
-<loc>https://anapaulaappel.github.io/gh-pages/patents.html</loc>
+<loc>https://anapaulaappel.github.io/apappel/patents.html</loc>
 <lastmod>2021-02-23T10:36:19-03:00</lastmod>
 <image:image>
-<image:loc>https://anapaulaappel.github.io/gh-pages/media/posts/3/IMG_3984-2.png</image:loc>
+<image:loc>https://anapaulaappel.github.io/apappel/media/posts/3/IMG_3984-2.png</image:loc>
 <image:title><![CDATA[Patent award certification]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://anapaulaappel.github.io/gh-pages/projects.html</loc>
+<loc>https://anapaulaappel.github.io/apappel/projects.html</loc>
 <lastmod>2021-02-23T13:35:50-03:00</lastmod>
 <image:image>
-<image:loc>https://anapaulaappel.github.io/gh-pages/media/posts/6/caduceus.png</image:loc>
+<image:loc>https://anapaulaappel.github.io/apappel/media/posts/6/caduceus.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://anapaulaappel.github.io/gh-pages/talks.html</loc>
+<loc>https://anapaulaappel.github.io/apappel/talks.html</loc>
 <lastmod>2021-02-23T13:29:32-03:00</lastmod>
 <image:image>
-<image:loc>https://anapaulaappel.github.io/gh-pages/media/posts/2/IMG_6163_Original-2.jpg</image:loc>
+<image:loc>https://anapaulaappel.github.io/apappel/media/posts/2/IMG_6163_Original-2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://anapaulaappel.github.io/gh-pages/temporal-graph-embedding.html</loc>
+<loc>https://anapaulaappel.github.io/apappel/temporal-graph-embedding.html</loc>
 <lastmod>2021-02-23T13:34:19-03:00</lastmod>
 </url>
 </urlset>

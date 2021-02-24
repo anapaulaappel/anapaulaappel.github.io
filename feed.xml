@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Ana Paula Appel</title>
-    <link href="https://anapaulaappel.github.io/gh-pages/feed.xml" rel="self" />
-    <link href="https://anapaulaappel.github.io/gh-pages" />
+    <link href="https://anapaulaappel.github.io/apappel/feed.xml" rel="self" />
+    <link href="https://anapaulaappel.github.io/apappel" />
     <updated>2021-02-24T09:55:04-03:00</updated>
     <author>
         <name>Ana Paula Appel</name>
     </author>
-    <id>https://anapaulaappel.github.io/gh-pages</id>
+    <id>https://anapaulaappel.github.io/apappel</id>
 
     <entry>
         <title>Temporal Graph Embedding </title>
         <author>
             <name>Ana Paula Appel</name>
         </author>
-        <link href="https://anapaulaappel.github.io/gh-pages/temporal-graph-embedding.html"/>
-        <id>https://anapaulaappel.github.io/gh-pages/temporal-graph-embedding.html</id>
+        <link href="https://anapaulaappel.github.io/apappel/temporal-graph-embedding.html"/>
+        <id>https://anapaulaappel.github.io/apappel/temporal-graph-embedding.html</id>
 
         <updated>2021-02-23T13:34:19-03:00</updated>
             <summary>
@@ -37,8 +37,8 @@
         <author>
             <name>Ana Paula Appel</name>
         </author>
-        <link href="https://anapaulaappel.github.io/gh-pages/machine-learning-in-finance.html"/>
-        <id>https://anapaulaappel.github.io/gh-pages/machine-learning-in-finance.html</id>
+        <link href="https://anapaulaappel.github.io/apappel/machine-learning-in-finance.html"/>
+        <id>https://anapaulaappel.github.io/apappel/machine-learning-in-finance.html</id>
 
         <updated>2021-02-23T13:34:03-03:00</updated>
             <summary>
@@ -60,8 +60,8 @@
         <author>
             <name>Ana Paula Appel</name>
         </author>
-        <link href="https://anapaulaappel.github.io/gh-pages/projects.html"/>
-        <id>https://anapaulaappel.github.io/gh-pages/projects.html</id>
+        <link href="https://anapaulaappel.github.io/apappel/projects.html"/>
+        <id>https://anapaulaappel.github.io/apappel/projects.html</id>
             <category term="Projects"/>
             <category term="Health Insurance"/>
 
@@ -74,27 +74,27 @@
         <author>
             <name>Ana Paula Appel</name>
         </author>
-        <link href="https://anapaulaappel.github.io/gh-pages/award.html"/>
-        <id>https://anapaulaappel.github.io/gh-pages/award.html</id>
+        <link href="https://anapaulaappel.github.io/apappel/award.html"/>
+        <id>https://anapaulaappel.github.io/apappel/award.html</id>
             <category term="Media"/>
             <category term="Awards"/>
 
         <updated>2021-02-23T14:26:34-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://anapaulaappel.github.io/gh-pages/media/posts/5/PremioPaulinha3_Original.jpg" alt="" />
+                        <img src="https://anapaulaappel.github.io/apappel/media/posts/5/PremioPaulinha3_Original.jpg" alt="" />
                     Here you will find some information about awards that I receive during my career. Award from SWE (Society of Women Engineering) from two patents&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://anapaulaappel.github.io/gh-pages/media/posts/5/PremioPaulinha3_Original.jpg" alt="" />
+                    <img src="https://anapaulaappel.github.io/apappel/media/posts/5/PremioPaulinha3_Original.jpg" alt="" />
                 <h2 class="msg msg--highlight ">Here you will find some information about awards that I receive during my career. </h2>
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://anapaulaappel.github.io/gh-pages/media/posts/5/swe.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/gh-pages/media/posts/5/responsive/swe-xs.png 300w ,https://anapaulaappel.github.io/gh-pages/media/posts/5/responsive/swe-sm.png 480w ,https://anapaulaappel.github.io/gh-pages/media/posts/5/responsive/swe-md.png 768w ,https://anapaulaappel.github.io/gh-pages/media/posts/5/responsive/swe-lg.png 1024w ,https://anapaulaappel.github.io/gh-pages/media/posts/5/responsive/swe-xl.png 1360w ,https://anapaulaappel.github.io/gh-pages/media/posts/5/responsive/swe-2xl.png 1600w"  alt="SWE Certificate" width="3074" height="2376"></figure></td>
-<td style="width: 50%;"><figure class="post__image"><img loading="lazy"  src="https://anapaulaappel.github.io/gh-pages/media/posts/5/opengroup.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/gh-pages/media/posts/5/responsive/opengroup-xs.png 300w ,https://anapaulaappel.github.io/gh-pages/media/posts/5/responsive/opengroup-sm.png 480w ,https://anapaulaappel.github.io/gh-pages/media/posts/5/responsive/opengroup-md.png 768w ,https://anapaulaappel.github.io/gh-pages/media/posts/5/responsive/opengroup-lg.png 1024w ,https://anapaulaappel.github.io/gh-pages/media/posts/5/responsive/opengroup-xl.png 1360w ,https://anapaulaappel.github.io/gh-pages/media/posts/5/responsive/opengroup-2xl.png 1600w"  alt="Open Group Certification Data Cience" width="1304" height="1674"></figure></td>
+<td style="width: 50%;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://anapaulaappel.github.io/apappel/media/posts/5/swe.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/apappel/media/posts/5/responsive/swe-xs.png 300w ,https://anapaulaappel.github.io/apappel/media/posts/5/responsive/swe-sm.png 480w ,https://anapaulaappel.github.io/apappel/media/posts/5/responsive/swe-md.png 768w ,https://anapaulaappel.github.io/apappel/media/posts/5/responsive/swe-lg.png 1024w ,https://anapaulaappel.github.io/apappel/media/posts/5/responsive/swe-xl.png 1360w ,https://anapaulaappel.github.io/apappel/media/posts/5/responsive/swe-2xl.png 1600w"  alt="SWE Certificate" width="3074" height="2376"></figure></td>
+<td style="width: 50%;"><figure class="post__image"><img loading="lazy"  src="https://anapaulaappel.github.io/apappel/media/posts/5/opengroup.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/apappel/media/posts/5/responsive/opengroup-xs.png 300w ,https://anapaulaappel.github.io/apappel/media/posts/5/responsive/opengroup-sm.png 480w ,https://anapaulaappel.github.io/apappel/media/posts/5/responsive/opengroup-md.png 768w ,https://anapaulaappel.github.io/apappel/media/posts/5/responsive/opengroup-lg.png 1024w ,https://anapaulaappel.github.io/apappel/media/posts/5/responsive/opengroup-xl.png 1360w ,https://anapaulaappel.github.io/apappel/media/posts/5/responsive/opengroup-2xl.png 1600w"  alt="Open Group Certification Data Cience" width="1304" height="1674"></figure></td>
 </tr>
 <tr>
 <td style="width: 50%;">
@@ -112,14 +112,14 @@
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><figure class="post__image"><img loading="lazy"  src="https://anapaulaappel.github.io/gh-pages/media/posts/5/IMG_4744.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/gh-pages/media/posts/5/responsive/IMG_4744-xs.png 300w ,https://anapaulaappel.github.io/gh-pages/media/posts/5/responsive/IMG_4744-sm.png 480w ,https://anapaulaappel.github.io/gh-pages/media/posts/5/responsive/IMG_4744-md.png 768w ,https://anapaulaappel.github.io/gh-pages/media/posts/5/responsive/IMG_4744-lg.png 1024w ,https://anapaulaappel.github.io/gh-pages/media/posts/5/responsive/IMG_4744-xl.png 1360w ,https://anapaulaappel.github.io/gh-pages/media/posts/5/responsive/IMG_4744-2xl.png 1600w"  alt="Master Inventor Award" width="2365" height="3126"></figure></td>
-<td style="width: 50%;"><figure class="post__image"><img loading="lazy"  src="https://anapaulaappel.github.io/gh-pages/media/posts/5/PremioPaulinha3_Original-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/gh-pages/media/posts/5/responsive/PremioPaulinha3_Original-2-xs.jpg 300w ,https://anapaulaappel.github.io/gh-pages/media/posts/5/responsive/PremioPaulinha3_Original-2-sm.jpg 480w ,https://anapaulaappel.github.io/gh-pages/media/posts/5/responsive/PremioPaulinha3_Original-2-md.jpg 768w ,https://anapaulaappel.github.io/gh-pages/media/posts/5/responsive/PremioPaulinha3_Original-2-lg.jpg 1024w ,https://anapaulaappel.github.io/gh-pages/media/posts/5/responsive/PremioPaulinha3_Original-2-xl.jpg 1360w ,https://anapaulaappel.github.io/gh-pages/media/posts/5/responsive/PremioPaulinha3_Original-2-2xl.jpg 1600w"  alt="Receiving Award Best Demo" width="640" height="427"></figure></td>
+<td style="width: 50%;"><figure class="post__image"><img loading="lazy"  src="https://anapaulaappel.github.io/apappel/media/posts/5/IMG_4744.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/apappel/media/posts/5/responsive/IMG_4744-xs.png 300w ,https://anapaulaappel.github.io/apappel/media/posts/5/responsive/IMG_4744-sm.png 480w ,https://anapaulaappel.github.io/apappel/media/posts/5/responsive/IMG_4744-md.png 768w ,https://anapaulaappel.github.io/apappel/media/posts/5/responsive/IMG_4744-lg.png 1024w ,https://anapaulaappel.github.io/apappel/media/posts/5/responsive/IMG_4744-xl.png 1360w ,https://anapaulaappel.github.io/apappel/media/posts/5/responsive/IMG_4744-2xl.png 1600w"  alt="Master Inventor Award" width="2365" height="3126"></figure></td>
+<td style="width: 50%;"><figure class="post__image"><img loading="lazy"  src="https://anapaulaappel.github.io/apappel/media/posts/5/PremioPaulinha3_Original-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/apappel/media/posts/5/responsive/PremioPaulinha3_Original-2-xs.jpg 300w ,https://anapaulaappel.github.io/apappel/media/posts/5/responsive/PremioPaulinha3_Original-2-sm.jpg 480w ,https://anapaulaappel.github.io/apappel/media/posts/5/responsive/PremioPaulinha3_Original-2-md.jpg 768w ,https://anapaulaappel.github.io/apappel/media/posts/5/responsive/PremioPaulinha3_Original-2-lg.jpg 1024w ,https://anapaulaappel.github.io/apappel/media/posts/5/responsive/PremioPaulinha3_Original-2-xl.jpg 1360w ,https://anapaulaappel.github.io/apappel/media/posts/5/responsive/PremioPaulinha3_Original-2-2xl.jpg 1600w"  alt="Receiving Award Best Demo" width="640" height="427"></figure></td>
 </tr>
 <tr>
 <td style="width: 50%;">
 <p>Master Inventor - 2016 to 2019</p>
 <p>Achieve a large number of patents filed. </p>
-<p>You can see all my patents granted <a href="https://anapaulaappel.github.io/gh-pages/patents.html">here</a>!</p>
+<p>You can see all my patents granted <a href="https://anapaulaappel.github.io/apappel/patents.html">here</a>!</p>
 </td>
 <td style="width: 50%;">
 <p>Best Demo (Tool) “<em>iDFQL - Uma ferramenta para criação de consultas complexas</em>” in SBBD – Brazilian Symposium on Database System 2004. This was my master degree project</p>
@@ -136,8 +136,8 @@
         <author>
             <name>Ana Paula Appel</name>
         </author>
-        <link href="https://anapaulaappel.github.io/gh-pages/about-me.html"/>
-        <id>https://anapaulaappel.github.io/gh-pages/about-me.html</id>
+        <link href="https://anapaulaappel.github.io/apappel/about-me.html"/>
+        <id>https://anapaulaappel.github.io/apappel/about-me.html</id>
 
         <updated>2021-02-24T09:55:04-03:00</updated>
             <summary>
@@ -167,8 +167,8 @@
         <author>
             <name>Ana Paula Appel</name>
         </author>
-        <link href="https://anapaulaappel.github.io/gh-pages/patents.html"/>
-        <id>https://anapaulaappel.github.io/gh-pages/patents.html</id>
+        <link href="https://anapaulaappel.github.io/apappel/patents.html"/>
+        <id>https://anapaulaappel.github.io/apappel/patents.html</id>
 
         <updated>2021-02-23T10:36:19-03:00</updated>
             <summary>
@@ -178,7 +178,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://anapaulaappel.github.io/gh-pages/media/posts/3/IMG_3984-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/gh-pages/media/posts/3/responsive/IMG_3984-2-xs.png 300w ,https://anapaulaappel.github.io/gh-pages/media/posts/3/responsive/IMG_3984-2-sm.png 480w ,https://anapaulaappel.github.io/gh-pages/media/posts/3/responsive/IMG_3984-2-md.png 768w ,https://anapaulaappel.github.io/gh-pages/media/posts/3/responsive/IMG_3984-2-lg.png 1024w ,https://anapaulaappel.github.io/gh-pages/media/posts/3/responsive/IMG_3984-2-xl.png 1360w ,https://anapaulaappel.github.io/gh-pages/media/posts/3/responsive/IMG_3984-2-2xl.png 1600w"  alt="Patent award certification" width="2314" height="1787"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://anapaulaappel.github.io/apappel/media/posts/3/IMG_3984-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/apappel/media/posts/3/responsive/IMG_3984-2-xs.png 300w ,https://anapaulaappel.github.io/apappel/media/posts/3/responsive/IMG_3984-2-sm.png 480w ,https://anapaulaappel.github.io/apappel/media/posts/3/responsive/IMG_3984-2-md.png 768w ,https://anapaulaappel.github.io/apappel/media/posts/3/responsive/IMG_3984-2-lg.png 1024w ,https://anapaulaappel.github.io/apappel/media/posts/3/responsive/IMG_3984-2-xl.png 1360w ,https://anapaulaappel.github.io/apappel/media/posts/3/responsive/IMG_3984-2-2xl.png 1600w"  alt="Patent award certification" width="2314" height="1787"></figure>
 <p dir="ltr">Patent is a form of intelectual property that gives its owner the legal right to exclude others from making, using or selling an invention for a limited period of years in exchange for publishing an enabling public disclosure of the invention. </p>
 <p dir="ltr">On IBM I have more than 40 patents files and 13 granted. My patents are mostly on Finance, Machine Learning and Graphs.  You can see all my patents granted below.  </p>
 <p dir="ltr">1 - <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">10,614,402 - Human steering dashboard to analyze 360-degree market view for merchants based on financial transactions</a></p>
@@ -202,21 +202,21 @@
         <author>
             <name>Ana Paula Appel</name>
         </author>
-        <link href="https://anapaulaappel.github.io/gh-pages/talks.html"/>
-        <id>https://anapaulaappel.github.io/gh-pages/talks.html</id>
+        <link href="https://anapaulaappel.github.io/apappel/talks.html"/>
+        <id>https://anapaulaappel.github.io/apappel/talks.html</id>
             <category term="Talks"/>
             <category term="Media"/>
 
         <updated>2021-02-23T13:29:32-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://anapaulaappel.github.io/gh-pages/media/posts/2/IMG_6163_Original-2.jpg" alt="" />
+                        <img src="https://anapaulaappel.github.io/apappel/media/posts/2/IMG_6163_Original-2.jpg" alt="" />
                      Here you can find video of my talks, panels, etc. The Roundtable on “Threats and Contributions of AI to Democracy and Society”&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://anapaulaappel.github.io/gh-pages/media/posts/2/IMG_6163_Original-2.jpg" alt="" />
+                    <img src="https://anapaulaappel.github.io/apappel/media/posts/2/IMG_6163_Original-2.jpg" alt="" />
                 <p> </p>
 <p class="msg msg--highlight  msg--info"><strong>Here you can find video of my talks, panels, etc. </strong></p>
 <hr>
@@ -355,21 +355,21 @@
         <author>
             <name>Ana Paula Appel</name>
         </author>
-        <link href="https://anapaulaappel.github.io/gh-pages/interviews.html"/>
-        <id>https://anapaulaappel.github.io/gh-pages/interviews.html</id>
+        <link href="https://anapaulaappel.github.io/apappel/interviews.html"/>
+        <id>https://anapaulaappel.github.io/apappel/interviews.html</id>
             <category term="Media"/>
             <category term="Interviews"/>
 
         <updated>2021-02-23T14:24:51-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://anapaulaappel.github.io/gh-pages/media/posts/1/Ana-2.jpg" alt="" />
+                        <img src="https://anapaulaappel.github.io/apappel/media/posts/1/Ana-2.jpg" alt="" />
                     Here you will find all the links from my interviews to magazines, news, etc. Participação Podcast SyngularityU - Bias Entrevista Exame 5 em 5&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://anapaulaappel.github.io/gh-pages/media/posts/1/Ana-2.jpg" alt="" />
+                    <img src="https://anapaulaappel.github.io/apappel/media/posts/1/Ana-2.jpg" alt="" />
                 <h2 class="msg msg--highlight ">Here you will find all the links from my interviews to magazines, news, etc. </h2>
 <ul>
 <li dir="ltr" aria-level="1">
