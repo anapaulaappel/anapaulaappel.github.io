@@ -3,7 +3,7 @@
     <title>Ana Paula Appel</title>
     <link href="https://anapaulaappel.github.io/feed.xml" rel="self" />
     <link href="https://anapaulaappel.github.io" />
-    <updated>2021-02-24T09:55:04-03:00</updated>
+    <updated>2021-02-24T14:32:56-03:00</updated>
     <author>
         <name>Ana Paula Appel</name>
     </author>
@@ -139,16 +139,19 @@
         <link href="https://anapaulaappel.github.io/about-me/"/>
         <id>https://anapaulaappel.github.io/about-me/</id>
 
-        <updated>2021-02-24T09:55:04-03:00</updated>
+        <updated>2021-02-24T14:18:02-03:00</updated>
             <summary>
                 <![CDATA[
-                     Federal University of São Carlos – Brazil University of São Paulo at São Carlos – Brazil Carnegie Mellon University - US (2008)&hellip;
+                    I am a Senior Data Scientist at IBM Research. My interests include machine learning, graph mining and learning, data preprocessing, and databases. My&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p> </p>
-<h2>Education  </h2>
+                <p class="p1">I am a Senior Data Scientist at IBM Research. My interests include machine learning, graph mining and learning, data preprocessing, and databases. My current research focus is on machine learning on graphs for finance.<span class="Apple-converted-space"> </span></p>
+<p class="p1">I am also passionate about innovation and for that, I have been working in patents for the last 9 years. I am also advocating for Women in STEM and I have been leading initiatives inside and outside IBM Brazil as WIDS (women in data science) workshop at The WebConference and this year I will be a Stanford Ambassador for WIDS.</p>
+<p class="p1">I also a member of the committee from PKDD, DSAA, Data Mining Journal, etc.<span class="Apple-converted-space"> </span></p>
+<p class="p1">Before I joined IBM Research I worked as a professor in academia, at the University of São Paulo, Federal University of São Carlos, and Federal University of Espirito Santo teaching Data Mining, Database, and Computer Programming.<span class="Apple-converted-space"> </span></p>
+<p><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.60181em; font-weight: var(--font-weight-bold); letter-spacing: -0.03rem;">Education  </span></p>
 <h5 dir="ltr">🎓 Post – Doc in Computer Science (2011)</h5>
 <p dir="ltr">Federal University of São Carlos – Brazil</p>
 <h5 dir="ltr">🎓 Ph. D. in Computer Science (2010)</h5>
@@ -207,7 +210,7 @@
             <category term="Talks"/>
             <category term="Media"/>
 
-        <updated>2021-02-23T13:29:32-03:00</updated>
+        <updated>2021-02-24T14:31:12-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://anapaulaappel.github.io/media/posts/2/IMG_6163_Original-2.jpg" alt="" />
@@ -220,16 +223,15 @@
                 <p> </p>
 <p class="msg msg--highlight  msg--info"><strong>Here you can find video of my talks, panels, etc. </strong></p>
 <hr>
-<table style="border-collapse: collapse; width: 100%; height: 588px;" border="0">
+<table style="border-collapse: collapse; width: 100%; height: 447px;" border="0">
 <tbody>
 <tr style="height: 415px;">
-<td style="width: 716px; height: 151px;">
+<td style="width: 716px; height: 10px;">
 <h1 class="title style-scope ytd-video-primary-info-renderer">Threats and Contributions of AI to Democracy and Society - ROUNDTABLE</h1>
 </td>
 </tr>
 <tr style="height: 50px;">
 <td style="width: 716px; height: 10px;">
-<p> </p>
 <table style="border-collapse: collapse; width: 90.8837%; height: 238px;" border="0">
 <tbody>
 <tr style="height: 415px;">
@@ -248,7 +250,25 @@
 </tr>
 </tbody>
 </table>
-<p> </p>
+<hr>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%;"><span class="d2edcug0 hpfvmrgz qv66sw1b c1et5uql oi732d6d ik7dh3pa fgxwclzu a8c37x1j keod5gw0 nxhoafnm aigsh9s9 d9wwppkn fe6kdd0r mau55g9w c8b282yb mdeji52x a5q79mjw g1cxx5fr lrazzd5p oo9gr5id" dir="auto">O estímulo à inovação de Ana Paula Appel</span></td>
+</tr>
+<tr>
+<td style="width: 100%;">
+<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls">
+<source src="https://twitter.com/i/status/1207078268437815297" /></video></figure>
+</td>
+</tr>
+<tr>
+<td style="width: 100%;">
+<div class="buofh1pr owomucta n1l5q3vz cxmmr5t8 enqfppq2 hcukyx3x hihg3u9x ggxiycxj qv66sw1b"><span class="d2edcug0 hpfvmrgz qv66sw1b c1et5uql oi732d6d ik7dh3pa fgxwclzu a8c37x1j keod5gw0 nxhoafnm aigsh9s9 d9wwppkn fe6kdd0r mau55g9w c8b282yb mdeji52x e9vueds3 j5wam9gi knj5qynh m9osqain" dir="auto">Ana Paula Appel é cientista de dados na IBM Brasil e, desde 2018, é a única Master Inventor brasileira – ou seja, uma pessoa que registra um grande número de patentes. Ela usou toda sua experiência para inspirar outras mulheres e criou uma iniciativa que as estimula a registrarem formalmente suas ideias de inovação.</span></div>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
@@ -360,11 +380,11 @@
             <category term="Media"/>
             <category term="Interviews"/>
 
-        <updated>2021-02-23T14:24:51-03:00</updated>
+        <updated>2021-02-24T14:32:56-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://anapaulaappel.github.io/media/posts/1/Ana-2.jpg" alt="" />
-                    Here you will find all the links from my interviews to magazines, news, etc. Participação Podcast SyngularityU - Bias Entrevista Exame 5 em 5&hellip;
+                    Here you will find all the links from my interviews to magazines, news, etc. Especialistas analisam potencial transformador da Inteligência ArtificialParticipação Podcast SyngularityU -&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -372,8 +392,9 @@
                     <img src="https://anapaulaappel.github.io/media/posts/1/Ana-2.jpg" alt="" />
                 <h2 class="msg msg--highlight ">Here you will find all the links from my interviews to magazines, news, etc. </h2>
 <ul>
+<li dir="ltr" aria-level="1"><a href="https://ufmg.br/comunicacao/noticias/especialistas-analisam-potencial-transformador-da-inteligencia-artificial">Especialistas analisam potencial transformador da Inteligência Artificial</a></li>
 <li dir="ltr" aria-level="1">
-<p dir="ltr" role="presentation"><a href="https://open.spotify.com/episode/33CON7QDJjyeNKFScUTHWJ?si=3uU0gAQyTJCa34yVsumz2Q&amp;nd=1">Participação Podcast SyngularityU - Bias</a></p>
+<p dir="ltr" role="presentation"><a href="https://open.spotify.com/episode/33CON7QDJjyeNKFScUTHWJ?si=3uU0gAQyTJCa34yVsumz2Q&amp;nd=1">Participação Podcast SyngularityU - Bias (podcast)</a></p>
 </li>
 <li dir="ltr" aria-level="1">
 <p dir="ltr" role="presentation"><a href="https://exame.com/inovacao/como-2020-alterou-as-previsoes-da-ibm-para-os-proximos-5-anos/">Entrevista Exame 5 em 5 de 2020</a></p>
@@ -388,16 +409,16 @@
 <p dir="ltr" role="presentation"><a href="#INTERNAL_LINK#/post/null" title="https://www.tecmundo.com.br/mercado/135942-cientista-dados-inteligencia-ibm.htm">O que faz um cientista de dados?</a></p>
 </li>
 <li dir="ltr" aria-level="1">
-<p dir="ltr" role="presentation"><a href="https://www.ibm.com/blogs/think/2019/09/ibms-first-certified-data-scientists-its-amazing/">IBM First Data Science Certified</a></p>
+<p dir="ltr" role="presentation"><a href="https://www.ibm.com/blogs/think/2019/09/ibms-first-certified-data-scientists-its-amazing/">IBM First Data Science Certified (Inglês)</a></p>
 </li>
 <li dir="ltr" aria-level="1">
 <p dir="ltr" role="presentation"><a href="http://datascienceacademy.com.br/blog/ibm-certifica-140-cientistas-de-dados-para-o-desenvolvimento-de-ia/">IBM Certifica 140 Cientistas de Dados Para o Desenvolvimento de IA</a></p>
 </li>
 <li dir="ltr" aria-level="1">
-<p dir="ltr" role="presentation"><a href="https://www.techrepublic.com/article/ibm-certifies-a-much-needed-140-data-scientists-for-ai-development/">IBM certifies a much-needed 140 data scientists for AI development</a></p>
+<p dir="ltr" role="presentation"><a href="https://www.techrepublic.com/article/ibm-certifies-a-much-needed-140-data-scientists-for-ai-development/">IBM certifies a much-needed 140 data scientists for AI development (Inglês)</a></p>
 </li>
 <li dir="ltr" aria-level="1">
-<p dir="ltr" role="presentation"><a href="https://www.datanami.com/2019/09/26/ibm-and-the-open-groups-data-scientist-certification-has-its-first-recipients/">IBM and The Open Group’s Data Scientist Certification Has Its First Recipients</a></p>
+<p dir="ltr" role="presentation"><a href="https://www.datanami.com/2019/09/26/ibm-and-the-open-groups-data-scientist-certification-has-its-first-recipients/">IBM and The Open Group’s Data Scientist Certification Has Its First Recipients (Inglês)</a></p>
 </li>
 <li dir="ltr" aria-level="1">
 <p dir="ltr" role="presentation"><a href="https://medium.com/just-a-little-data/just-entrevista-ana-paula-appel-ibm-research-1c9a2fbb97ae">Just Entrevista — Ana Paula Appel, IBM Research</a></p>
@@ -412,7 +433,7 @@
 <p dir="ltr" role="presentation"><a href="https://twitter.com/revistatpm/status/1207078268437815297?s=21">TPM - Mulheres em Tecnologia</a></p>
 </li>
 <li dir="ltr" aria-level="1">
-<p dir="ltr" role="presentation"><a href="https://www.canal-ar.com.ar/28356-Mujeres-en-el-aprendizaje-automatico.html">Mujeres en el aprendizaje automático</a></p>
+<p dir="ltr" role="presentation"><a href="https://www.canal-ar.com.ar/28356-Mujeres-en-el-aprendizaje-automatico.html">Mujeres en el aprendizaje automático (Espanhol)</a></p>
 </li>
 <li dir="ltr" aria-level="1">
 <p dir="ltr" role="presentation"><a href="https://www.hypeness.com.br/2020/02/em-mais-de-100-anos-apenas-17-mulheres-receberam-o-nobel-frente-a-572-homens/">Em mais de 100 anos apenas 17 mulheres receberam o Nobel frente a 572 homens </a></p>
