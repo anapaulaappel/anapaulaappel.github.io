@@ -12,35 +12,41 @@
         {
             "id": "https://anapaulaappel.github.io/temporal-graph-embedding/",
             "url": "https://anapaulaappel.github.io/temporal-graph-embedding/",
-            "title": "Temporal Graph Embedding ",
-            "summary": " ",
-            "content_html": "\n  <p>\n    \n  </p>",
+            "title": " Temporally Evolving Community Detection and Prediction in HeterogeneousNetworks",
+            "summary": " We focus the problem of combining link, content and temporal analysis for community detection and prediction in evolving networks. Such temporal and&hellip;",
+            "content_html": "\n  <p>\n    We focus the problem of combining link, content and temporal analysis for community detection and prediction in evolving networks. Such temporal and content-rich networks occur in many real-life settings, such as bibliographic networks and question answering forums.  <br><br>We propose Chimera, a shared factorization model that can simultaneously account for graph links, content, and temporal analysis.  <br><br>We assume we have T graphs G1 ...GT that form a time- series. The graphs are defined over a fixed set of nodes N of cardinality n. In each timestamp, a different set of edges may exist over time.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://anapaulaappel.github.io/media/posts/8/chimera-3.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://anapaulaappel.github.io/media/posts/8/responsive/chimera-3-xs.png 300w ,https://anapaulaappel.github.io/media/posts/8/responsive/chimera-3-sm.png 480w ,https://anapaulaappel.github.io/media/posts/8/responsive/chimera-3-md.png 768w ,https://anapaulaappel.github.io/media/posts/8/responsive/chimera-3-lg.png 1024w ,https://anapaulaappel.github.io/media/posts/8/responsive/chimera-3-xl.png 1360w ,https://anapaulaappel.github.io/media/posts/8/responsive/chimera-3-2xl.png 1600w\"  height=\"436\" width=\"586\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    We assume that for each timestamp t, we have an n × d content matrix Ct. Ct contains one row for each node, and each row contains d attribute values representing the content for that node at the tth timestamp. <br><br>Therefore, one can fully represent the content and structural pair at the tth timestamp with the triplet (N, At, Ct).  <br><br>The optimization model for converting the temporal sequences of graphs and content to a multidimensional time-series is based on non-negative matrix factorization framework. Although the non-negativity is not essential, one advantage is that it leads to a more interpretable analysis. <br><br>The matrix Ut is an n x k matrix, which is specific to each timestamp t. Each row of the matrix Ut describes the k-dimensional latent factors of the corresponding node at timestamp t, while taking into account both the structural and content information.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://anapaulaappel.github.io/media/posts/8/formulachimera-2.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://anapaulaappel.github.io/media/posts/8/responsive/formulachimera-2-xs.png 300w ,https://anapaulaappel.github.io/media/posts/8/responsive/formulachimera-2-sm.png 480w ,https://anapaulaappel.github.io/media/posts/8/responsive/formulachimera-2-md.png 768w ,https://anapaulaappel.github.io/media/posts/8/responsive/formulachimera-2-lg.png 1024w ,https://anapaulaappel.github.io/media/posts/8/responsive/formulachimera-2-xl.png 1360w ,https://anapaulaappel.github.io/media/posts/8/responsive/formulachimera-2-2xl.png 1600w\"  height=\"628\" width=\"1290\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    To achieve this goal, we use a three sets of latent factor matrices in a shared factorization process, which is able to combine content and structure in a holistic way:&nbsp;\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://anapaulaappel.github.io/media/posts/8/experiments.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://anapaulaappel.github.io/media/posts/8/responsive/experiments-xs.png 300w ,https://anapaulaappel.github.io/media/posts/8/responsive/experiments-sm.png 480w ,https://anapaulaappel.github.io/media/posts/8/responsive/experiments-md.png 768w ,https://anapaulaappel.github.io/media/posts/8/responsive/experiments-lg.png 1024w ,https://anapaulaappel.github.io/media/posts/8/responsive/experiments-xl.png 1360w ,https://anapaulaappel.github.io/media/posts/8/responsive/experiments-2xl.png 1600w\"  height=\"414\" width=\"1358\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    The experimental results illustrate the effectiveness of Chimera, since it outperforms the baseline methods. Our experiments also show that the prediction is efficient in using embeddings to predict near future communities, which opens a vast array of new possibilities for exploration. <br><br> Chimera a novel shared factorization overtime model that can simultaneously take the link, content, and temporal information of networks into account improving over the state-of-the- art approaches for community detection. Chimera model and solve community detection in efficient time.  <br><br>Our experiments also show that the prediction is efficient in using embeddings to predict near future communities, which opens a vast array of new possibilities for exploration.&nbsp;&nbsp;\n  </p>\n\n  <p>\n    This paper was published on PKDD 2018:&nbsp;\n  </p>\n\n  <p>\n    Ana Paula Appel, Renato Luiz de Freitas Cunha, Charu C. Aggarwal, Marcela Megumi Terakado:<br><a href=\"https://link.springer.com/chapter/10.1007%2F978-3-030-10928-8_1\">Temporally Evolving Community Detection and Prediction in Content-Centric Networks.</a> ECML/PKDD (2) 2018: 3-18\n  </p>\n\n  <p>\n    And also in Arxiv:&nbsp;\n  </p>\n\n  <p>\n    Ana Paula Appel, Renato Luiz de Freitas Cunha, Charu C. Aggarwal, Marcela Megumi Terakado:<br><a href=\"https://arxiv.org/abs/1807.06560\">Temporally Evolving Community Detection and Prediction in Content-Centric Networks</a>. CoRR abs/1807.06560 (2018)\n  </p>",
             "author": {
                 "name": "Ana Paula Appel"
             },
             "tags": [
+                   "Temporal Embedding Graph Learning",
+                   "Projects"
             ],
             "date_published": "2021-02-23T13:34:19-03:00",
-            "date_modified": "2021-02-23T13:34:19-03:00"
+            "date_modified": "2021-02-24T15:57:02-03:00"
         },
         {
             "id": "https://anapaulaappel.github.io/machine-learning-in-finance/",
             "url": "https://anapaulaappel.github.io/machine-learning-in-finance/",
             "title": "Machine Learning In Finance",
-            "summary": " ",
-            "content_html": "\n  <p>\n    \n  </p>",
+            "summary": " Ana Paula Appel, Gabriel Louzada Malfatti, Renato Luiz de Freitas Cunha, Bruno Lima, Rogério de Paula: Predicting Account Receivables with Machine Learning.",
+            "content_html": "\n  <p>\n    \n  </p>\n\n  <p>\n    \n  </p>\n\n    <h2 id=\"publications\">\n      Publications\n    </h2>\n\n  <p>\n    Ana Paula Appel, Gabriel Louzada Malfatti, Renato Luiz de Freitas Cunha, Bruno Lima, Rogério de Paula: Predicting Account Receivables with Machine Learning. CoRR abs/2008.07363 (2020)\n  </p>\n\n  <p>\n    Ana Paula Appel, Victor Oliveira, Bruno Lima, Gabriel Louzada Malfatti, Vagner Figueredo de Santana, Rogério de Paula: Optimize Cash Collection: Use Machine learning to Predicting Invoice Payment. CoRR abs/1912.10828 (2019)\n  </p>\n\n  <p>\n    \n  </p>",
             "author": {
                 "name": "Ana Paula Appel"
             },
             "tags": [
+                   "Projects",
+                   "Machine Learning Finance"
             ],
             "date_published": "2021-02-23T13:34:03-03:00",
-            "date_modified": "2021-02-23T13:34:03-03:00"
+            "date_modified": "2021-02-24T16:04:26-03:00"
         },
         {
             "id": "https://anapaulaappel.github.io/projects/",
             "url": "https://anapaulaappel.github.io/projects/",
             "title": "Health Insurance Using Graphs",
+            "summary": " PublicationVagner Figueredo de Santana, Ana Paula Appel, Luis Gregorio Moyano, Márcia Ito, Claudio Santos Pinhanez: Revealing Physicians Referrals from Health Insurance Claims Data.",
+            "content_html": "<p> </p>\n<h3>Publication</h3>\n<ul>\n<li><cite class=\"data\"><span title=\"Vagner Figueredo de Santana\">Vagner Figueredo de Santana</span>, <span class=\"this-person\">Ana Paula Appel</span>, <span title=\"Luis Gregorio Moyano\">Luis Gregorio Moyano</span>, <span title=\"Márcia Ito\">Márcia Ito</span>, <span title=\"Claudio Santos Pinhanez\">Claudio Santos Pinhanez</span>: <span class=\"title\"><a href=\"https://www.sciencedirect.com/science/article/abs/pii/S2214579617302952?via%3Dihub\">Revealing Physicians Referrals from Health Insurance Claims Data.</a></span> Big Data Res. 13: 3-10 (2018)</cite></li>\n<li><cite class=\"data\"><span class=\"this-person\">Ana Paula Appel</span>, <span title=\"Vagner Figuerêdo de Santana\">Vagner Figueredo de Santana</span>, <span title=\"Luis Gregorio Moyano\">Luis Gregorio Moyano</span>, <span title=\"Márcia Ito\">Márcia Ito</span>, <span title=\"Claudio Santos Pinhanez\">Claudio Santos Pinhanez</span>: <span class=\"title\"><a href=\"https://arxiv.org/abs/1802.07116\">A Social Network Analysis Framework for Modeling Health Insurance Claims Data.</a></span> CoRR abs/1802.07116 (2018)</cite></li>\n<li><cite class=\"data\"><span title=\"Márcia Ito\">Márcia Ito</span>, <span class=\"this-person\">Ana Paula Appel</span>, <span title=\"Vagner Figueredo de Santana\">Vagner Figueredo de Santana</span>, <span title=\"Luis Gregorio Moyano\">Luis Gregorio Moyano</span>:<br><span class=\"title\"><a href=\"http://ebooks.iospress.nl/publication/48180\">Analysis of the Existence of Patient Care Team Using Social Network Methods in Physician Communities from Healthcare Insurance Companies</a>.</span> MedInfo 2017: 412-416</cite></li>\n<li><cite class=\"data\"><span title=\"Luis Gregorio Moyano\">Luis Gregorio Moyano</span>, <span class=\"this-person\">Ana Paula Appel</span>, <span title=\"Vagner Figuerêdo de Santana\">Vagner Figueredo de Santana</span>, <span title=\"Márcia Ito\">Márcia Ito</span>, <span title=\"Thiago Donizetti dos Santos\">Thiago Donizetti dos Santos</span>: <span class=\"title\"><a href=\"https://dl.acm.org/doi/10.1145/2872518.2890544\">GraPhys: Understanding Health Care Insurance Data through Graph Analytics</a>.</span> WWW (Companion Volume) 2016: 227-230</cite></li>\n</ul>",
             "image": "https://anapaulaappel.github.io/media/posts/6/caduceus.png",
             "author": {
                 "name": "Ana Paula Appel"
@@ -50,7 +56,7 @@
                    "Health Insurance"
             ],
             "date_published": "2021-02-23T12:50:51-03:00",
-            "date_modified": "2021-02-23T13:35:50-03:00"
+            "date_modified": "2021-02-24T15:46:42-03:00"
         },
         {
             "id": "https://anapaulaappel.github.io/award/",
