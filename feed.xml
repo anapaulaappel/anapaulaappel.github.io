@@ -3,122 +3,88 @@
     <title>Ana Paula Appel</title>
     <link href="https://anapaulaappel.github.io/feed.xml" rel="self" />
     <link href="https://anapaulaappel.github.io" />
-    <updated>2021-02-24T19:49:58-03:00</updated>
+    <updated>2021-02-27T15:10:31-03:00</updated>
     <author>
         <name>Ana Paula Appel</name>
     </author>
     <id>https://anapaulaappel.github.io</id>
 
     <entry>
-        <title> Temporally Evolving Community Detection and Prediction in Heterogeneous Networks</title>
-        <author>
-            <name>Ana Paula Appel</name>
-        </author>
-        <link href="https://anapaulaappel.github.io/temporal-graph-embedding/"/>
-        <id>https://anapaulaappel.github.io/temporal-graph-embedding/</id>
-            <category term="Temporal Embedding Graph Learning"/>
-            <category term="Projects"/>
-
-        <updated>2021-02-24T19:49:58-03:00</updated>
-            <summary>
-                <![CDATA[
-                     We focus the problem of combining link, content and temporal analysis for community detection and prediction in evolving networks. Such temporal and&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    We focus the problem of combining link, content and temporal analysis for community detection and prediction in evolving networks. Such temporal and content-rich networks occur in many real-life settings, such as bibliographic networks and question answering forums.  <br><br>We propose Chimera, a shared factorization model that can simultaneously account for graph links, content, and temporal analysis.  <br><br>We assume we have T graphs G1 ...GT that form a time- series. The graphs are defined over a fixed set of nodes N of cardinality n. In each timestamp, a different set of edges may exist over time.
-  </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://anapaulaappel.github.io/media/posts/8/chimera-3.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/media/posts/8/responsive/chimera-3-xs.png 300w ,https://anapaulaappel.github.io/media/posts/8/responsive/chimera-3-sm.png 480w ,https://anapaulaappel.github.io/media/posts/8/responsive/chimera-3-md.png 768w ,https://anapaulaappel.github.io/media/posts/8/responsive/chimera-3-lg.png 1024w ,https://anapaulaappel.github.io/media/posts/8/responsive/chimera-3-xl.png 1360w ,https://anapaulaappel.github.io/media/posts/8/responsive/chimera-3-2xl.png 1600w"  height="436" width="586" alt="" />
-      
-    </figure>
-
-  <p>
-    We assume that for each timestamp t, we have an n × d content matrix Ct. Ct contains one row for each node, and each row contains d attribute values representing the content for that node at the tth timestamp. <br><br>Therefore, one can fully represent the content and structural pair at the tth timestamp with the triplet (N, At, Ct).  <br><br>The optimization model for converting the temporal sequences of graphs and content to a multidimensional time-series is based on non-negative matrix factorization framework. Although the non-negativity is not essential, one advantage is that it leads to a more interpretable analysis. <br><br>The matrix Ut is an n x k matrix, which is specific to each timestamp t. Each row of the matrix Ut describes the k-dimensional latent factors of the corresponding node at timestamp t, while taking into account both the structural and content information.
-  </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://anapaulaappel.github.io/media/posts/8/formulachimera-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/media/posts/8/responsive/formulachimera-2-xs.png 300w ,https://anapaulaappel.github.io/media/posts/8/responsive/formulachimera-2-sm.png 480w ,https://anapaulaappel.github.io/media/posts/8/responsive/formulachimera-2-md.png 768w ,https://anapaulaappel.github.io/media/posts/8/responsive/formulachimera-2-lg.png 1024w ,https://anapaulaappel.github.io/media/posts/8/responsive/formulachimera-2-xl.png 1360w ,https://anapaulaappel.github.io/media/posts/8/responsive/formulachimera-2-2xl.png 1600w"  height="628" width="1290" alt="" />
-      
-    </figure>
-
-  <p>
-    To achieve this goal, we use a three sets of latent factor matrices in a shared factorization process, which is able to combine content and structure in a holistic way:&nbsp;
-  </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://anapaulaappel.github.io/media/posts/8/experiments.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/media/posts/8/responsive/experiments-xs.png 300w ,https://anapaulaappel.github.io/media/posts/8/responsive/experiments-sm.png 480w ,https://anapaulaappel.github.io/media/posts/8/responsive/experiments-md.png 768w ,https://anapaulaappel.github.io/media/posts/8/responsive/experiments-lg.png 1024w ,https://anapaulaappel.github.io/media/posts/8/responsive/experiments-xl.png 1360w ,https://anapaulaappel.github.io/media/posts/8/responsive/experiments-2xl.png 1600w"  height="414" width="1358" alt="" />
-      
-    </figure>
-
-  <p>
-    The experimental results illustrate the effectiveness of Chimera, since it outperforms the baseline methods. Our experiments also show that the prediction is efficient in using embeddings to predict near future communities, which opens a vast array of new possibilities for exploration. <br><br> Chimera a novel shared factorization overtime model that can simultaneously take the link, content, and temporal information of networks into account improving over the state-of-the- art approaches for community detection. Chimera model and solve community detection in efficient time.  <br><br>Our experiments also show that the prediction is efficient in using embeddings to predict near future communities, which opens a vast array of new possibilities for exploration.&nbsp;&nbsp;
-  </p>
-
-  <p>
-    This paper was published on PKDD 2018:&nbsp;
-  </p>
-
-  <p>
-    Ana Paula Appel, Renato Luiz de Freitas Cunha, Charu C. Aggarwal, Marcela Megumi Terakado:<br><a href="https://link.springer.com/chapter/10.1007%2F978-3-030-10928-8_1">Temporally Evolving Community Detection and Prediction in Content-Centric Networks.</a> ECML/PKDD (2) 2018: 3-18
-  </p>
-
-  <p>
-    And also in Arxiv:&nbsp;
-  </p>
-
-  <p>
-    Ana Paula Appel, Renato Luiz de Freitas Cunha, Charu C. Aggarwal, Marcela Megumi Terakado:<br><a href="https://arxiv.org/abs/1807.06560">Temporally Evolving Community Detection and Prediction in Content-Centric Networks</a>. CoRR abs/1807.06560 (2018)
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Predicting Account Receivables with Machine Learning</title>
         <author>
             <name>Ana Paula Appel</name>
         </author>
-        <link href="https://anapaulaappel.github.io/machine-learning-in-finance/"/>
-        <id>https://anapaulaappel.github.io/machine-learning-in-finance/</id>
-            <category term="Projects"/>
-            <category term="Machine Learning Finance"/>
+        <link href="https://anapaulaappel.github.io/predicting-account-receivables-with-machine-learning/"/>
+        <id>https://anapaulaappel.github.io/predicting-account-receivables-with-machine-learning/</id>
 
-        <updated>2021-02-24T17:20:26-03:00</updated>
+        <updated>2021-02-27T15:10:31-03:00</updated>
             <summary>
                 <![CDATA[
-                     Ana Paula Appel, Gabriel Louzada Malfatti, Renato Luiz de Freitas Cunha, Bruno Lima, Rogério de Paula: Predicting Account Receivables with Machine Learning.
+                    This project was certified by IBM Data Science BoardPresentation at KDD 2020 Workshop Machine learning in Finance PublicationsAna Paula Appel, Gabriel Louzada Malfatti, Renato&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                
-  <p>
-    
-  </p>
+                <figure class="post__image post__image--center" ><img loading="lazy" src="https://anapaulaappel.github.io/media/posts/10/projectbadge3.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/media/posts/10/responsive/projectbadge3-xs.png 300w ,https://anapaulaappel.github.io/media/posts/10/responsive/projectbadge3-sm.png 480w ,https://anapaulaappel.github.io/media/posts/10/responsive/projectbadge3-md.png 768w ,https://anapaulaappel.github.io/media/posts/10/responsive/projectbadge3-lg.png 1024w ,https://anapaulaappel.github.io/media/posts/10/responsive/projectbadge3-xl.png 1360w ,https://anapaulaappel.github.io/media/posts/10/responsive/projectbadge3-2xl.png 1600w"  alt="" width="150" height="150">
+<figcaption >This project was certified by IBM Data Science Board</figcaption>
+</figure>
+<table style="border-collapse: collapse; width: 100%; height: 490px;" border="1">
+<tbody>
+<tr style="height: 413px;">
+<td style="width: 100%; height: 413px;">
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/gj_XqF4wjzc" allowfullscreen="allowfullscreen"></iframe></figure>
+</td>
+</tr>
+<tr style="height: 77px;">
+<td style="width: 100%; height: 77px;">
+<h4 class="align-center">Presentation at KDD 2020 Workshop Machine learning in Finance</h4>
+</td>
+</tr>
+</tbody>
+</table>
+<h2> </h2>
+<h2>Publications</h2>
+<p><cite class="data"><span class="this-person">Ana Paula Appel</span>, <span title="Gabriel Louzada Malfatti">Gabriel Louzada Malfatti</span>, <span title="Renato Luiz de Freitas Cunha">Renato Luiz de Freitas Cunha</span>, <span title="Bruno Lima">Bruno Lima</span>, <a href="https://dblp.org/pid/130/2269.html" itemprop="url"><span title="Rogério de Paula">Rogério de Paula</span></a>: <span class="title">Predicting Account Receivables with Machine Learning.</span> <a href="https://dblp.org/db/journals/corr/corr2008.html#abs-2008-07363">CoRR abs/2008.07363</a> (2020)</cite></p>
+<p><cite class="data"><span class="this-person">Ana Paula Appel</span>, <span title="Victor Oliveira">Victor Oliveira</span>, <span title="Bruno Lima">Bruno Lima</span>, <span title="Gabriel Louzada Malfatti">Gabriel Louzada Malfatti</span>, <span title="Vagner Figueredo de Santana">Vagner Figueredo de Santana</span>, <span title="Rogério de Paula">Rogério de Paula</span>: <span class="title">Optimize Cash Collection: Use Machine learning to Predicting Invoice Payment.</span> <a href="https://dblp.org/db/journals/corr/corr1912.html#abs-1912-10828">CoRR abs/1912.10828</a> (2019)</cite></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Temporally Evolving Community Detection and Prediction in Heterogeneous Networks</title>
+        <author>
+            <name>Ana Paula Appel</name>
+        </author>
+        <link href="https://anapaulaappel.github.io/temporally-evolving-community-detection-and-prediction-in-heterogeneous-networks/"/>
+        <id>https://anapaulaappel.github.io/temporally-evolving-community-detection-and-prediction-in-heterogeneous-networks/</id>
+            <category term="Temporal Embedding Graph Learning"/>
+            <category term="Projects"/>
 
-  <p>
-    
-  </p>
-
-    <h2 id="publications">
-      Publications
-    </h2>
-
-  <p>
-    Ana Paula Appel, Gabriel Louzada Malfatti, Renato Luiz de Freitas Cunha, Bruno Lima, Rogério de Paula: Predicting Account Receivables with Machine Learning. CoRR abs/2008.07363 (2020)
-  </p>
-
-  <p>
-    Ana Paula Appel, Victor Oliveira, Bruno Lima, Gabriel Louzada Malfatti, Vagner Figueredo de Santana, Rogério de Paula: Optimize Cash Collection: Use Machine learning to Predicting Invoice Payment. CoRR abs/1912.10828 (2019)
-  </p>
-
-  <p>
-    
-  </p>
+        <updated>2021-02-24T20:50:21-03:00</updated>
+            <summary>
+                <![CDATA[
+                    This project was Certified by IBM Data Science Board We focus the problem of combining link, content and temporal analysis for community detection&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--center" ><img loading="lazy" style="font-size: 17.9294px; outline: 3px solid rgba(var(--primary-color-rgb), 0.55)  !important;" src="https://anapaulaappel.github.io/media/posts/9/projectbadge2-3.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/media/posts/9/responsive/projectbadge2-3-xs.png 300w ,https://anapaulaappel.github.io/media/posts/9/responsive/projectbadge2-3-sm.png 480w ,https://anapaulaappel.github.io/media/posts/9/responsive/projectbadge2-3-md.png 768w ,https://anapaulaappel.github.io/media/posts/9/responsive/projectbadge2-3-lg.png 1024w ,https://anapaulaappel.github.io/media/posts/9/responsive/projectbadge2-3-xl.png 1360w ,https://anapaulaappel.github.io/media/posts/9/responsive/projectbadge2-3-2xl.png 1600w"  alt="" width="150" height="150">
+<figcaption >
+<p class="align-center">This project was Certified by IBM Data Science Board </p>
+</figcaption>
+</figure>
+<p>We focus the problem of combining link, content and temporal analysis for community detection and prediction in evolving networks. Such temporal and content-rich networks occur in many real-life settings, such as bibliographic networks and question answering forums. <br><br>We propose Chimera, a shared factorization model that can simultaneously account for graph links, content, and temporal analysis. <br><br>We assume we have T graphs G1 ...GT that form a time- series. The graphs are defined over a fixed set of nodes N of cardinality n. In each timestamp, a different set of edges may exist over time.</p>
+<figure class="post__image align-center"><img loading="lazy"  src="https://anapaulaappel.github.io/media/posts/9/chimera.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/media/posts/9/responsive/chimera-xs.png 300w ,https://anapaulaappel.github.io/media/posts/9/responsive/chimera-sm.png 480w ,https://anapaulaappel.github.io/media/posts/9/responsive/chimera-md.png 768w ,https://anapaulaappel.github.io/media/posts/9/responsive/chimera-lg.png 1024w ,https://anapaulaappel.github.io/media/posts/9/responsive/chimera-xl.png 1360w ,https://anapaulaappel.github.io/media/posts/9/responsive/chimera-2xl.png 1600w"  alt="" width="433" height="322"></figure>
+<p>We assume that for each timestamp t, we have an n × d content matrix Ct. Ct contains one row for each node, and each row contains d attribute values representing the content for that node at the tth timestamp. <br><br>Therefore, one can fully represent the content and structural pair at the tth timestamp with the triplet (N, At, Ct). <br><br>The optimization model for converting the temporal sequences of graphs and content to a multidimensional time-series is based on non-negative matrix factorization framework. Although the non-negativity is not essential, one advantage is that it leads to a more interpretable analysis. <br><br>The matrix Ut is an n x k matrix, which is specific to each timestamp t. Each row of the matrix Ut describes the k-dimensional latent factors of the corresponding node at timestamp t, while taking into account both the structural and content information.</p>
+<figure class="post__image"><img loading="lazy"  src="https://anapaulaappel.github.io/media/posts/9/formulachimera-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/media/posts/9/responsive/formulachimera-2-xs.png 300w ,https://anapaulaappel.github.io/media/posts/9/responsive/formulachimera-2-sm.png 480w ,https://anapaulaappel.github.io/media/posts/9/responsive/formulachimera-2-md.png 768w ,https://anapaulaappel.github.io/media/posts/9/responsive/formulachimera-2-lg.png 1024w ,https://anapaulaappel.github.io/media/posts/9/responsive/formulachimera-2-xl.png 1360w ,https://anapaulaappel.github.io/media/posts/9/responsive/formulachimera-2-2xl.png 1600w"  alt="" width="405" height="197"></figure>
+<p>To achieve this goal, we use a three sets of latent factor matrices in a shared factorization process, which is able to combine content and structure in a holistic way: </p>
+<figure class="post__image"><img loading="lazy"  src="https://anapaulaappel.github.io/media/posts/9/experiments.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/media/posts/9/responsive/experiments-xs.png 300w ,https://anapaulaappel.github.io/media/posts/9/responsive/experiments-sm.png 480w ,https://anapaulaappel.github.io/media/posts/9/responsive/experiments-md.png 768w ,https://anapaulaappel.github.io/media/posts/9/responsive/experiments-lg.png 1024w ,https://anapaulaappel.github.io/media/posts/9/responsive/experiments-xl.png 1360w ,https://anapaulaappel.github.io/media/posts/9/responsive/experiments-2xl.png 1600w"  alt="" width="1358" height="414"></figure>
+<p>The experimental results illustrate the effectiveness of Chimera, since it outperforms the baseline methods. Our experiments also show that the prediction is efficient in using embeddings to predict near future communities, which opens a vast array of new possibilities for exploration. <br><br>Chimera a novel shared factorization overtime model that can simultaneously take the link, content, and temporal information of networks into account improving over the state-of-the- art approaches for community detection. Chimera model and solve community detection in efficient time. <br><br>Our experiments also show that the prediction is efficient in using embeddings to predict near future communities, which opens a vast array of new possibilities for exploration.  </p>
+<p>This paper was published on PKDD 2018: </p>
+<p>Ana Paula Appel, Renato Luiz de Freitas Cunha, Charu C. Aggarwal, Marcela Megumi Terakado: <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-10928-8_1">Temporally Evolving Community Detection and Prediction in Content-Centric Networks.</a> ECML/PKDD (2) 2018: 3-18</p>
+<p>And also in Arxiv: </p>
+<p>Ana Paula Appel, Renato Luiz de Freitas Cunha, Charu C. Aggarwal, Marcela Megumi Terakado: <a href="https://arxiv.org/abs/1807.06560">Temporally Evolving Community Detection and Prediction in Content-Centric Networks</a>. CoRR abs/1807.06560 (2018)</p>
+<p>You can find the GitHub of this project <a href="https://github.com/renatolfc/chimera-stf">here</a>!</p>
             ]]>
         </content>
     </entry>
@@ -132,17 +98,19 @@
             <category term="Projects"/>
             <category term="Health Insurance"/>
 
-        <updated>2021-02-24T15:46:42-03:00</updated>
+        <updated>2021-02-24T20:48:56-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://anapaulaappel.github.io/media/posts/6/caduceus.png" alt="" />
-                     PublicationVagner Figueredo de Santana, Ana Paula Appel, Luis Gregorio Moyano, Márcia Ito, Claudio Santos Pinhanez: Revealing Physicians Referrals from Health Insurance Claims Data.
+                    This project was certified by IBM Data Science BoardPublicationVagner Figueredo de Santana, Ana Paula Appel, Luis Gregorio Moyano, Márcia Ito, Claudio Santos Pinhanez:&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://anapaulaappel.github.io/media/posts/6/caduceus.png" alt="" />
-                <p> </p>
+                <figure class="post__image post__image--center" ><img loading="lazy" src="https://anapaulaappel.github.io/media/posts/6/projectbadge2-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/media/posts/6/responsive/projectbadge2-2-xs.png 300w ,https://anapaulaappel.github.io/media/posts/6/responsive/projectbadge2-2-sm.png 480w ,https://anapaulaappel.github.io/media/posts/6/responsive/projectbadge2-2-md.png 768w ,https://anapaulaappel.github.io/media/posts/6/responsive/projectbadge2-2-lg.png 1024w ,https://anapaulaappel.github.io/media/posts/6/responsive/projectbadge2-2-xl.png 1360w ,https://anapaulaappel.github.io/media/posts/6/responsive/projectbadge2-2-2xl.png 1600w"  alt="" width="150" height="150">
+<figcaption >This project was certified by IBM Data Science Board</figcaption>
+</figure>
 <h3>Publication</h3>
 <ul>
 <li><cite class="data"><span title="Vagner Figueredo de Santana">Vagner Figueredo de Santana</span>, <span class="this-person">Ana Paula Appel</span>, <span title="Luis Gregorio Moyano">Luis Gregorio Moyano</span>, <span title="Márcia Ito">Márcia Ito</span>, <span title="Claudio Santos Pinhanez">Claudio Santos Pinhanez</span>: <span class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S2214579617302952?via%3Dihub">Revealing Physicians Referrals from Health Insurance Claims Data.</a></span> Big Data Res. 13: 3-10 (2018)</cite></li>
@@ -464,7 +432,7 @@
             <category term="Media"/>
             <category term="Interviews"/>
 
-        <updated>2021-02-24T14:32:56-03:00</updated>
+        <updated>2021-02-25T09:45:07-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://anapaulaappel.github.io/media/posts/1/Ana-2.jpg" alt="" />
@@ -475,7 +443,7 @@
             <![CDATA[
                     <img src="https://anapaulaappel.github.io/media/posts/1/Ana-2.jpg" alt="" />
                 <h2 class="msg msg--highlight ">Here you will find all the links from my interviews to magazines, news, etc. </h2>
-<ul>
+<ul style="list-style-type: square;">
 <li dir="ltr" aria-level="1"><a href="https://ufmg.br/comunicacao/noticias/especialistas-analisam-potencial-transformador-da-inteligencia-artificial">Especialistas analisam potencial transformador da Inteligência Artificial</a></li>
 <li dir="ltr" aria-level="1">
 <p dir="ltr" role="presentation"><a href="https://open.spotify.com/episode/33CON7QDJjyeNKFScUTHWJ?si=3uU0gAQyTJCa34yVsumz2Q&amp;nd=1">Participação Podcast SyngularityU - Bias (podcast)</a></p>
@@ -490,7 +458,7 @@
 <p dir="ltr" role="presentation"><a href="https://www.proxxima.com.br/home/proxxima/noticias/2021/01/06/como-implementar-um-programa-de-inovacao.html">Como Implementar Inovação nas Empresas?</a></p>
 </li>
 <li dir="ltr" aria-level="1">
-<p dir="ltr" role="presentation"><a href="#INTERNAL_LINK#/post/null" title="https://www.tecmundo.com.br/mercado/135942-cientista-dados-inteligencia-ibm.htm">O que faz um cientista de dados?</a></p>
+<p dir="ltr" role="presentation"><a href="https://www.tecmundo.com.br/mercado/135942-cientista-dados-inteligencia-ibm.htm">O que faz um cientista de dados?</a></p>
 </li>
 <li dir="ltr" aria-level="1">
 <p dir="ltr" role="presentation"><a href="https://www.ibm.com/blogs/think/2019/09/ibms-first-certified-data-scientists-its-amazing/">IBM First Data Science Certified (Inglês)</a></p>
@@ -500,6 +468,12 @@
 </li>
 <li dir="ltr" aria-level="1">
 <p dir="ltr" role="presentation"><a href="https://www.techrepublic.com/article/ibm-certifies-a-much-needed-140-data-scientists-for-ai-development/">IBM certifies a much-needed 140 data scientists for AI development (Inglês)</a></p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><a href="https://revistatrip.uol.com.br/tpm/os-algoritmos-tentam-identificar-seu-genero-mas-muitas-vezes-reforcam-representacoes-sexistas" target="_blank" rel="noopener noreferrer">Os algoritmos tentam identificar seu gênero mas muitas vezes reforcam representacoes sexistas</a></p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><a href="Ana Paula Appel é cientista de dados na @IBMBrasil  e Master Inventor, ou seja, uma pessoa que registra um grande número de patentes. Ela criou uma iniciativa que estimula mulheres a registrarem formalmente suas ideias de inovação. Vem ver! #descubrasoluçoes #mulheresnatecnologia">O Estímulo a inovação de Ana Paula Appel (TPM - Vídeo)</a></p>
 </li>
 <li dir="ltr" aria-level="1">
 <p dir="ltr" role="presentation"><a href="https://www.datanami.com/2019/09/26/ibm-and-the-open-groups-data-scientist-certification-has-its-first-recipients/">IBM and The Open Group’s Data Scientist Certification Has Its First Recipients (Inglês)</a></p>
