@@ -3,7 +3,7 @@
     <title>Ana Paula Appel</title>
     <link href="https://anapaulaappel.github.io/feed.xml" rel="self" />
     <link href="https://anapaulaappel.github.io" />
-    <updated>2021-03-04T20:18:45-03:00</updated>
+    <updated>2021-03-04T20:30:21-03:00</updated>
     <author>
         <name>Ana Paula Appel</name>
     </author>
@@ -16,8 +16,10 @@
         </author>
         <link href="https://anapaulaappel.github.io/predicting-account-receivables-with-machine-learning/"/>
         <id>https://anapaulaappel.github.io/predicting-account-receivables-with-machine-learning/</id>
+            <category term="Projects"/>
+            <category term="Machine Learning Finance"/>
 
-        <updated>2021-03-04T20:18:45-03:00</updated>
+        <updated>2021-03-04T20:30:21-03:00</updated>
             <summary>
                 <![CDATA[
                     This project was certified by IBM Data Science BoardPresentation at KDD 2020 Workshop Machine learning in FinanceThe invoice-to-cash process involves various steps, from&hellip;

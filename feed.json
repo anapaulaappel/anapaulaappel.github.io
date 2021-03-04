@@ -19,9 +19,11 @@
                 "name": "Ana Paula Appel"
             },
             "tags": [
+                   "Projects",
+                   "Machine Learning Finance"
             ],
             "date_published": "2021-02-25T08:44:50-03:00",
-            "date_modified": "2021-03-04T20:18:45-03:00"
+            "date_modified": "2021-03-04T20:30:21-03:00"
         },
         {
             "id": "https://anapaulaappel.github.io/temporally-evolving-community-detection-and-prediction-in-heterogeneous-networks/",
