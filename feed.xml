@@ -3,7 +3,7 @@
     <title>Ana Paula Appel</title>
     <link href="https://anapaulaappel.github.io/feed.xml" rel="self" />
     <link href="https://anapaulaappel.github.io" />
-    <updated>2021-03-17T09:23:14-03:00</updated>
+    <updated>2021-09-30T14:48:59-03:00</updated>
     <author>
         <name>Ana Paula Appel</name>
     </author>
@@ -22,7 +22,7 @@
         <updated>2021-03-04T20:30:21-03:00</updated>
             <summary>
                 <![CDATA[
-                    This project was certified by IBM Data Science BoardPresentation at KDD 2020 Workshop Machine learning in FinanceThe invoice-to-cash process involves various steps, from&hellip;
+                     This project was certified by IBM Data Science Board Presentation at KDD 2020 Workshop Machine learning in Finance The invoice-to-cash process involves&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -80,7 +80,7 @@
         <updated>2021-02-24T20:50:21-03:00</updated>
             <summary>
                 <![CDATA[
-                    This project was Certified by IBM Data Science Board We focus the problem of combining link, content and temporal analysis for community detection&hellip;
+                     This project was Certified by IBM Data Science Board We focus the problem of combining link, content and temporal analysis for community&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -119,7 +119,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://anapaulaappel.github.io/media/posts/6/caduceus.png" alt="" />
-                    This project was certified by IBM Data Science Board PublicationVagner Figueredo de Santana, Ana Paula Appel, Luis Gregorio Moyano, Márcia Ito, Claudio Santos Pinhanez:&hellip;
+                     This project was certified by IBM Data Science Board Publication Vagner Figueredo de Santana, Ana Paula Appel, Luis Gregorio Moyano, Márcia Ito,&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -150,17 +150,36 @@
             <category term="Media"/>
             <category term="Awards"/>
 
-        <updated>2021-02-23T14:26:34-03:00</updated>
+        <updated>2021-09-30T14:48:59-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://anapaulaappel.github.io/media/posts/5/PremioPaulinha3_Original.jpg" alt="" />
-                    Here you will find some information about awards that I receive during my career. Award from SWE (Society of Women Engineering) from two patents&hellip;
+                    Here you will find some information about awards that I received during my career. Award from SWE (Society of Women Engineering) from three&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://anapaulaappel.github.io/media/posts/5/PremioPaulinha3_Original.jpg" alt="" />
-                <h2 class="msg msg--highlight ">Here you will find some information about awards that I receive during my career. </h2>
+                <h2 class="msg msg--highlight ">Here you will find some information about awards that I received during my career. </h2>
+<p> </p>
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"><figure class="post__image"><img loading="lazy"  src="https://anapaulaappel.github.io/media/posts/5/patente2021.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/media/posts/5/responsive/patente2021-xs.jpg 300w ,https://anapaulaappel.github.io/media/posts/5/responsive/patente2021-sm.jpg 480w ,https://anapaulaappel.github.io/media/posts/5/responsive/patente2021-md.jpg 768w ,https://anapaulaappel.github.io/media/posts/5/responsive/patente2021-lg.jpg 1024w ,https://anapaulaappel.github.io/media/posts/5/responsive/patente2021-xl.jpg 1360w ,https://anapaulaappel.github.io/media/posts/5/responsive/patente2021-2xl.jpg 1600w"  alt="" width="3770" height="2937"></figure></td>
+<td style="width: 50%;"><figure class="post__image"><img loading="lazy"  src="https://anapaulaappel.github.io/media/posts/5/DS3.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/media/posts/5/responsive/DS3-xs.jpg 300w ,https://anapaulaappel.github.io/media/posts/5/responsive/DS3-sm.jpg 480w ,https://anapaulaappel.github.io/media/posts/5/responsive/DS3-md.jpg 768w ,https://anapaulaappel.github.io/media/posts/5/responsive/DS3-lg.jpg 1024w ,https://anapaulaappel.github.io/media/posts/5/responsive/DS3-xl.jpg 1360w ,https://anapaulaappel.github.io/media/posts/5/responsive/DS3-2xl.jpg 1600w"  alt="" width="264" height="382"></figure></td>
+</tr>
+<tr>
+<td style="width: 50%;">
+<p>Award from SWE (Society of Women Engineering) from three patents -  2021</p>
+<p><a href="https://alltogether.swe.org/2021/09/swe-announces-the-recipients-of-its-annual-awards-program/" target="_blank" rel="noopener noreferrer">Oficial award page</a></p>
+</td>
+<td style="width: 50%;">
+<p>Data Science Certification L3 from Open Group</p>
+<p><a href="https://www.opengroup.org/certifications/certified-data-scientist-open-cds">More information here</a> </p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
@@ -210,15 +229,15 @@
         <link href="https://anapaulaappel.github.io/about-me/"/>
         <id>https://anapaulaappel.github.io/about-me/</id>
 
-        <updated>2021-03-04T14:22:46-03:00</updated>
+        <updated>2021-09-30T13:42:02-03:00</updated>
             <summary>
                 <![CDATA[
-                    I am a Senior Data Scientist at IBM Research. My interests include machine learning, graph mining and learning, data preprocessing, and databases. My&hellip;
+                    I am a Senior Data Scientist at IBM Garage. Previous I work at IBM Research (from 02/2012 to 04/2021). My interests include machine&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="p1">I am a Senior Data Scientist at IBM Research. My interests include machine learning, graph mining and learning, data preprocessing, and databases. My current research focus is on machine learning on graphs for finance.<span class="Apple-converted-space"> </span></p>
+                <p class="p1">I am a Senior Data Scientist at IBM Garage. Previous I work at IBM Research (from 02/2012 to 04/2021). My interests include machine learning, graph mining and learning, data preprocessing, and databases. </p>
 <p class="p1">I am also passionate about innovation and for that, I have been working in patents for the last 9 years. I am also advocating for Women in STEM and I have been leading initiatives inside and outside IBM Brazil as WIDS (women in data science) workshop at The WebConference and this year I will be a <a href="https://www.widsconference.org/ambassadors-2021.html">Stanford Ambassador for WIDS</a>.</p>
 <p class="p1">I also a member of the committee from PKDD, DSAA, Data Mining Journal, etc.<span class="Apple-converted-space"> </span></p>
 <p class="p1">Before I joined IBM Research I worked as a professor in academia, at the University of São Paulo, Federal University of São Carlos, and Federal University of Espirito Santo teaching Data Mining, Database, and Computer Programming.<span class="Apple-converted-space"> </span></p>
@@ -244,30 +263,35 @@
         <link href="https://anapaulaappel.github.io/patents/"/>
         <id>https://anapaulaappel.github.io/patents/</id>
 
-        <updated>2021-02-23T10:36:19-03:00</updated>
+        <updated>2021-09-30T13:23:38-03:00</updated>
             <summary>
                 <![CDATA[
-                    Patent is a form of intelectual property that gives its owner the legal right to exclude others from making, using or selling an&hellip;
+                     Patent is a intelectual property that gives its owner the legal right to exclude others from making, using or selling an invention&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <figure class="post__image"><img loading="lazy"  src="https://anapaulaappel.github.io/media/posts/3/IMG_3984-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/media/posts/3/responsive/IMG_3984-2-xs.png 300w ,https://anapaulaappel.github.io/media/posts/3/responsive/IMG_3984-2-sm.png 480w ,https://anapaulaappel.github.io/media/posts/3/responsive/IMG_3984-2-md.png 768w ,https://anapaulaappel.github.io/media/posts/3/responsive/IMG_3984-2-lg.png 1024w ,https://anapaulaappel.github.io/media/posts/3/responsive/IMG_3984-2-xl.png 1360w ,https://anapaulaappel.github.io/media/posts/3/responsive/IMG_3984-2-2xl.png 1600w"  alt="Patent award certification" width="2314" height="1787"></figure>
-<p dir="ltr">Patent is a form of intelectual property that gives its owner the legal right to exclude others from making, using or selling an invention for a limited period of years in exchange for publishing an enabling public disclosure of the invention. </p>
-<p dir="ltr">On IBM I have more than 40 patents files and 13 granted. My patents are mostly on Finance, Machine Learning and Graphs.  You can see all my patents granted below.  </p>
-<p dir="ltr">1 - <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">10,614,402 - Human steering dashboard to analyze 360-degree market view for merchants based on financial transactions</a></p>
-<p dir="ltr">2 - <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=2&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">10,608,905 - Method and system for temporal sampling in evolving network</a></p>
-<p dir="ltr">3 - <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=3&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">10,607,146 - Predicting user question in question and answer system</a></p>
-<p dir="ltr">4 - <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=4&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">10,572,501 - Steering graph mining algorithms applied to complex networks</a></p>
-<p dir="ltr">5 - <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=5&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">10,528,874 - System, method and computer product for classifying user expertise</a></p>
-<p dir="ltr">6 - <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=6&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">10,171,442 - Predicting a need for and creating temporary access to a computer component in infrastructure information technology</a></p>
-<p dir="ltr">7 - <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=7&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">10,110,449 - Method and system for temporal sampling in evolving network</a></p>
-<p dir="ltr">8 - <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=8&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">10,025,980 - Assisting people with understanding charts</a></p>
-<p dir="ltr">9 - <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=9&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">9,977,971 - Role-based tracking and surveillance</a></p>
-<p dir="ltr">10 - <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=10&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">9,800,659 - Enterprise peer-to-peer storage and method of managing peer network storage</a></p>
-<p dir="ltr">11 - <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=11&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">9,710,470 - Social recommendation across heterogeneous networks</a></p>
-<p dir="ltr">12 - <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=12&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">9,646,228 - Role-based tracking and surveillance</a></p>
-<p>13 - <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=13&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">9,613,277 - Role-based tracking and surveillance</a></p>
+<p dir="ltr">Patent is a intelectual property that gives its owner the legal right to exclude others from making, using or selling an invention for a limited period of years in exchange for publishing an enabling public disclosure of the invention. </p>
+<p dir="ltr">On IBM I have more than 50 patents files and 16 granted. Most of my patents are in the field of chatbot, AI, Machine Learning and graphs.  You can see all my granted patents below:</p>
+<ol>
+<li class="p2"><span class="s1"><a href="#INTERNAL_LINK#/post/null" title="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=appel.INNM.&amp;OS=IN/Ana+AND+IN/appel&amp;RS=IN/Ana+AND+IN/appel">11,126,957 - Full-Text Supply chain forecasting system</a></span></li>
+<li class="p2"><span class="s1"><a href="#INTERNAL_LINK#/post/null" title="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=2&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=appel.INNM.&amp;OS=IN/Ana+AND+IN/appel&amp;RS=IN/Ana+AND+IN/appel">11,025,741 Full-Text Dynamic cognitive user interface</a></span></li>
+<li class="p2"><span class="s1"><a href="#INTERNAL_LINK#/post/null" title="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=3&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=appel.INNM.&amp;OS=IN/Ana+AND+IN/appel&amp;RS=IN/Ana+AND+IN/appel">10,990,076 Full-Text Automatic evapotranspiration mitigation</a></span></li>
+<li dir="ltr"><a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">10,614,402 - Human steering dashboard to analyze 360-degree market view for merchants based on financial transactions</a></li>
+<li dir="ltr"><a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=2&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">10,608,905 - Method and system for temporal sampling in evolving network</a></li>
+<li dir="ltr"><a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=3&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">10,607,146 - Predicting user question in question and answer system</a></li>
+<li dir="ltr"><a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=4&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">10,572,501 - Steering graph mining algorithms applied to complex networks</a></li>
+<li dir="ltr"><a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=5&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">10,528,874 - System, method and computer product for classifying user expertise</a></li>
+<li dir="ltr"><a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=6&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">10,171,442 - Predicting a need for and creating temporary access to a computer component in infrastructure information technology</a></li>
+<li dir="ltr"><a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=7&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">10,110,449 - Method and system for temporal sampling in evolving network</a></li>
+<li dir="ltr"><a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=8&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">10,025,980 - Assisting people with understanding charts</a></li>
+<li dir="ltr"><a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=9&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">9,977,971 - Role-based tracking and surveillance</a></li>
+<li dir="ltr"><a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=10&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">9,800,659 - Enterprise peer-to-peer storage and method of managing peer network storage</a></li>
+<li dir="ltr"><a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=11&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">9,710,470 - Social recommendation across heterogeneous networks</a></li>
+<li dir="ltr"><a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=12&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">9,646,228 - Role-based tracking and surveillance</a></li>
+<li><a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=13&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">9,613,277 - Role-based tracking and surveillance</a></li>
+</ol>
             ]]>
         </content>
     </entry>
@@ -281,7 +305,7 @@
             <category term="Talks"/>
             <category term="Media"/>
 
-        <updated>2021-03-17T09:23:14-03:00</updated>
+        <updated>2021-09-30T14:48:45-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://anapaulaappel.github.io/media/posts/2/IMG_6163_Original-2.jpg" alt="" />
@@ -292,6 +316,32 @@
             <![CDATA[
                     <img src="https://anapaulaappel.github.io/media/posts/2/IMG_6163_Original-2.jpg" alt="" />
                 <p class="msg msg--highlight  msg--info"><strong>Here you can find video of my talks, panels, etc. </strong></p>
+<hr>
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+<tr>
+<td style="width: 100%;">
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/rTad-T5gx98" allowfullscreen="allowfullscreen"></iframe></figure>
+</td>
+</tr>
+<tr>
+<td style="width: 100%;">Live Ai Girls </td>
+</tr>
+</tbody>
+</table>
+<hr>
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+<tr>
+<td style="width: 100%;">
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/injO6TKh5QQ?list=PLDNixc-8-aRtafpfIFvXak2-UAHfjPm02&amp;index=1&amp;t=26s" allowfullscreen="allowfullscreen"></iframe></figure>
+</td>
+</tr>
+<tr>
+<td style="width: 100%;">Título: Prevendo o pagamento de faturas com aprendizado de máquina - Palestrante: Ana Paula Appel é cientista de dados sênior, inventora e pesquisadora na IBM Garage,</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <table style="border-collapse: collapse; width: 100%;">
 <tbody>
@@ -417,9 +467,7 @@
 </td>
 </tr>
 <tr>
-<td style="width: 100%;">
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/hu6nwHcOzHo" allowfullscreen="allowfullscreen"></iframe></figure>
-</td>
+<td style="width: 100%;"> </td>
 </tr>
 <tr>
 <td style="width: 100%;"><span class="style-scope yt-formatted-string" dir="auto">Seja bem-vindx ao WISTEM! No dia 09/07, 11h00, a Ana Paula Appel vai falar um pouquinho aqui no canal sobre Ciência e Modelagem de Dados.</span></td>
@@ -483,7 +531,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://anapaulaappel.github.io/media/posts/1/Ana-2.jpg" alt="" />
-                    Here you will find all the links from my interviews to magazines, news, etc. Especialistas analisam potencial transformador da Inteligência ArtificialParticipação Podcast SyngularityU -&hellip;
+                    Here you will find all the links from my interviews to magazines, news, etc. Especialistas analisam potencial transformador da Inteligência Artificial Participação Podcast&hellip;
                 ]]>
             </summary>
         <content type="html">
