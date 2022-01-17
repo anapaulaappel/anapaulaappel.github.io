@@ -3,12 +3,53 @@
     <title>Ana Paula Appel</title>
     <link href="https://anapaulaappel.github.io/feed.xml" rel="self" />
     <link href="https://anapaulaappel.github.io" />
-    <updated>2021-09-30T14:48:59-03:00</updated>
+    <updated>2022-01-17T11:48:27-03:00</updated>
     <author>
         <name>Ana Paula Appel</name>
     </author>
     <id>https://anapaulaappel.github.io</id>
 
+    <entry>
+        <title>Me tornei o que mais temia</title>
+        <author>
+            <name>Ana Paula Appel</name>
+        </author>
+        <link href="https://anapaulaappel.github.io/me-tornei-o-que-mais-temia/"/>
+        <id>https://anapaulaappel.github.io/me-tornei-o-que-mais-temia/</id>
+
+        <updated>2021-10-08T09:47:48-03:00</updated>
+            <summary>
+                <![CDATA[
+                     CANDELLO, Heloisa; APPEL, Ana; SOUZA, Renan. Building a Question-Answering Corpus Using Social Media and News Articles. Computational Processing of the Portuguese Language, p.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<p> </p>
+<h3>Artigos</h3>
+<p>CANDELLO, Heloisa; APPEL, Ana; SOUZA, Renan.<a href="https://www.researchgate.net/profile/Paulo-Cavalin/publication/304189920_Building_a_Question-Answering_Corpus_Using_Social_Media_and_News_Articles/links/5a8431f20f7e9bda86a75f5c/Building-a-Question-Answering-Corpus-Using-Social-Media-and-News-Articles.pdf"> <strong>Building a Question-Answering Corpus Using Social Media and News Articles.</strong> </a>Computational Processing of the Portuguese Language, p. 353.</p>
+<p>Appel, A. P., Rodrigo Cavalin, P., Affonso Vasconcelos, M., &amp; Santos Pinhanez, C. (2018). <strong><a href="https://arxiv.org/abs/1802.07117">Combining Textual Content and Structure to Improve Dialog Similarity</a></strong>. <i>arXiv e-prints</i>, arXiv-1802.</p>
+<p>Pinhanez, C. S., Candello, H., Cavalin, P., Pichiliani, M. C., Appel, A. P., Alves Ribeiro, V. H., &amp; Malfatti, G. (2021, May). <strong><a href="https://www.researchgate.net/profile/Heloisa-Candello/publication/348885067_Integrating_Machine_Learning_Data_with_Symbolic_Knowledge_from_Collaboration_Practices_of_Curators_to_Improve_Conversational_Systems/links/6014659c92851c2d4d030170/Integrating-Machine-Learning-Data-with-Symbolic-Knowledge-from-Collaboration-Practices-of-Curators-to-Improve-Conversational-Systems.pdf">Integrating Machine Learning Data with Symbolic Knowledge from Collaboration Practices of Curators to Improve Conversational Systems.</a></strong> In <i>Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems</i> (pp. 1-13).</p>
+<p>Pinhanez, C., Cavalin, P., Ribeiro, V., Candello, H., Nogima, J., Appel, A., ... &amp; Malfatti, G. (2020). <a href="https://arxiv.org/abs/2012.09005"><strong>Using Meta-Knowledge Mined from Identifiers to Improve Intent Recognition in Neuro-Symbolic Algorithms</strong></a>. <i>arXiv e-prints</i>, arXiv-2012.</p>
+<p>Pinhanez, C., Cavalin, P., Ribeiro, V. H. A., Appel, A., Candello, H., Nogima, J., ... &amp; Ferreira, H. (2021, August). <a href="https://aclanthology.org/2021.acl-long.545/"><strong>Using Meta-Knowledge Mined from Identifiers to Improve Intent Recognition in Conversational Systems.</strong></a> In <i>Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)</i> (pp. 7014-7027).</p>
+<p>Cavalin, P., Ribeiro, V. H. A., Appel, A., &amp; Pinhanez, C. (2020, November). <strong><a href="https://www.aclweb.org/anthology/2020.emnlp-main.324.pdf">Improving Out-of-Scope Detection in Intent Classification by Using Embeddings of the Word Graph Space of the Classes.</a></strong> In <i>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i> (pp. 3952-3961).</p>
+<h3>Patentes</h3>
+<p id="title" class="scroll-target style-scope patent-result"><strong><a href="System and method to recommend mitigation action using conversational agent">System and method to recommend mitigation action using conversational agent</a></strong> (Pending)</p>
+<p id="title" class="scroll-target style-scope patent-result"><strong><a href="https://patents.google.com/patent/US10025980B2/en">Assisting people with understanding charts</a></strong> (Granted)</p>
+<p id="title" class="scroll-target style-scope patent-result"><strong><a href="https://patents.google.com/patent/US10607146B2/en">Predicting user question in question and answer system</a></strong> (Granted)</p>
+<p id="title" class="scroll-target style-scope patent-result"><strong><a href="https://patents.google.com/patent/US10528874B2/en">System, method and computer product for classifying user expertise</a></strong> (Granted)</p>
+<div class="horizontal layout style-scope patent-result">
+<div class="flex-3 style-scope patent-result">
+<section id="abstract" class="style-scope patent-result">
+<h3 class="layout horizontal style-scope patent-result"> </h3>
+</section>
+</div>
+</div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Predicting Account Receivables with Machine Learning</title>
         <author>
@@ -150,7 +191,7 @@
             <category term="Media"/>
             <category term="Awards"/>
 
-        <updated>2021-09-30T14:48:59-03:00</updated>
+        <updated>2022-01-17T11:48:27-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://anapaulaappel.github.io/media/posts/5/PremioPaulinha3_Original.jpg" alt="" />
@@ -229,15 +270,15 @@
         <link href="https://anapaulaappel.github.io/about-me/"/>
         <id>https://anapaulaappel.github.io/about-me/</id>
 
-        <updated>2021-09-30T13:42:02-03:00</updated>
+        <updated>2022-01-17T11:30:54-03:00</updated>
             <summary>
                 <![CDATA[
-                    I am a Senior Data Scientist at IBM Garage. Previous I work at IBM Research (from 02/2012 to 04/2021). My interests include machine&hellip;
+                    I am a Senior Data Scientist at IBM Cliente Engineering. Previous I work at IBM Research (from 02/2012 to 04/2021). My interests include&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="p1">I am a Senior Data Scientist at IBM Garage. Previous I work at IBM Research (from 02/2012 to 04/2021). My interests include machine learning, graph mining and learning, data preprocessing, and databases. </p>
+                <p class="p1">I am a Senior Data Scientist at IBM Cliente Engineering. Previous I work at IBM Research (from 02/2012 to 04/2021). My interests include machine learning, graph mining and learning, data preprocessing, and databases. </p>
 <p class="p1">I am also passionate about innovation and for that, I have been working in patents for the last 9 years. I am also advocating for Women in STEM and I have been leading initiatives inside and outside IBM Brazil as WIDS (women in data science) workshop at The WebConference and this year I will be a <a href="https://www.widsconference.org/ambassadors-2021.html">Stanford Ambassador for WIDS</a>.</p>
 <p class="p1">I also a member of the committee from PKDD, DSAA, Data Mining Journal, etc.<span class="Apple-converted-space"> </span></p>
 <p class="p1">Before I joined IBM Research I worked as a professor in academia, at the University of São Paulo, Federal University of São Carlos, and Federal University of Espirito Santo teaching Data Mining, Database, and Computer Programming.<span class="Apple-converted-space"> </span></p>
@@ -263,7 +304,7 @@
         <link href="https://anapaulaappel.github.io/patents/"/>
         <id>https://anapaulaappel.github.io/patents/</id>
 
-        <updated>2021-09-30T13:23:38-03:00</updated>
+        <updated>2022-01-17T11:30:16-03:00</updated>
             <summary>
                 <![CDATA[
                      Patent is a intelectual property that gives its owner the legal right to exclude others from making, using or selling an invention&hellip;
@@ -271,13 +312,19 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://anapaulaappel.github.io/media/posts/3/IMG_3984-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/media/posts/3/responsive/IMG_3984-2-xs.png 300w ,https://anapaulaappel.github.io/media/posts/3/responsive/IMG_3984-2-sm.png 480w ,https://anapaulaappel.github.io/media/posts/3/responsive/IMG_3984-2-md.png 768w ,https://anapaulaappel.github.io/media/posts/3/responsive/IMG_3984-2-lg.png 1024w ,https://anapaulaappel.github.io/media/posts/3/responsive/IMG_3984-2-xl.png 1360w ,https://anapaulaappel.github.io/media/posts/3/responsive/IMG_3984-2-2xl.png 1600w"  alt="Patent award certification" width="2314" height="1787"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://anapaulaappel.github.io/media/posts/3/Plateu.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/media/posts/3/responsive/Plateu-xs.jpg 300w ,https://anapaulaappel.github.io/media/posts/3/responsive/Plateu-sm.jpg 480w ,https://anapaulaappel.github.io/media/posts/3/responsive/Plateu-md.jpg 768w ,https://anapaulaappel.github.io/media/posts/3/responsive/Plateu-lg.jpg 1024w ,https://anapaulaappel.github.io/media/posts/3/responsive/Plateu-xl.jpg 1360w ,https://anapaulaappel.github.io/media/posts/3/responsive/Plateu-2xl.jpg 1600w"  alt="" width="3546" height="2660"></figure>
 <p dir="ltr">Patent is a intelectual property that gives its owner the legal right to exclude others from making, using or selling an invention for a limited period of years in exchange for publishing an enabling public disclosure of the invention. </p>
-<p dir="ltr">On IBM I have more than 50 patents files and 16 granted. Most of my patents are in the field of chatbot, AI, Machine Learning and graphs.  You can see all my granted patents below:</p>
+<p dir="ltr">On IBM I have more than 50 patents files and 22 granted. Most of my patents are in the field of chatbot, AI, Machine Learning and graphs.  You can see all my granted patents below:</p>
 <ol>
-<li class="p2"><span class="s1"><a href="#INTERNAL_LINK#/post/null" title="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=appel.INNM.&amp;OS=IN/Ana+AND+IN/appel&amp;RS=IN/Ana+AND+IN/appel">11,126,957 - Full-Text Supply chain forecasting system</a></span></li>
-<li class="p2"><span class="s1"><a href="#INTERNAL_LINK#/post/null" title="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=2&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=appel.INNM.&amp;OS=IN/Ana+AND+IN/appel&amp;RS=IN/Ana+AND+IN/appel">11,025,741 Full-Text Dynamic cognitive user interface</a></span></li>
-<li class="p2"><span class="s1"><a href="#INTERNAL_LINK#/post/null" title="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=3&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=appel.INNM.&amp;OS=IN/Ana+AND+IN/appel&amp;RS=IN/Ana+AND+IN/appel">10,990,076 Full-Text Automatic evapotranspiration mitigation</a></span></li>
+<li class="p2"><span class="s1"><a href="#INTERNAL_LINK#/post/NaN" title="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=appel.INNM.&amp;OS=IN/Ana+AND+IN/appel&amp;RS=IN/Ana+AND+IN/appel">11,216,768 - Product quality analysis and control</a></span></li>
+<li class="p2"><span class="s1"><a href="#INTERNAL_LINK#/post/NaN" title="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=2&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=appel.INNM.&amp;OS=IN/Ana+AND+IN/appel&amp;RS=IN/Ana+AND+IN/appel">11,194,966 - Management of concepts and intents in conversational systems</a></span></li>
+<li class="p2"><span class="s1"><a href="#INTERNAL_LINK#/post/null" title="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=3&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=appel.INNM.&amp;OS=IN/Ana+AND+IN/appel&amp;RS=IN/Ana+AND+IN/appel">11,188,521 - Flexible transaction validation</a></span></li>
+<li class="p2"><span class="s1"><a href="#INTERNAL_LINK#/post/null" title="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=4&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=appel.INNM.&amp;OS=IN/Ana+AND+IN/appel&amp;RS=IN/Ana+AND+IN/appel">11,157,741 - Determining the state of infrastructure in a region of interest</a></span></li>
+<li class="p2"><span class="s1"><a href="#INTERNAL_LINK#/post/null" title="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=5&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=appel.INNM.&amp;OS=IN/Ana+AND+IN/appel&amp;RS=IN/Ana+AND+IN/appel">11,138,510 - System, method and computer product for classifying user expertise</a></span></li>
+<li class="p2"><span class="s1"><a href="#INTERNAL_LINK#/post/null" title="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=6&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=appel.INNM.&amp;OS=IN/Ana+AND+IN/appel&amp;RS=IN/Ana+AND+IN/appel">11,137,764 - Recharging for autonomous in-pipe vehicles</a></span></li>
+<li class="p2"><span class="s1"><a href="#INTERNAL_LINK#/post/null" title="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=appel.INNM.&amp;OS=IN/Ana+AND+IN/appel&amp;RS=IN/Ana+AND+IN/appel">11,126,957 - Supply chain forecasting system</a></span></li>
+<li class="p2"><span class="s1"><a href="#INTERNAL_LINK#/post/null" title="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=2&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=appel.INNM.&amp;OS=IN/Ana+AND+IN/appel&amp;RS=IN/Ana+AND+IN/appel">11,025,741 - Dynamic cognitive user interface</a></span></li>
+<li class="p2"><span class="s1"><a href="#INTERNAL_LINK#/post/null" title="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=3&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=appel.INNM.&amp;OS=IN/Ana+AND+IN/appel&amp;RS=IN/Ana+AND+IN/appel">10,990,076 -  Automatic evapotranspiration mitigation</a></span></li>
 <li dir="ltr"><a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">10,614,402 - Human steering dashboard to analyze 360-degree market view for merchants based on financial transactions</a></li>
 <li dir="ltr"><a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=2&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">10,608,905 - Method and system for temporal sampling in evolving network</a></li>
 <li dir="ltr"><a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=3&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">10,607,146 - Predicting user question in question and answer system</a></li>
@@ -305,7 +352,7 @@
             <category term="Talks"/>
             <category term="Media"/>
 
-        <updated>2021-09-30T14:48:45-03:00</updated>
+        <updated>2022-01-17T11:48:08-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://anapaulaappel.github.io/media/posts/2/IMG_6163_Original-2.jpg" alt="" />
@@ -316,6 +363,13 @@
             <![CDATA[
                     <img src="https://anapaulaappel.github.io/media/posts/2/IMG_6163_Original-2.jpg" alt="" />
                 <p class="msg msg--highlight  msg--info"><strong>Here you can find video of my talks, panels, etc. </strong></p>
+<hr>
+<figure></figure>
+<figure>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/qDWYQTqUwsI" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<hr></figure>
+<figure></figure>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/p_gC30Iye3w" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <hr>
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
