@@ -49,10 +49,6 @@
 </image:image>
 </url>
 <url>
-<loc>https://anapaulaappel.github.io/me-tornei-o-que-mais-temia/</loc>
-<lastmod>2021-10-08T09:47:48-03:00</lastmod>
-</url>
-<url>
 <loc>https://anapaulaappel.github.io/page/2/</loc>
 </url>
 <url>
@@ -60,7 +56,7 @@
 </url>
 <url>
 <loc>https://anapaulaappel.github.io/patents/</loc>
-<lastmod>2022-01-17T11:30:16-03:00</lastmod>
+<lastmod>2022-08-01T10:51:30-03:00</lastmod>
 <image:image>
 <image:loc>https://anapaulaappel.github.io/media/posts/3/Plateu.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -121,5 +117,9 @@
 <image:loc>https://anapaulaappel.github.io/media/posts/9/experiments.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://anapaulaappel.github.io/usando-indice-de-similaridade-para-identificar-compras-similares-apenas-por-descricao/</loc>
+<lastmod>2022-08-02T14:48:55-03:00</lastmod>
 </url>
 </urlset>
