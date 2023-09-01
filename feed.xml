@@ -3,7 +3,7 @@
     <title>Ana Paula Appel</title>
     <link href="https://anapaulaappel.github.io/feed.xml" rel="self" />
     <link href="https://anapaulaappel.github.io" />
-    <updated>2023-09-01T16:49:46-03:00</updated>
+    <updated>2023-09-01T17:26:56-03:00</updated>
     <author>
         <name>Ana Paula Appel</name>
     </author>
@@ -150,7 +150,7 @@
             <category term="Media"/>
             <category term="Awards"/>
 
-        <updated>2023-09-01T15:43:18-03:00</updated>
+        <updated>2023-09-01T17:26:56-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://anapaulaappel.github.io/media/posts/5/PremioPaulinha3_Original.jpg" alt="" />
@@ -174,7 +174,8 @@
 <p><a href="https://alltogether.swe.org/2023/08/swe-awards-2023/" target="_blank" rel="noopener noreferrer">Oficial award page</a></p>
 </td>
 <td style="width: 50%;">
-<p> </p>
+<p>SWE Women Engineers you should know.</p>
+<p><a href="#INTERNAL_LINK#/post/null" title="https://magazine.swe.org/weysk-22/">Oficial award page</a></p>
 </td>
 </tr>
 </tbody>
@@ -182,13 +183,13 @@
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"> </td>
+<td style="width: 50%;"><figure class="post__image"><img loading="lazy"  src="https://anapaulaappel.github.io/media/posts/5/IMG_6708.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/media/posts/5/responsive/IMG_6708-xs.png 300w ,https://anapaulaappel.github.io/media/posts/5/responsive/IMG_6708-sm.png 480w ,https://anapaulaappel.github.io/media/posts/5/responsive/IMG_6708-md.png 768w ,https://anapaulaappel.github.io/media/posts/5/responsive/IMG_6708-lg.png 1024w ,https://anapaulaappel.github.io/media/posts/5/responsive/IMG_6708-xl.png 1360w ,https://anapaulaappel.github.io/media/posts/5/responsive/IMG_6708-2xl.png 1600w"  alt="" width="2734" height="3483"></figure></td>
 <td style="width: 50%;"> </td>
 </tr>
 <tr>
 <td style="width: 50%;">
-<p>SWE Women Engineers you should know.</p>
-<p><a href="#INTERNAL_LINK#/post/null" title="https://magazine.swe.org/weysk-22/">Oficial award page</a></p>
+<p>Master Inventor - 2021 to 2024</p>
+<p>Achieve a large number of patents filed. </p>
 </td>
 <td style="width: 50%;">
 <p>Award from SWE (Society of Women Engineering) for four patents -  2022</p>
