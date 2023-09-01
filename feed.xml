@@ -3,7 +3,7 @@
     <title>Ana Paula Appel</title>
     <link href="https://anapaulaappel.github.io/feed.xml" rel="self" />
     <link href="https://anapaulaappel.github.io" />
-    <updated>2022-08-01T10:51:30-03:00</updated>
+    <updated>2023-09-01T15:43:55-03:00</updated>
     <author>
         <name>Ana Paula Appel</name>
     </author>
@@ -150,11 +150,11 @@
             <category term="Media"/>
             <category term="Awards"/>
 
-        <updated>2022-01-17T11:48:27-03:00</updated>
+        <updated>2023-09-01T15:43:18-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://anapaulaappel.github.io/media/posts/5/PremioPaulinha3_Original.jpg" alt="" />
-                    Here you will find some information about awards that I received during my career. Award from SWE (Society of Women Engineering) from three&hellip;
+                    Here you will find some information about awards that I received during my career. Award from SWE (Society of Women Engineering) for seven&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -165,12 +165,47 @@
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
+<td style="width: 50%;"> </td>
+<td style="width: 50%;"> </td>
+</tr>
+<tr>
+<td style="width: 50%;">
+<p>Award from SWE (Society of Women Engineering) for seven patents -  2023</p>
+<p><a href="https://alltogether.swe.org/2023/08/swe-awards-2023/" target="_blank" rel="noopener noreferrer">Oficial award page</a></p>
+</td>
+<td style="width: 50%;">
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"> </td>
+<td style="width: 50%;"> </td>
+</tr>
+<tr>
+<td style="width: 50%;">
+<p>SWE Women Engineers you should know.</p>
+<p><a href="#INTERNAL_LINK#/post/null" title="https://magazine.swe.org/weysk-22/">Oficial award page</a></p>
+</td>
+<td style="width: 50%;">
+<p>Award from SWE (Society of Women Engineering) for four patents -  2022</p>
+<p><a href="#INTERNAL_LINK#/post/null" title="https://alltogether.swe.org/2022/07/swe-announces-the-recipients-of-2022-annual-awards-program/">Oficial award page</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+<tr>
 <td style="width: 50%;"><figure class="post__image"><img loading="lazy"  src="https://anapaulaappel.github.io/media/posts/5/patente2021.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/media/posts/5/responsive/patente2021-xs.jpg 300w ,https://anapaulaappel.github.io/media/posts/5/responsive/patente2021-sm.jpg 480w ,https://anapaulaappel.github.io/media/posts/5/responsive/patente2021-md.jpg 768w ,https://anapaulaappel.github.io/media/posts/5/responsive/patente2021-lg.jpg 1024w ,https://anapaulaappel.github.io/media/posts/5/responsive/patente2021-xl.jpg 1360w ,https://anapaulaappel.github.io/media/posts/5/responsive/patente2021-2xl.jpg 1600w"  alt="" width="3770" height="2937"></figure></td>
 <td style="width: 50%;"><figure class="post__image"><img loading="lazy"  src="https://anapaulaappel.github.io/media/posts/5/DS3.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/media/posts/5/responsive/DS3-xs.jpg 300w ,https://anapaulaappel.github.io/media/posts/5/responsive/DS3-sm.jpg 480w ,https://anapaulaappel.github.io/media/posts/5/responsive/DS3-md.jpg 768w ,https://anapaulaappel.github.io/media/posts/5/responsive/DS3-lg.jpg 1024w ,https://anapaulaappel.github.io/media/posts/5/responsive/DS3-xl.jpg 1360w ,https://anapaulaappel.github.io/media/posts/5/responsive/DS3-2xl.jpg 1600w"  alt="" width="264" height="382"></figure></td>
 </tr>
 <tr>
 <td style="width: 50%;">
-<p>Award from SWE (Society of Women Engineering) from three patents -  2021</p>
+<p>Award from SWE (Society of Women Engineering) for three patents -  2021</p>
 <p><a href="https://alltogether.swe.org/2021/09/swe-announces-the-recipients-of-its-annual-awards-program/" target="_blank" rel="noopener noreferrer">Oficial award page</a></p>
 </td>
 <td style="width: 50%;">
@@ -229,17 +264,17 @@
         <link href="https://anapaulaappel.github.io/about-me/"/>
         <id>https://anapaulaappel.github.io/about-me/</id>
 
-        <updated>2022-01-17T11:30:54-03:00</updated>
+        <updated>2023-09-01T15:43:55-03:00</updated>
             <summary>
                 <![CDATA[
-                    I am a Senior Data Scientist at IBM Cliente Engineering. Previous I work at IBM Research (from 02/2012 to 04/2021). My interests include&hellip;
+                    I am a Senior Data Scientist at IBM Client Engineering and a Senior Quantum Ambassador. Previously I worked at IBM Research (from 02/2012&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="p1">I am a Senior Data Scientist at IBM Cliente Engineering. Previous I work at IBM Research (from 02/2012 to 04/2021). My interests include machine learning, graph mining and learning, data preprocessing, and databases. </p>
+                <p class="p1">I am a Senior Data Scientist at IBM Client Engineering and a Senior Quantum Ambassador. Previously I worked at IBM Research (from 02/2012 to 04/2021). My interests include machine learning, graph mining and learning, data preprocessing, and databases. </p>
 <p class="p1">I am also passionate about innovation and for that, I have been working in patents for the last 9 years. I am also advocating for Women in STEM and I have been leading initiatives inside and outside IBM Brazil as WIDS (women in data science) workshop at The WebConference and this year I will be a <a href="https://www.widsconference.org/ambassadors-2021.html">Stanford Ambassador for WIDS</a>.</p>
-<p class="p1">I also a member of the committee from PKDD, DSAA, Data Mining Journal, etc.<span class="Apple-converted-space"> </span></p>
+<p class="p1">I am also a member of the committee from PKDD, DSAA, Data Mining Journal, etc.<span class="Apple-converted-space"> </span></p>
 <p class="p1">Before I joined IBM Research I worked as a professor in academia, at the University of São Paulo, Federal University of São Carlos, and Federal University of Espirito Santo teaching Data Mining, Database, and Computer Programming.<span class="Apple-converted-space"> </span></p>
 <p><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.60181em; font-weight: var(--font-weight-bold); letter-spacing: -0.03rem;">Education  </span></p>
 <h5 dir="ltr">🎓 Post – Doc in Computer Science (2011)</h5>
@@ -263,7 +298,7 @@
         <link href="https://anapaulaappel.github.io/patents/"/>
         <id>https://anapaulaappel.github.io/patents/</id>
 
-        <updated>2022-08-01T10:51:30-03:00</updated>
+        <updated>2023-09-01T10:47:08-03:00</updated>
             <summary>
                 <![CDATA[
                     Patent is a intelectual property that gives its owner the legal right to exclude others from making, using or selling an invention for&hellip;
@@ -271,10 +306,16 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://anapaulaappel.github.io/media/posts/3/Plateu.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/media/posts/3/responsive/Plateu-xs.jpg 300w ,https://anapaulaappel.github.io/media/posts/3/responsive/Plateu-sm.jpg 480w ,https://anapaulaappel.github.io/media/posts/3/responsive/Plateu-md.jpg 768w ,https://anapaulaappel.github.io/media/posts/3/responsive/Plateu-lg.jpg 1024w ,https://anapaulaappel.github.io/media/posts/3/responsive/Plateu-xl.jpg 1360w ,https://anapaulaappel.github.io/media/posts/3/responsive/Plateu-2xl.jpg 1600w"  alt="" width="3546" height="2660"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://anapaulaappel.github.io/media/posts/3/Plauteu.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://anapaulaappel.github.io/media/posts/3/responsive/Plauteu-xs.jpg 300w ,https://anapaulaappel.github.io/media/posts/3/responsive/Plauteu-sm.jpg 480w ,https://anapaulaappel.github.io/media/posts/3/responsive/Plauteu-md.jpg 768w ,https://anapaulaappel.github.io/media/posts/3/responsive/Plauteu-lg.jpg 1024w ,https://anapaulaappel.github.io/media/posts/3/responsive/Plauteu-xl.jpg 1360w ,https://anapaulaappel.github.io/media/posts/3/responsive/Plauteu-2xl.jpg 1600w"  alt="" width="3411" height="2682"></figure>
 <p dir="ltr">Patent is a intelectual property that gives its owner the legal right to exclude others from making, using or selling an invention for a limited period of years in exchange for publishing an enabling public disclosure of the invention. </p>
-<p dir="ltr">On IBM I have more than 50 patents files and 24 granted. Most of my patents are in the field of chatbot, AI, Machine Learning and graphs.  You can see all my granted patents below:</p>
+<p dir="ltr">On IBM I have more than 56 patents files and 30 granted. Most of my patents are in the field of chatbot, AI, Machine Learning and graphs.  You can see all my granted patents below:</p>
 <ol>
+<li><a href="#INTERNAL_LINK#/post/null" title="https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11687811">11,687,811 - Predicting user question in question and answer system</a></li>
+<li><a href="#INTERNAL_LINK#/post/null" title="https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11681822">11,681,822 - Managing sensitive user information</a></li>
+<li><a href="#INTERNAL_LINK#/post/null" title="https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11677692">11,677,692 - Conversational systems content related to external events</a></li>
+<li><a href="#INTERNAL_LINK#/post/null" title="https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11636094">11,636,094 - Chaincode recommendation based on existing chaincode</a></li>
+<li><a href="#INTERNAL_LINK#/post/null" title="https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11562028">11,562,028 - Concept Prediction to Create New Intents and Assign Examples Automatically in Dialog Systems</a></li>
+<li><a href="#INTERNAL_LINK#/post/null" title="https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11514334">11,514,334 - Maintaining a Knowledge Database Based on User Interactions with a User Interface</a></li>
 <li class="p2"><span class="s1"><a href="#INTERNAL_LINK#/post/null" title="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">11,269,596 - Automated microservice creation based on user interaction</a></span></li>
 <li class="p2"><span class="s1"><a href="#INTERNAL_LINK#/post/null" title="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=2&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=Appel.INNM.&amp;OS=IN/Ana+AND+IN/Appel&amp;RS=IN/Ana+AND+IN/Appel">11,244,161 - Managing tree risk</a></span></li>
 <li class="p2"><span class="s1"><a href="#INTERNAL_LINK#/post/NaN" title="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=Ana.INNM.&amp;s2=appel.INNM.&amp;OS=IN/Ana+AND+IN/appel&amp;RS=IN/Ana+AND+IN/appel">11,216,768 - Product quality analysis and control</a></span></li>
