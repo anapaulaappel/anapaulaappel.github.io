@@ -204,6 +204,12 @@
    "nome": "Podcasts",
    "itens": [
     {
+     "data": "2026-08-26",
+     "titulo": "Ep. 148 – IA no mundo quântico",
+     "veiculo": "Tem tempo para Pergunta? (TDC)",
+     "url": "https://www.youtube.com/watch?v=VpSemBk5Fz8"
+    },
+    {
      "data": "2025-05-06",
      "titulo": "Mulheres na Computação Quântica (T01 E011)",
      "veiculo": "Mulheres da Hora – Museu Ciência e Vida",
@@ -255,12 +261,6 @@
    "id": "video",
    "nome": "Palestras e lives",
    "itens": [
-    {
-     "data": "2025-03-11",
-     "titulo": "O computador quântico é uma máquina que pensa diferente",
-     "veiculo": "Tem tempo para Pergunta? (TDC)",
-     "url": "https://www.youtube.com/watch?v=TG74lEW_tzc"
-    },
     {
      "data": "2023-07-03",
      "titulo": "Computação Quântica: procuram-se profissionais no Brasil",
