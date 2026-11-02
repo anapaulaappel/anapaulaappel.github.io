@@ -173,6 +173,22 @@
    "url": "https://www.credly.com/badges/7a8ab16c-c793-4c4f-af72-24df55ec6803"
   },
   {
+   "nome": "Invention Development Team - Silver Level",
+   "emissor": "IBM",
+   "data": "2022-10-18",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/73156e47-6214-4743-bbde-cd8a91020805/69e9d68dbecc0c6c0c5dfcc0.png",
+   "url": "https://www.credly.com/badges/13880af9-4889-49ca-aac1-f2a494f445b1"
+  },
+  {
+   "nome": "Invention Development Team - Bronze Level",
+   "emissor": "IBM",
+   "data": "2022-07-06",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/f2dae6ea-5eef-4ff4-981a-7cfb0430481f/69e9d67ebecc0c6c0c5dfc88.png",
+   "url": "https://www.credly.com/badges/ace3a63e-2edd-467c-bd21-8232a937d624"
+  },
+  {
    "nome": "IBM Quantum Conversations",
    "emissor": "IBM",
    "data": "2022-04-20",
@@ -188,6 +204,39 @@
    "tipo": "certificacao",
    "imagem": "https://images.credly.com/images/4e508d8e-3491-4426-a6c2-41fc5a7c56c8/badge-opencds-distinguished.png",
    "url": "https://www.credly.com/badges/8f7414d1-218b-490e-9a9c-b91ed44cee66"
+  },
+  {
+   "nome": "First Patent File",
+   "emissor": "IBM",
+   "data": "2018-12-20",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/ecfcaa31-deb4-4e3a-8bbd-d0277a7a0c74/First-patent.png",
+   "url": "https://www.credly.com/badges/759e3ab3-bf69-4c05-ae1a-d506f1ac2e53"
+  },
+  {
+   "nome": "Plateau",
+   "emissor": "IBM",
+   "data": "2018-12-20",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/27c8bd20-ad24-4584-8f32-9275329bb14d/Plateau.png",
+   "url": "https://www.credly.com/badges/de4cbc46-232d-4a61-a351-c2f35eaa100f"
+  },
+  {
+   "nome": "Master Inventor",
+   "emissor": "IBM",
+   "data": "2018-11-01",
+   "validade": "2027-12-31",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/8681926a-ebef-4bbe-ae22-130f1bcea47b/Master-Inventor.png",
+   "url": "https://www.credly.com/badges/ce1e4ba8-5c63-40ff-92a3-eebcdff2b98c"
+  },
+  {
+   "nome": "Patent Issuance",
+   "emissor": "IBM",
+   "data": "2018-10-01",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/0537748e-efc9-41aa-8785-d2577e821e78/Parent-Issuance.png",
+   "url": "https://www.credly.com/badges/cbc10112-9878-4ff3-8c0f-2020a9623a89"
   }
  ]
 }
