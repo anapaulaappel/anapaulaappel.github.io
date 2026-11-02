@@ -19,7 +19,6 @@
     }
   }
   *{box-sizing:border-box}
-  html{scroll-behavior:smooth;scroll-padding-top:64px}
   body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
   a{color:var(--accent);text-decoration:none}
   a:hover{text-decoration:underline}
@@ -31,7 +30,8 @@
   nav a{padding:14px 12px;color:var(--muted);font-weight:600;white-space:nowrap;border-bottom:2px solid transparent}
   nav a:hover,nav a.on{color:var(--fg);text-decoration:none;border-bottom-color:var(--accent)}
   main{max-width:860px;margin:0 auto;padding:0 20px 80px}
-  section{padding-top:36px}
+  section{padding-top:36px;display:none}
+  section.ativa{display:block}
   h2{margin:0 0 6px;font-size:1.4rem}
   .sub{color:var(--muted);margin:0 0 16px;font-size:.95rem}
   .row{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:14px 0}
@@ -260,20 +260,30 @@
   }
   init();
 
-  // destaca a seção visível no menu
+  // abas: mostra só a seção escolhida no menu (o endereço #id indica a aba)
+  var ABAS = ['formacao','patentes','artigos','premios','certificacoes','comunidade'];
   var links = document.querySelectorAll('nav a');
-  function onScroll(){
-    var cur = null;
-    ['formacao','patentes','artigos','premios','certificacoes','comunidade'].forEach(function(id){
-      var s = document.getElementById(id);
-      if (s && s.getBoundingClientRect().top < 120) cur = id;
-    });
+  function mostrarAba(){
+    var id = location.hash.slice(1);
+    if (ABAS.indexOf(id) < 0) id = ABAS[0];
+    ABAS.forEach(function(a){ document.getElementById(a).classList.toggle('ativa', a === id); });
     Array.prototype.forEach.call(links, function(a){
-      a.classList.toggle('on', a.getAttribute('href') === '#' + cur);
+      var on = a.getAttribute('href') === '#' + id;
+      a.classList.toggle('on', on);
+      if (on) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
     });
   }
-  window.addEventListener('scroll', onScroll, {passive:true});
-  onScroll();
+  Array.prototype.forEach.call(links, function(a){
+    a.addEventListener('click', function(ev){
+      ev.preventDefault();
+      history.pushState(null, '', a.getAttribute('href'));
+      mostrarAba();
+      window.scrollTo(0, 0);
+    });
+  });
+  window.addEventListener('popstate', mostrarAba);
+  window.addEventListener('hashchange', mostrarAba);
+  mostrarAba();
 })();
 </script>
 </body>
