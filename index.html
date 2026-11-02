@@ -7,24 +7,29 @@
 <meta name="description" content="Ana Paula Appel — patentes, artigos, prêmios e formação.">
 <style>
   :root{
-    --bg:#ffffff; --fg:#1b1f24; --muted:#5b6672; --line:#e3e7ec; --card:#f6f8fa;
-    --accent:#0f62fe; --ok:#0e6027; --ok-bg:#defbe6; --warn:#684e00; --warn-bg:#fcf4d6;
+    --bg:#ffffff; --fg:#1c1c1c; --muted:#5f5f5f; --line:#e4e4e4; --card:#f4f4f4;
+    --accent:#3a3a3a; --link:#2b2b2b; --ok:#0e6027; --ok-bg:#defbe6; --warn:#684e00; --warn-bg:#fcf4d6;
     --info:#0043ce; --info-bg:#e5f0ff;
   }
   @media (prefers-color-scheme: dark){
     :root{
-      --bg:#14171a; --fg:#e8ebee; --muted:#9aa6b2; --line:#2a3037; --card:#1b1f24;
-      --accent:#78a9ff; --ok:#6fdc8c; --ok-bg:#0e3a1d; --warn:#f1c21b; --warn-bg:#3a2e00;
+      --bg:#161616; --fg:#ececec; --muted:#a3a3a3; --line:#2e2e2e; --card:#1e1e1e;
+      --accent:#d0d0d0; --link:#e6e6e6; --ok:#6fdc8c; --ok-bg:#0e3a1d; --warn:#f1c21b; --warn-bg:#3a2e00;
       --info:#a6c8ff; --info-bg:#0b2a5b;
     }
   }
   *{box-sizing:border-box}
   body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
-  a{color:var(--accent);text-decoration:none}
-  a:hover{text-decoration:underline}
-  header.top{max-width:860px;margin:0 auto;padding:40px 20px 12px}
+  a{color:var(--link);text-decoration:underline;text-decoration-color:var(--line);text-underline-offset:3px}
+  a:hover{text-decoration-color:currentColor}
+  nav a{text-decoration:none}
+  header.top{background:linear-gradient(135deg,#0d0d0d 0%,#2b2b2b 55%,#575757 100%);color:#f2f2f2}
+  header.top .in{max-width:860px;margin:0 auto;padding:40px 20px 32px;display:flex;gap:24px;align-items:center}
+  header.top img{width:120px;height:120px;border-radius:50%;object-fit:cover;flex:none;border:3px solid rgba(255,255,255,.25)}
   header.top h1{margin:0;font-size:2rem;letter-spacing:-.01em}
-  header.top p{margin:6px 0 0;color:var(--muted)}
+  header.top p{margin:6px 0 0;color:#cfcfcf}
+  header.top a{color:#ffffff;text-decoration-color:rgba(255,255,255,.4)}
+  @media (max-width:520px){ header.top .in{flex-direction:column;text-align:center} }
   nav{position:sticky;top:0;background:var(--bg);border-bottom:1px solid var(--line);z-index:5}
   nav .in{max-width:860px;margin:0 auto;padding:0 20px;display:flex;gap:4px;overflow-x:auto}
   nav a{padding:14px 12px;color:var(--muted);font-weight:600;white-space:nowrap;border-bottom:2px solid transparent}
@@ -36,7 +41,7 @@
   .sub{color:var(--muted);margin:0 0 16px;font-size:.95rem}
   .row{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:14px 0}
   .pill{border:1px solid var(--line);background:var(--card);color:var(--fg);padding:6px 12px;border-radius:999px;font:inherit;font-size:.9rem;cursor:pointer}
-  .pill[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+  .pill[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--bg)}
   input[type=search]{flex:1;min-width:180px;padding:8px 12px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--fg);font:inherit}
   .item{padding:14px 0;border-top:1px solid var(--line)}
   .item:first-child{border-top:0}
@@ -55,14 +60,20 @@
   .cert{display:flex;gap:14px;align-items:center}
   .cert img,.cert .sem-img{width:56px;height:56px;flex:none;object-fit:contain}
   #erro{background:var(--warn-bg);color:var(--warn);padding:12px 14px;border-radius:8px;display:none;margin-top:20px}
+  @media (max-width:520px){ .year{min-width:0;display:block;padding:0} }
 </style>
 </head>
 <body>
 
 <header class="top">
+ <div class="in">
+  <img src="foto.jpg" alt="Foto de Ana Paula Appel">
+  <div>
   <h1>Ana Paula Appel</h1>
-  <p>Senior AI Specialist Solutions Architect · Red Hat</p>
+  <p>Senior AI Specialist Solutions Architect · Red&nbsp;Hat</p>
   <p class="links"><a href="https://www.youtube.com/@anaappel" target="_blank" rel="noopener">▶ Canal no YouTube: Vem Que Eu Te Explico</a></p>
+  </div>
+ </div>
 </header>
 
 <nav>
