@@ -1,0 +1,34 @@
+{
+  "experiencia": [
+    {
+      "periodo": "2025–atual",
+      "cargo": "Senior AI Specialist Solutions Architect",
+      "empresa": "Red Hat – Brasil",
+      "detalhe": "Estratégia técnica e arquitetura de soluções de IA para governo, bancos e telecom: IA generativa, visão computacional e modelos preditivos com Red Hat AI e OpenShift AI, da prova de conceito à produção, incluindo inferência escalável (vLLM, llm-d) e Model-as-a-Service."
+    },
+    {
+      "periodo": "2021–2025",
+      "cargo": "Senior AI Engineer",
+      "empresa": "IBM Client Engineering – Brasil",
+      "detalhe": "Iniciativas de IA e computação quântica com grandes instituições financeiras. Líder global da Data Science Profession da IBM (2023–2025) e líder do Comitê de Patentes da IBM América Latina, primeira mulher no cargo."
+    },
+    {
+      "periodo": "2020–2024",
+      "cargo": "Professora",
+      "empresa": "Fundação Getulio Vargas (FGV)",
+      "detalhe": "Cursos de pós-graduação e de educação executiva em Ciência de Dados e Inteligência Artificial."
+    },
+    {
+      "periodo": "2012–2021",
+      "cargo": "Research Scientist",
+      "empresa": "IBM Research – Brasil",
+      "detalhe": "Pesquisa em análise de grafos, machine learning e IA conversacional, com publicações em conferências internacionais e dezenas de patentes. IBM Master Inventor."
+    },
+    {
+      "periodo": "2010–2012",
+      "cargo": "Professora",
+      "empresa": "Universidade Federal do Espírito Santo (UFES)",
+      "detalhe": "Disciplinas de graduação e pós-graduação em IA, ciência de dados e métodos computacionais, com orientação de projetos de pesquisa."
+    }
+  ]
+}
