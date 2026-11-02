@@ -189,6 +189,13 @@
    "url": "https://www.credly.com/badges/8e983d8a-5f98-42e6-84c9-0d9a09154c1d"
   },
   {
+   "nome": "ACM Senior Member",
+   "emissor": "ACM (Association for Computing Machinery)",
+   "data": "2023",
+   "tipo": "badge",
+   "url": "https://awards.acm.org/award-recipients/appel_8506709"
+  },
+  {
    "nome": "IBM Quantum Challenge Fall 2022 Achievement - Advanced",
    "emissor": "IBM",
    "data": "2022-11-28",

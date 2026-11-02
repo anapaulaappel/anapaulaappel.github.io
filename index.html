@@ -51,7 +51,7 @@
   .links a{margin-right:14px}
   footer{max-width:860px;margin:0 auto;padding:0 20px 40px;color:var(--muted);font-size:.85rem}
   .cert{display:flex;gap:14px;align-items:center}
-  .cert img{width:56px;height:56px;flex:none;object-fit:contain}
+  .cert img,.cert .sem-img{width:56px;height:56px;flex:none;object-fit:contain}
   #erro{background:var(--warn-bg);color:var(--warn);padding:12px 14px;border-radius:8px;display:none;margin-top:20px}
 </style>
 </head>
@@ -137,7 +137,7 @@
       if (!r.ok) throw new Error(name); return r.json();
     });
   }
-  function fmt(d){ var p = d.split('-'); return p[2] + '/' + p[1] + '/' + p[0]; }
+  function fmt(d){ var p = d.split('-'); return p.length < 3 ? d : p[2] + '/' + p[1] + '/' + p[0]; }
   function gp(num){ return 'https://patents.google.com/patent/' + num + '/en'; }
   function pretty(num){
     var m = num.match(/^US(\d{7,8})(B\d)$/);
@@ -220,7 +220,8 @@
 
       function anoTitulo(box, lista){
         lista.forEach(function(p){
-          var head = el('div', {class:'title'}, [el('span', {class:'year', text:p.ano}), el('span', {text:p.titulo})]);
+          var t = p.url ? el('a', {href:p.url, target:'_blank', rel:'noopener', text:p.titulo}) : el('span', {text:p.titulo});
+          var head = el('div', {class:'title'}, [el('span', {class:'year', text:p.ano}), t]);
           var kids = [head];
           if (p.detalhe) kids.push(el('div', {class:'meta', text:p.detalhe}));
           box.appendChild(el('div', {class:'item'}, kids));
@@ -236,7 +237,7 @@
       cer.certificacoes.filter(function(c){ return c.tipo === 'certificacao'; })
         .concat(cer.certificacoes.filter(function(c){ return c.tipo !== 'certificacao'; }))
         .forEach(function(c){
-          var img = c.imagem ? el('img', {src:c.imagem, alt:'', loading:'lazy'}) : null;
+          var img = c.imagem ? el('img', {src:c.imagem, alt:'', loading:'lazy'}) : el('span', {class:'sem-img'});
           var badge = c.tipo === 'certificacao' ? el('span', {class:'badge ok', text:'Certificação'}) : null;
           var meta = el('div', {class:'meta'}, [el('span', {text:c.emissor}), el('span', {text:'emitido em ' + fmt(c.data)})]);
           if (c.validade) meta.appendChild(el('span', {text:'válido até ' + fmt(c.validade)}));
