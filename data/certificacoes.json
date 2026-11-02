@@ -61,6 +61,14 @@
    "url": "https://www.credly.com/badges/2d68e1ae-d565-4e14-9891-7e739bea3e98"
   },
   {
+   "nome": "IBM Certification Exam Developer 2025",
+   "emissor": "IBM Professional Certification",
+   "data": "2025-07-30",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/5774b3f1-5dde-41ba-8893-3e0246de6e98/blob",
+   "url": "https://www.credly.com/badges/7f19e090-245f-4363-9a04-86d2c58cacef"
+  },
+  {
    "nome": "Quantum-Safe with IBM Power10 Sales Foundation",
    "emissor": "IBM",
    "data": "2025-04-14",
@@ -125,6 +133,22 @@
    "url": "https://www.credly.com/badges/7dc746e2-94db-485d-8b97-6e37510c1f46"
   },
   {
+   "nome": "IBM Certified Specialist - AI Enterprise Workflow V1",
+   "emissor": "IBM Professional Certification",
+   "data": "2023-12-07",
+   "tipo": "certificacao",
+   "imagem": "https://images.credly.com/images/f96e14c2-4295-448d-ba9f-b36d9f2b3c99/Badge_C0004400.png",
+   "url": "https://www.credly.com/badges/71fce468-fbd9-4c3c-9386-a4fa5ad30d89"
+  },
+  {
+   "nome": "IBM Machine Learning Specialist - Advanced",
+   "emissor": "IBM",
+   "data": "2023-12-03",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/792cd956-e5c7-47c2-a35e-0e96ed703f42/image.png",
+   "url": "https://www.credly.com/badges/49cbcccc-be4c-44e5-a19b-13faf7963387"
+  },
+  {
    "nome": "Qiskit Advocate",
    "emissor": "IBM",
    "data": "2023-10-05",
@@ -149,6 +173,14 @@
    "url": "https://www.credly.com/badges/2e0e32b4-61fc-4731-8599-1dc8e7898e16"
   },
   {
+   "nome": "IBM Certified Data Scientist - Watson Specialist v1",
+   "emissor": "IBM Professional Certification",
+   "data": "2023-05-16",
+   "tipo": "certificacao",
+   "imagem": "https://images.credly.com/images/e222de18-65fe-4b45-becc-bde06e558f72/image.png",
+   "url": "https://www.credly.com/badges/6737fe62-c2c2-410c-b92d-bf852d86a7e5"
+  },
+  {
    "nome": "Quantum-Safe with IBM z16 Sales Foundation",
    "emissor": "IBM",
    "data": "2023-02-14",
@@ -171,6 +203,14 @@
    "tipo": "badge",
    "imagem": "https://images.credly.com/images/4c81357e-c683-4295-91d9-8039bcfd5c90/69e9d38fbecc0c6c0c5df4c3.png",
    "url": "https://www.credly.com/badges/7a8ab16c-c793-4c4f-af72-24df55ec6803"
+  },
+  {
+   "nome": "IBM Technology Excellence",
+   "emissor": "IBM",
+   "data": "2022-11-11",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/3e49c9e5-6885-48be-ac46-5fbd488039d5/image.png",
+   "url": "https://www.credly.com/badges/325394ac-f1b1-4c15-8ed7-64ff2eea9596"
   },
   {
    "nome": "Invention Development Team - Silver Level",
@@ -206,6 +246,31 @@
    "url": "https://www.credly.com/badges/8f7414d1-218b-490e-9a9c-b91ed44cee66"
   },
   {
+   "nome": "Data Science Profession Certification - Converged certification Expert+TL",
+   "emissor": "IBM",
+   "data": "2021-04-28",
+   "validade": "2027-04-27",
+   "tipo": "certificacao",
+   "imagem": "https://images.credly.com/images/33fffc51-5646-494a-befd-d6719f4b18e2/Data-Scientist-Thought-Leader_1_.png",
+   "url": "https://www.credly.com/badges/3d08d91d-7e3b-4bed-a4bc-8d7653fa7410"
+  },
+  {
+   "nome": "IBM Intellectual Capital/ Intellectual Property Creator",
+   "emissor": "IBM",
+   "data": "2021-01-15",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/b40b149a-97e5-4499-8f8b-dd413e5d4f72/Intellectual-capital-property.png",
+   "url": "https://www.credly.com/badges/074c1feb-5e85-46d2-971e-4346d5e59f6e"
+  },
+  {
+   "nome": "IBM Intellectual Capital/ Intellectual Property Creator",
+   "emissor": "IBM",
+   "data": "2019-03-19",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/b40b149a-97e5-4499-8f8b-dd413e5d4f72/Intellectual-capital-property.png",
+   "url": "https://www.credly.com/badges/cba3049b-8547-4046-bcc3-c4170d96796e"
+  },
+  {
    "nome": "First Patent File",
    "emissor": "IBM",
    "data": "2018-12-20",
@@ -237,6 +302,14 @@
    "tipo": "badge",
    "imagem": "https://images.credly.com/images/0537748e-efc9-41aa-8785-d2577e821e78/Parent-Issuance.png",
    "url": "https://www.credly.com/badges/cbc10112-9878-4ff3-8c0f-2020a9623a89"
+  },
+  {
+   "nome": "Member - IBM Academy of Technology",
+   "emissor": "IBM",
+   "data": "2017-08-01",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/d39f8071-5d8d-4c29-b24f-5ad07e1c8667/AoT-Member.png",
+   "url": "https://www.credly.com/badges/b04433f0-8b3c-41ad-9892-0a930e9257b8"
   }
  ]
 }
