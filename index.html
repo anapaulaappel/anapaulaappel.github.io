@@ -270,6 +270,7 @@
         var meta = el('div', {class:'meta'});
         var linha = [a.autores, a.veiculo, a.ano].filter(Boolean).join(' · ');
         meta.appendChild(el('span', {text:linha}));
+        if (a.codigo) meta.appendChild(el('a', {href:a.codigo, target:'_blank', rel:'noopener', text:'Código (GitHub)'}));
         ab.appendChild(el('div', {class:'item'}, [head, meta]));
       });
 

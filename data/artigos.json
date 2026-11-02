@@ -19,14 +19,16 @@
       "titulo": "Quantum Encoding Agents: A Natural Language Interface for Data Embedding Strategy Selection in Quantum Machine Learning",
       "autores": "Ana Paula Appel",
       "veiculo": "arXiv:2609.31902",
-      "url": "https://arxiv.org/abs/2609.31902"
+      "url": "https://arxiv.org/abs/2609.31902",
+      "codigo": "https://github.com/anapaulaappel/quantum-encoding-agents"
     },
     {
       "ano": 2026,
       "titulo": "Fractal dimension predicts quantum kernel collapse in angle-encoded data",
       "autores": "Ana Paula Appel",
       "veiculo": "arXiv:2609.00475",
-      "url": "https://arxiv.org/abs/2609.00475"
+      "url": "https://arxiv.org/abs/2609.00475",
+      "codigo": "https://github.com/anapaulaappel/qml-qubit-budget"
     },
     {
       "ano": 2022,
