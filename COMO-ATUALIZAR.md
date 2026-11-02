@@ -10,6 +10,7 @@ O site é um único `index.html` que lê os arquivos da pasta `data/`. Para muda
 | Formação | `data/formacao.json` |
 | Certificações | `data/certificacoes.json` |
 | Comunidade | `data/comunidade.json` |
+| Entrevistas | `data/entrevistas.json` (dividido em seções: imprensa, TV, podcasts, palestras) |
 
 ## Adicionar um prêmio, artigo ou formação
 Copie um bloco `{ ... }` existente, cole logo abaixo (com vírgula entre os blocos), e troque os textos.

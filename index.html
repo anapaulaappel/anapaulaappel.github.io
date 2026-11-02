@@ -59,6 +59,7 @@
   footer{max-width:860px;margin:0 auto;padding:0 20px 40px;color:var(--muted);font-size:.85rem}
   .cert{display:flex;gap:14px;align-items:center}
   .cert img,.cert .sem-img{width:56px;height:56px;flex:none;object-fit:contain}
+  h3{margin:28px 0 4px;font-size:1.05rem;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
   #erro{background:var(--warn-bg);color:var(--warn);padding:12px 14px;border-radius:8px;display:none;margin-top:20px}
   @media (max-width:520px){ .year{min-width:0;display:block;padding:0} }
 </style>
@@ -84,6 +85,7 @@
     <a href="#premios">Prêmios</a>
     <a href="#certificacoes">Certificações</a>
     <a href="#comunidade">Comunidade</a>
+    <a href="#entrevistas">Entrevistas</a>
   </div>
 </nav>
 
@@ -130,6 +132,12 @@
     <h2>Comunidade</h2>
     <p class="sub">Trabalho voluntário</p>
     <div id="com-lista"></div>
+  </section>
+
+  <section id="entrevistas">
+    <h2>Entrevistas</h2>
+    <p class="sub">Matérias, podcasts, TV e palestras.</p>
+    <div id="ent-lista"></div>
   </section>
 
 </main>
@@ -210,8 +218,8 @@
   }
 
   function init(){
-    Promise.all([load('patentes'), load('artigos'), load('premios'), load('formacao'), load('certificacoes'), load('comunidade')]).then(function(r){
-      var pat = r[0], art = r[1], pre = r[2], form = r[3], cer = r[4], com = r[5];
+    Promise.all([load('patentes'), load('artigos'), load('premios'), load('formacao'), load('certificacoes'), load('comunidade'), load('entrevistas')]).then(function(r){
+      var pat = r[0], art = r[1], pre = r[2], form = r[3], cer = r[4], com = r[5], ent = r[6];
       ALL = pat.patentes;
 
       var conc = ALL.filter(function(p){return p.status === 'concedida';}).length;
@@ -275,6 +283,24 @@
           cb.appendChild(el('div', {class:'item cert'}, [img, txt]));
         });
 
+      function dataCurta(d){
+        if (!d) return '';
+        var p = d.split('-');
+        return p.length === 3 ? fmt(d) : p.length === 2 ? p[1] + '/' + p[0] : d;
+      }
+      var eb = document.getElementById('ent-lista');
+      ent.secoes.forEach(function(sec){
+        if (!sec.itens.length) return;
+        eb.appendChild(el('h3', {text: sec.nome + ' (' + sec.itens.length + ')'}));
+        sec.itens.forEach(function(i){
+          var meta = el('div', {class:'meta'}, [el('span', {text:i.veiculo})]);
+          if (i.data) meta.appendChild(el('span', {text:dataCurta(i.data)}));
+          if (i.idioma) meta.appendChild(el('span', {text:'em ' + i.idioma}));
+          eb.appendChild(el('div', {class:'item'}, [
+            el('div', {class:'title'}, [el('a', {href:i.url, target:'_blank', rel:'noopener', text:i.titulo})]), meta]));
+        });
+      });
+
       var fb = document.getElementById('for-lista');
       form.formacao.forEach(function(f){
         fb.appendChild(el('div', {class:'item'}, [
@@ -290,7 +316,7 @@
   init();
 
   // abas: mostra só a seção escolhida no menu (o endereço #id indica a aba)
-  var ABAS = ['formacao','patentes','artigos','premios','certificacoes','comunidade'];
+  var ABAS = ['formacao','patentes','artigos','premios','certificacoes','comunidade','entrevistas'];
   var links = document.querySelectorAll('nav a');
   function mostrarAba(){
     var id = location.hash.slice(1);

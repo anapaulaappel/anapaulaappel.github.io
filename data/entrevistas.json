@@ -1,0 +1,346 @@
+{
+ "secoes": [
+  {
+   "id": "imprensa",
+   "nome": "Jornais, revistas e sites",
+   "itens": [
+    {
+     "data": "2026-08",
+     "titulo": "“Soberania não se mede por onde o servidor está e sim por quanto custa mudar de ideia”",
+     "veiculo": "Alura",
+     "url": "https://www.alura.com.br/artigos/soberania-nao-se-mede-por-onde-o-servidor-esta-e-sim-por-quanto-custa-mudar-de-ideia-ana-paula-appel-red-hat"
+    },
+    {
+     "data": "2025-05",
+     "titulo": "Computação quântica será um novo bug do milênio, diz engenheira da IBM",
+     "veiculo": "Terra / Estadão",
+     "url": "https://www.terra.com.br/byte/inovacao/computacao-quantica-sera-um-novo-bug-do-milenio-diz-engenheira-da-ibm,4e713a2cf00f3d4b0b96932cabd6f257ndlts7te.html"
+    },
+    {
+     "data": "2025-05",
+     "titulo": "‘Não sabemos quando o bug do milênio pode acontecer na computação quântica’, diz especialista da IBM",
+     "veiculo": "Terra / Estadão",
+     "url": "https://www.terra.com.br/byte/inovacao/nao-sabemos-quando-o-bug-do-milenio-pode-acontecer-na-computacao-quantica-diz-especialista-da-ibm,ede7d59ac6de2905cb4716d19230c118kv22891p.html"
+    },
+    {
+     "data": "2023-08-17",
+     "titulo": "Setor financeiro se prepara para a era da computação quântica nos negócios",
+     "veiculo": "Valor Econômico",
+     "url": "https://valor.globo.com/patrocinado/deloitte/impacting-the-future/noticia/2023/08/17/setor-financeiro-se-prepara-para-a-era-da-computacao-quantica-nos-negocios.ghtml"
+    },
+    {
+     "data": "2023-07-31",
+     "titulo": "Bradesco entra na era da computação quântica",
+     "veiculo": "Valor Econômico",
+     "url": "https://valor.globo.com/financas/criptomoedas/noticia/2023/07/31/bradesco-entra-na-era-da-computacao-quantica.ghtml"
+    },
+    {
+     "data": "2023-07-05",
+     "titulo": "Computação quântica vai ajudar a combater fraudes",
+     "veiculo": "Valor Econômico",
+     "url": "https://valor.globo.com/publicacoes/especiais/tecnologia-bancaria/noticia/2023/07/05/computacao-quantica-vai-ajudar-a-combater-fraudes.ghtml"
+    },
+    {
+     "data": "2023-06-28",
+     "titulo": "Bancos experimentam IA generativa e se preparam para computação quântica",
+     "veiculo": "Mobile Time",
+     "url": "https://www.mobiletime.com.br/noticias/28/06/2023/bancos-experimentam-ia-generativa-e-se-preparam-para-computacao-quantica/"
+    },
+    {
+     "data": "2023-06",
+     "titulo": "Bancos recrutam talentos para avançar na computação quântica",
+     "veiculo": "Convergência Digital (Febraban Tech 2023)",
+     "url": "https://convergenciadigital.com.br/especial/febraban-tech-2023/bancos-recrutam-talentos-para-avanar-na-computao-quntica/"
+    },
+    {
+     "data": "2023-05-02",
+     "titulo": "Com Embrapii, Brasil entra no mundo da tecnologia quântica",
+     "veiculo": "Valor Econômico",
+     "url": "https://valor.globo.com/empresas/noticia/2023/05/02/com-embrapii-brasil-entra-no-mundo-da-tecnologia-quantica.ghtml"
+    },
+    {
+     "data": "2023-02-22",
+     "titulo": "Computação quântica: quem são as mulheres que lideram a tecnologia dentro das empresas",
+     "veiculo": "Estadão",
+     "url": "https://www.estadao.com.br/economia/computacao-quantica-quem-sao-as-mulheres-que-lideram-a-tecnologia-dentro-das-empresas/"
+    },
+    {
+     "data": "2022-12-19",
+     "titulo": "Computação quântica vai acelerar soluções",
+     "veiculo": "Valor Econômico",
+     "url": "https://valor.globo.com/publicacoes/suplementos/noticia/2022/12/19/computacao-quantica-vai-acelerar-solucoes.ghtml"
+    },
+    {
+     "data": "2022-09-30",
+     "titulo": "A década quântica está se movendo ainda mais rápido do que esperávamos",
+     "veiculo": "Valor Econômico",
+     "url": "https://valor.globo.com/patrocinado/ibm/noticia/2022/09/30/a-decada-quantica-esta-se-movendo-ainda-mais-rapido-do-que-esperavamos.ghtml"
+    },
+    {
+     "data": "2022-09-30",
+     "titulo": "A década quântica está se movendo ainda mais rápido do que esperávamos",
+     "veiculo": "Olhar Digital",
+     "url": "https://olhardigital.com.br/2022/09/30/vamos-criar/a-decada-quantica-esta-se-movendo-ainda-mais-rapido-do-que-esperavamos/"
+    },
+    {
+     "data": "2021-02",
+     "titulo": "Celebrating IBM women: Day of Women and Girls in Science",
+     "veiculo": "IBM Blog",
+     "url": "https://www.ibm.com/blogs/corporate-social-responsibility/2021/02/celebrating-ibm-women-day-of-women-and-girls-in-science/",
+     "idioma": "inglês"
+    },
+    {
+     "data": "2021-01-06",
+     "titulo": "Como implementar inovação nas empresas?",
+     "veiculo": "Proxxima",
+     "url": "https://www.proxxima.com.br/home/proxxima/noticias/2021/01/06/como-implementar-um-programa-de-inovacao.html"
+    },
+    {
+     "data": "2020-07",
+     "titulo": "Just Entrevista — Ana Paula Appel, IBM Research",
+     "veiculo": "Just a Little Data (Medium)",
+     "url": "https://medium.com/just-a-little-data/just-entrevista-ana-paula-appel-ibm-research-1c9a2fbb97ae"
+    },
+    {
+     "data": "2020",
+     "titulo": "Como 2020 alterou as previsões da IBM para os próximos 5 anos (5 em 5)",
+     "veiculo": "Exame",
+     "url": "https://exame.com/inovacao/como-2020-alterou-as-previsoes-da-ibm-para-os-proximos-5-anos/"
+    },
+    {
+     "data": "2019-12-17",
+     "titulo": "Mulheres em Tecnologia",
+     "veiculo": "Revista TPM",
+     "url": "https://twitter.com/revistatpm/status/1207078268437815297"
+    },
+    {
+     "data": "2019-12-12",
+     "titulo": "Mujeres en el aprendizaje automático",
+     "veiculo": "Canal-AR",
+     "url": "https://www.canal-ar.com.ar/28356-Mujeres-en-el-aprendizaje-automatico.html",
+     "idioma": "espanhol"
+    },
+    {
+     "data": "2019-11-22",
+     "titulo": "Brasileira é a primeira a receber certificação do Open Group",
+     "veiculo": "Baguete",
+     "url": "https://www.baguete.com.br/noticias/22/11/2019/brasileira-e-a-primeira-a-receber-certificacao-do-open-group"
+    },
+    {
+     "data": "2019-11-07",
+     "titulo": "Elas fazem a diferença: desafios e oportunidades das mulheres no mercado da tecnologia",
+     "veiculo": "Vix",
+     "url": "https://www.vix.com/pt/comportamento/580362/elas-fazem-a-diferenca-desafios-e-oportunidades-das-mulheres-no-mercado-da-tecnologia"
+    },
+    {
+     "data": "2019-09-26",
+     "titulo": "IBM and The Open Group’s Data Scientist Certification Has Its First Recipients",
+     "veiculo": "Datanami",
+     "url": "https://www.datanami.com/2019/09/26/ibm-and-the-open-groups-data-scientist-certification-has-its-first-recipients/",
+     "idioma": "inglês"
+    },
+    {
+     "data": "2019-09",
+     "titulo": "IBM certifies a much-needed 140 data scientists for AI development",
+     "veiculo": "TechRepublic",
+     "url": "https://www.techrepublic.com/article/ibm-certifies-a-much-needed-140-data-scientists-for-ai-development/",
+     "idioma": "inglês"
+    },
+    {
+     "data": "2019-09",
+     "titulo": "IBM’s first certified data scientists: “It’s amazing”",
+     "veiculo": "IBM Blog",
+     "url": "https://www.ibm.com/blogs/think/2019/09/ibms-first-certified-data-scientists-its-amazing/",
+     "idioma": "inglês"
+    },
+    {
+     "data": "2019-04-26",
+     "titulo": "Os algoritmos tentam identificar seu gênero, mas muitas vezes reforçam representações sexistas",
+     "veiculo": "Revista TPM",
+     "url": "https://revistatrip.uol.com.br/tpm/os-algoritmos-tentam-identificar-seu-genero-mas-muitas-vezes-reforcam-representacoes-sexistas"
+    },
+    {
+     "data": "2018-11-06",
+     "titulo": "O que faz um cientista de dados?",
+     "veiculo": "Tecmundo",
+     "url": "https://www.tecmundo.com.br/mercado/135942-cientista-dados-inteligencia-ibm.htm"
+    },
+    {
+     "titulo": "Uma revolução quântica",
+     "veiculo": "Deloitte – Mundo Corporativo",
+     "url": "https://mundocorporativo.deloitte.com.br/revolucao-quantica/"
+    },
+    {
+     "titulo": "Especialistas analisam potencial transformador da Inteligência Artificial",
+     "veiculo": "UFMG",
+     "url": "https://ufmg.br/comunicacao/noticias/especialistas-analisam-potencial-transformador-da-inteligencia-artificial"
+    },
+    {
+     "titulo": "Mais mulheres em STEM: como transformar o desafio em uma oportunidade",
+     "veiculo": "SEGS",
+     "url": "https://www.segs.com.br/seguros/216379-mais-mulheres-em-stem-como-transformar-o-desafio-em-uma-oportunidade"
+    }
+   ]
+  },
+  {
+   "id": "tv",
+   "nome": "TV",
+   "itens": [
+    {
+     "data": "2021-02-25",
+     "titulo": "O estímulo à inovação de Ana Paula Appel",
+     "veiculo": "Revista TPM (vídeo)",
+     "url": "https://www.youtube.com/watch?v=SEHDosRgiNk"
+    },
+    {
+     "titulo": "Dia das Mulheres – Jornal Hoje",
+     "veiculo": "TV Globo",
+     "url": "https://www.youtube.com/watch?v=Pb036NwJ-Dc"
+    }
+   ]
+  },
+  {
+   "id": "podcast",
+   "nome": "Podcasts",
+   "itens": [
+    {
+     "data": "2025-05-06",
+     "titulo": "Mulheres na Computação Quântica (T01 E011)",
+     "veiculo": "Mulheres da Hora – Museu Ciência e Vida",
+     "url": "https://www.youtube.com/watch?v=2U1qOAyEA9M"
+    },
+    {
+     "data": "2025-03-05",
+     "titulo": "Ep. 71 – Computação Quântica: Potencial, Desafios e o Futuro da Tecnologia",
+     "veiculo": "Tem tempo para Pergunta? (TDC)",
+     "url": "https://www.youtube.com/watch?v=lsT-VE1h3Dw"
+    },
+    {
+     "data": "2024-11-12",
+     "titulo": "Menos coaches e mais desenvolvedores: os mistérios do computador quântico",
+     "veiculo": "Deu Tilt (UOL)",
+     "url": "https://open.spotify.com/episode/75uJRLuQePkOf6qi0OEaYw"
+    },
+    {
+     "data": "2024-04-05",
+     "titulo": "#52: Computação quântica com IA, jailbreak de LLMs, Grok 1.5",
+     "veiculo": "Hipsters: Fora de Controle (Alura)",
+     "url": "https://www.alura.com.br/podcast/hipsterstech-computacao-quantica-com-ia-jailbreak-de-llms-grok-1-5-hipsters-fora-de-controle-52-a9273"
+    },
+    {
+     "data": "2023-05-18",
+     "titulo": "#122 – Mundo Quântico",
+     "veiculo": "Future Hacker",
+     "url": "https://www.youtube.com/watch?v=mn-GCNCnOQ8"
+    },
+    {
+     "data": "2018-05-07",
+     "titulo": "Ep. 7 – Ana Appel, a cientista dos dados!",
+     "veiculo": "The Thinkers",
+     "url": "https://www.youtube.com/watch?v=MPC81heWEHE"
+    },
+    {
+     "titulo": "O poder quântico",
+     "veiculo": "Tecnocast (Tecnoblog)",
+     "url": "https://tecnoblog.net/tecnocast/o-poder-quantico/"
+    },
+    {
+     "titulo": "Bias",
+     "veiculo": "SingularityU Brazil",
+     "url": "https://open.spotify.com/episode/33CON7QDJjyeNKFScUTHWJ"
+    }
+   ]
+  },
+  {
+   "id": "video",
+   "nome": "Palestras e lives",
+   "itens": [
+    {
+     "data": "2025-03-11",
+     "titulo": "O computador quântico é uma máquina que pensa diferente",
+     "veiculo": "Tem tempo para Pergunta? (TDC)",
+     "url": "https://www.youtube.com/watch?v=TG74lEW_tzc"
+    },
+    {
+     "data": "2023-07-03",
+     "titulo": "Computação Quântica: procuram-se profissionais no Brasil",
+     "veiculo": "CDTV (Convergência Digital)",
+     "url": "https://www.youtube.com/watch?v=mm4IgnVHlSA"
+    },
+    {
+     "data": "2023-06-29",
+     "titulo": "A revolução da computação quântica está próxima?",
+     "veiculo": "Febraban Tech",
+     "url": "https://www.youtube.com/watch?v=8qHZvziXB8Y"
+    },
+    {
+     "data": "2023-06-07",
+     "titulo": "Palestra com Ana Paula",
+     "veiculo": "MBA IA Big Data (USP)",
+     "url": "https://www.youtube.com/watch?v=Z0AmjPxszSY"
+    },
+    {
+     "data": "2023-05-24",
+     "titulo": "Master Class Computação Quântica",
+     "veiculo": "Univille",
+     "url": "https://www.youtube.com/watch?v=YtCBxBR3rZA"
+    },
+    {
+     "data": "2021-11-07",
+     "titulo": "Mulheres na ciência",
+     "veiculo": "Vem Que Eu Te Explico",
+     "url": "https://www.youtube.com/watch?v=S8LaUsCo5W4"
+    },
+    {
+     "data": "2021-11-06",
+     "titulo": "IEEE WIE ILS Brazil",
+     "veiculo": "IEEE WIE Region 9",
+     "url": "https://www.youtube.com/watch?v=qDWYQTqUwsI"
+    },
+    {
+     "data": "2021-10-21",
+     "titulo": "Maratona Behind the Code 2021 – Treinamentos – Dia 4",
+     "veiculo": "IBM Developer",
+     "url": "https://www.youtube.com/watch?v=p_gC30Iye3w"
+    },
+    {
+     "data": "2021-08-11",
+     "titulo": "Live com Ana Paula Appel",
+     "veiculo": "IF Meninas nas Exatas",
+     "url": "https://www.youtube.com/watch?v=injO6TKh5QQ"
+    },
+    {
+     "data": "2021-05-27",
+     "titulo": "Maternidade e Ciência de Dados: como conciliar?",
+     "veiculo": "AI Girls",
+     "url": "https://www.youtube.com/watch?v=rTad-T5gx98"
+    },
+    {
+     "data": "2021-03-16",
+     "titulo": "Usando grafos para analisar dados de seguro saúde",
+     "veiculo": "EstaTiDados",
+     "url": "https://www.youtube.com/watch?v=8-SKhibaXgA"
+    },
+    {
+     "data": "2020-12-15",
+     "titulo": "Threats and Contributions of AI to Democracy and Society – Roundtable",
+     "veiculo": "AI2",
+     "url": "https://www.youtube.com/watch?v=uyDvnESsPoI",
+     "idioma": "inglês"
+    },
+    {
+     "data": "2019-03-29",
+     "titulo": "Data Summit #2: Transformando dados em $$$, como fazer isso agora!",
+     "veiculo": "Just Solutions",
+     "url": "https://www.youtube.com/watch?v=cKZSuJsWKpM"
+    },
+    {
+     "data": "2018-08-27",
+     "titulo": "Graph Mining with Deep Learning: challenges and pitfalls",
+     "veiculo": "InfoQ Brasil",
+     "url": "https://www.youtube.com/watch?v=5SadWXOwPF4"
+    }
+   ]
+  }
+ ]
+}
