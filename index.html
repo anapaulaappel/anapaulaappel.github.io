@@ -65,16 +65,21 @@
 
 <nav>
   <div class="in">
+    <a href="#formacao">Formação</a>
     <a href="#patentes">Patentes</a>
     <a href="#artigos">Artigos</a>
     <a href="#premios">Prêmios</a>
     <a href="#certificacoes">Certificações</a>
-    <a href="#formacao">Formação</a>
   </div>
 </nav>
 
 <main>
   <div id="erro">Não consegui carregar os dados. Se você abriu o arquivo direto do computador, publique no GitHub Pages ou rode um servidor local (<code>python3 -m http.server</code>).</div>
+
+  <section id="formacao">
+    <h2>Formação</h2>
+    <div id="for-lista"></div>
+  </section>
 
   <section id="patentes">
     <h2>Patentes</h2>
@@ -106,10 +111,6 @@
     <div id="cer-lista"></div>
   </section>
 
-  <section id="formacao">
-    <h2>Formação</h2>
-    <div id="for-lista"></div>
-  </section>
 </main>
 
 <footer id="rodape"></footer>
@@ -253,7 +254,7 @@
   var links = document.querySelectorAll('nav a');
   function onScroll(){
     var cur = null;
-    ['patentes','artigos','premios','certificacoes','formacao'].forEach(function(id){
+    ['formacao','patentes','artigos','premios','certificacoes'].forEach(function(id){
       var s = document.getElementById(id);
       if (s && s.getBoundingClientRect().top < 120) cur = id;
     });
