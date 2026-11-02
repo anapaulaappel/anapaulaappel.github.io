@@ -47,7 +47,7 @@
   .warn{background:var(--warn-bg);color:var(--warn)}
   .info{background:var(--info-bg);color:var(--info)}
   .nums a{margin-right:10px;white-space:nowrap}
-  .year{display:inline-block;min-width:76px;color:var(--muted);font-variant-numeric:tabular-nums}
+  .year{display:inline-block;min-width:130px;padding-right:16px;color:var(--muted);font-variant-numeric:tabular-nums}
   .links a{margin-right:14px}
   footer{max-width:860px;margin:0 auto;padding:0 20px 40px;color:var(--muted);font-size:.85rem}
   .cert{display:flex;gap:14px;align-items:center}
@@ -70,6 +70,7 @@
     <a href="#artigos">Artigos</a>
     <a href="#premios">Prêmios</a>
     <a href="#certificacoes">Certificações</a>
+    <a href="#comunidade">Comunidade</a>
   </div>
 </nav>
 
@@ -109,6 +110,12 @@
     <h2>Certificações</h2>
     <p class="sub links" id="cer-links"></p>
     <div id="cer-lista"></div>
+  </section>
+
+  <section id="comunidade">
+    <h2>Comunidade</h2>
+    <p class="sub">Trabalho voluntário</p>
+    <div id="com-lista"></div>
   </section>
 
 </main>
@@ -177,8 +184,8 @@
   }
 
   function init(){
-    Promise.all([load('patentes'), load('artigos'), load('premios'), load('formacao'), load('certificacoes')]).then(function(r){
-      var pat = r[0], art = r[1], pre = r[2], form = r[3], cer = r[4];
+    Promise.all([load('patentes'), load('artigos'), load('premios'), load('formacao'), load('certificacoes'), load('comunidade')]).then(function(r){
+      var pat = r[0], art = r[1], pre = r[2], form = r[3], cer = r[4], com = r[5];
       ALL = pat.patentes;
 
       var conc = ALL.filter(function(p){return p.status === 'concedida';}).length;
@@ -211,13 +218,16 @@
         ab.appendChild(el('div', {class:'item'}, [head, meta]));
       });
 
-      var pb = document.getElementById('pre-lista');
-      pre.premios.forEach(function(p){
-        var head = el('div', {class:'title'}, [el('span', {class:'year', text:p.ano}), el('span', {text:p.titulo})]);
-        var kids = [head];
-        if (p.detalhe) kids.push(el('div', {class:'meta', text:p.detalhe}));
-        pb.appendChild(el('div', {class:'item'}, kids));
-      });
+      function anoTitulo(box, lista){
+        lista.forEach(function(p){
+          var head = el('div', {class:'title'}, [el('span', {class:'year', text:p.ano}), el('span', {text:p.titulo})]);
+          var kids = [head];
+          if (p.detalhe) kids.push(el('div', {class:'meta', text:p.detalhe}));
+          box.appendChild(el('div', {class:'item'}, kids));
+        });
+      }
+      anoTitulo(document.getElementById('pre-lista'), pre.premios);
+      anoTitulo(document.getElementById('com-lista'), com.comunidade);
 
       var cl = document.getElementById('cer-links');
       cl.appendChild(document.createTextNode('Perfil completo: '));
@@ -254,7 +264,7 @@
   var links = document.querySelectorAll('nav a');
   function onScroll(){
     var cur = null;
-    ['formacao','patentes','artigos','premios','certificacoes'].forEach(function(id){
+    ['formacao','patentes','artigos','premios','certificacoes','comunidade'].forEach(function(id){
       var s = document.getElementById(id);
       if (s && s.getBoundingClientRect().top < 120) cur = id;
     });

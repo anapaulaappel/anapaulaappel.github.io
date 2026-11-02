@@ -31,7 +31,7 @@
    "nome": "IBM Quantum Technical Ambassador",
    "emissor": "IBM",
    "data": "2026-03-13",
-   "tipo": "badge",
+   "tipo": "certificacao",
    "imagem": "https://images.credly.com/images/a4e6301f-51b1-48f8-acda-b075ce727f57/IBM-Quantum-Technical.png",
    "url": "https://www.credly.com/badges/db10e761-a8b2-4d99-807c-a2ae31ec3892"
   },
@@ -197,6 +197,15 @@
    "tipo": "badge",
    "imagem": "https://images.credly.com/images/3e1b4b7d-3780-46e5-aee6-4eef960a80c1/69e9d69abecc0c6c0c5dfcfc.png",
    "url": "https://www.credly.com/badges/efe50921-d5db-48b1-a8c8-d6d4d9882013"
+  },
+  {
+   "nome": "Professional Certification: Level 3 - Distinguished Data Scientist",
+   "emissor": "The Open Group",
+   "data": "2021-04-29",
+   "validade": "2027-04-27",
+   "tipo": "certificacao",
+   "imagem": "https://images.credly.com/images/4e508d8e-3491-4426-a6c2-41fc5a7c56c8/badge-opencds-distinguished.png",
+   "url": "https://www.credly.com/badges/8f7414d1-218b-490e-9a9c-b91ed44cee66"
   }
  ]
 }

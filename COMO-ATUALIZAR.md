@@ -9,6 +9,7 @@ O site é um único `index.html` que lê os arquivos da pasta `data/`. Para muda
 | Prêmios | `data/premios.json` |
 | Formação | `data/formacao.json` |
 | Certificações | `data/certificacoes.json` |
+| Comunidade | `data/comunidade.json` |
 
 ## Adicionar um prêmio, artigo ou formação
 Copie um bloco `{ ... }` existente, cole logo abaixo (com vírgula entre os blocos), e troque os textos.
