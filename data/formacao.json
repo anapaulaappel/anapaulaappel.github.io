@@ -1,0 +1,9 @@
+{
+  "formacao": [
+    { "ano": "2011", "titulo": "Pós-doutorado em Ciência da Computação", "instituicao": "Universidade Federal de São Carlos – Brasil" },
+    { "ano": "2010", "titulo": "Doutorado em Ciência da Computação", "instituicao": "Universidade de São Paulo (São Carlos) – Brasil" },
+    { "ano": "2008", "titulo": "Pesquisadora visitante", "instituicao": "Carnegie Mellon University – EUA" },
+    { "ano": "2003", "titulo": "Mestrado em Ciência da Computação", "instituicao": "Universidade de São Paulo (São Carlos) – Brasil" },
+    { "ano": "2000", "titulo": "Bacharelado em Ciência da Computação", "instituicao": "Universidade Federal de São Carlos – Brasil" }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+ "perfil": "https://www.credly.com/users/ana-paula-appel",
+ "atualizado_em": "2026-11-02",
+ "certificacoes": [
+  {
+   "nome": "Red Hat Certified Developer in AI",
+   "emissor": "Red Hat",
+   "data": "2026-09-28",
+   "validade": "2029-09-28",
+   "tipo": "certificacao",
+   "imagem": "https://images.credly.com/images/0a4e7132-911d-4c47-af11-259b9629dbde/blob",
+   "url": "https://www.credly.com/badges/9de87421-7f54-43fd-8453-229e506193de"
+  },
+  {
+   "nome": "Developing and Deploying AI/ML Applications on Red Hat OpenShift AI (AI267) - Ver.3.3",
+   "emissor": "Red Hat",
+   "data": "2026-08-29",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/f4171cf1-47ce-44a0-8249-1fa7266d4267/blob",
+   "url": "https://www.credly.com/badges/71287c68-70a0-46c7-ab3c-a770cca08177"
+  },
+  {
+   "nome": "Red Hat Patent Program Inventor - Patent Pending",
+   "emissor": "Red Hat",
+   "data": "2026-06-30",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/792030dd-e5d2-4d8d-b224-dda419e36242/image.png",
+   "url": "https://www.credly.com/badges/a31a4f11-a58a-4c59-a363-f896baef5759"
+  },
+  {
+   "nome": "IBM Quantum Technical Ambassador",
+   "emissor": "IBM",
+   "data": "2026-03-13",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/a4e6301f-51b1-48f8-acda-b075ce727f57/IBM-Quantum-Technical.png",
+   "url": "https://www.credly.com/badges/db10e761-a8b2-4d99-807c-a2ae31ec3892"
+  },
+  {
+   "nome": "AI Platform TDP: Seller",
+   "emissor": "Red Hat",
+   "data": "2026-02-13",
+   "validade": "2027-02-14",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/813b31e3-65b9-4f90-a76f-9d98ab7507bd/blob",
+   "url": "https://www.credly.com/badges/00c118e6-2b94-4cb6-81f9-e08bec014df6"
+  },
+  {
+   "nome": "AI Platform: Seller",
+   "emissor": "Red Hat",
+   "data": "2025-12-10",
+   "validade": "2027-12-10",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/ab2c22d7-d24b-4bc7-a901-293dbcc5150e/blob",
+   "url": "https://www.credly.com/badges/051fc7bd-3eb9-45aa-8184-864dcf7efc68"
+  },
+  {
+   "nome": "AWS Certified AI Practitioner",
+   "emissor": "Amazon Web Services Training and Certification",
+   "data": "2025-09-18",
+   "validade": "2028-09-18",
+   "tipo": "certificacao",
+   "imagem": "https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png",
+   "url": "https://www.credly.com/badges/f5f15347-5182-4432-aed0-9aeec6954065"
+  },
+  {
+   "nome": "Quantum Business Foundations",
+   "emissor": "IBM",
+   "data": "2025-08-24",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/f786ecd2-dce6-49d1-b7c6-6dcd832f8b14/image.png",
+   "url": "https://www.credly.com/badges/8c622ce1-0099-400c-b4bf-f9c3c08d0818"
+  },
+  {
+   "nome": "IBM Certified Quantum Computation using Qiskit v2.X Developer - Associate",
+   "emissor": "IBM Professional Certification",
+   "data": "2025-07-31",
+   "tipo": "certificacao",
+   "imagem": "https://images.credly.com/images/64e4bb39-20af-4309-8600-d6e659a3f181/C9008400_BADGE_EMBLEM_FILE_IBMCertifiedQuantumComputationusingQiskitv2.png",
+   "url": "https://www.credly.com/badges/2d68e1ae-d565-4e14-9891-7e739bea3e98"
+  },
+  {
+   "nome": "Quantum-Safe with IBM Power10 Sales Foundation",
+   "emissor": "IBM",
+   "data": "2025-04-14",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/a0621cce-27c6-4cc4-8c99-ab9b4f857614/image.png",
+   "url": "https://www.credly.com/badges/3894a195-a3b2-4758-b291-5e6b3a701639"
+  },
+  {
+   "nome": "IBM Quantum Overview, Policy and Procedures",
+   "emissor": "IBM",
+   "data": "2025-03-06",
+   "validade": "2026-03-06",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/8f51a575-be0b-455f-92ab-55fd3905cdd5/IBM-Quantum-Overview-Policy-and-Procedures.png",
+   "url": "https://www.credly.com/badges/24f5b3b4-08b0-49e4-a33c-00d718c331cc"
+  },
+  {
+   "nome": "Quantum Machine Learning",
+   "emissor": "IBM",
+   "data": "2024-11-21",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/6474ba18-3b83-4a34-878d-158e5869a20d/Quantum_20Machine_20Learning.png",
+   "url": "https://www.credly.com/badges/1d0a7b26-cbbd-4e4a-95d7-9a1cb746029e"
+  },
+  {
+   "nome": "Variational Algorithm Design",
+   "emissor": "IBM",
+   "data": "2024-09-28",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/3ac1a6a1-ea8c-44ea-9eaf-03458d10b19f/image.png",
+   "url": "https://www.credly.com/badges/223108db-39e7-43b1-82d8-9777ea7b585d"
+  },
+  {
+   "nome": "IBM Quantum Challenge 2024 Achievement",
+   "emissor": "IBM",
+   "data": "2024-06-21",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/d03ec9e1-7965-4d39-9df0-00538089f86b/IBM_20Quantum_20Challenge_202024_20Achievement.png",
+   "url": "https://www.credly.com/badges/6b50b07d-e04b-4e41-807f-baa1827e6915"
+  },
+  {
+   "nome": "Quantum Explorer 2023: Advanced",
+   "emissor": "IBM",
+   "data": "2024-03-08",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/b619b151-e5ee-4251-a47d-ae2ca6b284d5/image.png",
+   "url": "https://www.credly.com/badges/c3c964af-2513-461e-b7b8-1bfa5fc53096"
+  },
+  {
+   "nome": "AWS Knowledge: Amazon Braket - Training Badge",
+   "emissor": "Amazon Web Services Training and Certification",
+   "data": "2024-02-04",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/811c6414-b84e-4879-bc5c-863fa62be6aa/blob",
+   "url": "https://www.credly.com/badges/0a9f4861-3638-42f3-afd7-4241854f67a7"
+  },
+  {
+   "nome": "Basics of Quantum Information",
+   "emissor": "IBM",
+   "data": "2024-01-24",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/60cbe993-f35f-4b98-b7f6-8cd51233fe2a/image.png",
+   "url": "https://www.credly.com/badges/4ac319b2-034a-4a86-9537-1eab7f188b6f"
+  },
+  {
+   "nome": "Practical Introduction to Quantum-Safe Cryptography",
+   "emissor": "IBM",
+   "data": "2024-01-23",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/53629652-f0f2-4bc8-abfd-444c366d3cf6/image.png",
+   "url": "https://www.credly.com/badges/7dc746e2-94db-485d-8b97-6e37510c1f46"
+  },
+  {
+   "nome": "Qiskit Advocate",
+   "emissor": "IBM",
+   "data": "2023-10-05",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/fe6362a0-da58-4f9c-ba4d-8d3cb18d23a2/image.png",
+   "url": "https://www.credly.com/badges/f9ebbd79-1641-4081-a7e8-bbd8c0b6b473"
+  },
+  {
+   "nome": "IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X",
+   "emissor": "IBM Professional Certification",
+   "data": "2023-07-15",
+   "tipo": "certificacao",
+   "imagem": "https://images.credly.com/images/7f8d686d-dae3-4d9f-8275-fbd449b4008e/IBM_Certified_Associate_Developer_-_Quantum_Computation_using_Qiskit_v0.2X.png",
+   "url": "https://www.credly.com/badges/8af627e0-4789-4b76-8091-93e41cca284f"
+  },
+  {
+   "nome": "IBM Quantum Challenge: Spring 2023 Achievement",
+   "emissor": "IBM",
+   "data": "2023-05-31",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/fcc8af64-3b96-45a2-b6a1-60da06f309f0/image.png",
+   "url": "https://www.credly.com/badges/2e0e32b4-61fc-4731-8599-1dc8e7898e16"
+  },
+  {
+   "nome": "Quantum-Safe with IBM z16 Sales Foundation",
+   "emissor": "IBM",
+   "data": "2023-02-14",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/a5c0cc81-b8f5-4b97-9518-b0254d20144e/image.png",
+   "url": "https://www.credly.com/badges/8e983d8a-5f98-42e6-84c9-0d9a09154c1d"
+  },
+  {
+   "nome": "IBM Quantum Challenge Fall 2022 Achievement - Advanced",
+   "emissor": "IBM",
+   "data": "2022-11-28",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/989d2c9f-0bf8-40bf-902f-38cf556c2f81/image.png",
+   "url": "https://www.credly.com/badges/46a9e041-050a-4e80-92e8-d6e0e0654489"
+  },
+  {
+   "nome": "IBM Quantum-Safe Conversations",
+   "emissor": "IBM",
+   "data": "2022-11-25",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/4c81357e-c683-4295-91d9-8039bcfd5c90/69e9d38fbecc0c6c0c5df4c3.png",
+   "url": "https://www.credly.com/badges/7a8ab16c-c793-4c4f-af72-24df55ec6803"
+  },
+  {
+   "nome": "IBM Quantum Conversations",
+   "emissor": "IBM",
+   "data": "2022-04-20",
+   "tipo": "badge",
+   "imagem": "https://images.credly.com/images/3e1b4b7d-3780-46e5-aee6-4eef960a80c1/69e9d69abecc0c6c0c5dfcfc.png",
+   "url": "https://www.credly.com/badges/efe50921-d5db-48b1-a8c8-d6d4d9882013"
+  }
+ ]
+}

@@ -1,0 +1,362 @@
+{
+  "lista_completa": [
+    {
+      "nome": "Google Scholar",
+      "url": "https://scholar.google.com.br/citations?user=O-jfiZMAAAAJ&hl=pt-BR"
+    },
+    {
+      "nome": "arXiv",
+      "url": "https://arxiv.org/search/?query=Ana+Paula+Appel&searchtype=author"
+    },
+    {
+      "nome": "DBLP",
+      "url": "https://dblp.org/pid/00/4729.html"
+    }
+  ],
+  "artigos": [
+    {
+      "ano": 2026,
+      "titulo": "Quantum Encoding Agents: A Natural Language Interface for Data Embedding Strategy Selection in Quantum Machine Learning",
+      "autores": "Ana Paula Appel",
+      "veiculo": "arXiv:2609.31902",
+      "url": "https://arxiv.org/abs/2609.31902"
+    },
+    {
+      "ano": 2026,
+      "titulo": "Fractal dimension predicts quantum kernel collapse in angle-encoded data",
+      "autores": "Ana Paula Appel",
+      "veiculo": "arXiv:2609.00475",
+      "url": "https://arxiv.org/abs/2609.00475"
+    },
+    {
+      "ano": 2022,
+      "titulo": "Item Matching using Text Description and Similarity Search",
+      "autores": "Ana Paula Appel, Anderson Luis de Paula Silva, Adriana Reigota Silva, Caique Dutra Santos, Thiago Logo da Silva, Rafael P. de Araujo et al.",
+      "veiculo": "arXiv:2206.14097",
+      "url": "https://arxiv.org/abs/2206.14097"
+    },
+    {
+      "ano": 2021,
+      "titulo": "Using Meta-Knowledge Mined from Identifiers to Improve Intent Recognition in Conversational Systems",
+      "autores": "C. Pinhanez, P. Cavalin, V. Ribeiro, A. Appel, H. Candello, J. Nogima et al.",
+      "veiculo": "ACL 2021",
+      "url": "https://doi.org/10.18653/v1/2021.acl-long.545"
+    },
+    {
+      "ano": 2021,
+      "titulo": "Integrating Machine Learning Data with Symbolic Knowledge from Collaboration Practices of Curators to Improve Conversational Systems",
+      "autores": "C. Pinhanez, H. Candello, P. Cavalin, M. Pichiliani, A. P. Appel et al.",
+      "veiculo": "CHI 2021",
+      "url": "https://doi.org/10.1145/3411764.3445368"
+    },
+    {
+      "ano": 2020,
+      "titulo": "Improving Out-of-Scope Detection in Intent Classification by Using Embeddings of the Word Graph Space of the Classes",
+      "autores": "P. Cavalin, V. H. A. Ribeiro, A. Appel, C. Pinhanez",
+      "veiculo": "EMNLP 2020",
+      "url": "https://doi.org/10.18653/v1/2020.emnlp-main.324"
+    },
+    {
+      "ano": 2020,
+      "titulo": "Predicting Account Receivables with Machine Learning",
+      "autores": "Ana Paula Appel, Gabriel Louzada Malfatti, Renato L. F. Cunha, Bruno Lima, Rogerio de Paula",
+      "veiculo": "KDD 2020 Workshop on Machine Learning in Finance · arXiv:2008.07363",
+      "url": "https://arxiv.org/abs/2008.07363"
+    },
+    {
+      "ano": 2019,
+      "titulo": "Optimize Cash Collection: Use Machine Learning to Predicting Invoice Payment",
+      "autores": "Ana Paula Appel, Victor Oliveira, Bruno Lima, Gabriel Louzada Malfatti, Vagner F. de Santana, Rogerio de Paula",
+      "veiculo": "arXiv:1912.10828",
+      "url": "https://arxiv.org/abs/1912.10828"
+    },
+    {
+      "ano": 2018,
+      "titulo": "Temporally Evolving Community Detection and Prediction in Content-Centric Networks",
+      "autores": "Ana Paula Appel, Renato L. F. Cunha, Charu C. Aggarwal, Marcela Megumi Terakado",
+      "veiculo": "ECML PKDD 2018 (LNCS)",
+      "url": "https://doi.org/10.1007/978-3-030-10928-8_1"
+    },
+    {
+      "ano": 2018,
+      "titulo": "Using link and content over time for embedding generation in Dynamic Attributed Networks",
+      "autores": "Ana Paula Appel, Renato L. F. Cunha, Charu C. Aggarwal, Marcela Megumi Terakado",
+      "veiculo": "arXiv:1807.06560",
+      "url": "https://arxiv.org/abs/1807.06560"
+    },
+    {
+      "ano": 2018,
+      "titulo": "Revealing Physicians Referrals from Health Insurance Claims Data",
+      "autores": "Vagner F. de Santana, Ana Paula Appel, Luis G. Moyano, Márcia Ito, Claudio S. Pinhanez",
+      "veiculo": "Big Data Research 13: 3–10",
+      "url": "https://doi.org/10.1016/j.bdr.2018.03.002"
+    },
+    {
+      "ano": 2018,
+      "titulo": "A Social Network Analysis Framework for Modeling Health Insurance Claims Data",
+      "autores": "Ana Paula Appel, Vagner F. de Santana, Luis G. Moyano, Márcia Ito, Claudio S. Pinhanez",
+      "veiculo": "arXiv:1802.07116",
+      "url": "https://arxiv.org/abs/1802.07116"
+    },
+    {
+      "ano": 2018,
+      "titulo": "Combining Textual Content and Structure to Improve Dialog Similarity",
+      "autores": "Ana Paula Appel, Paulo R. Cavalin, Marisa A. Vasconcelos, Claudio S. Pinhanez",
+      "veiculo": "arXiv:1802.07117",
+      "url": "https://arxiv.org/abs/1802.07117"
+    },
+    {
+      "ano": 2017,
+      "titulo": "Cognitive Computing: Where Big Data Is Driving Us",
+      "autores": "A. P. Appel, H. Candello, F. L. Gandour",
+      "veiculo": "Handbook of Big Data Technologies (Springer): 807–850",
+      "url": "https://doi.org/10.1007/978-3-319-49340-4_24"
+    },
+    {
+      "ano": 2017,
+      "titulo": "Link and Graph Mining in the Big Data Era",
+      "autores": "A. P. Appel, L. G. Moyano",
+      "veiculo": "Handbook of Big Data Technologies (Springer): 583–616",
+      "url": "https://doi.org/10.1007/978-3-319-49340-4_17"
+    },
+    {
+      "ano": 2017,
+      "titulo": "Analysis of the Existence of Patient Care Team Using Social Network Methods in Physician Communities from Healthcare Insurance Companies",
+      "autores": "Márcia Ito, Ana Paula Appel, Vagner F. de Santana, Luis G. Moyano",
+      "veiculo": "MedInfo 2017: 412–416"
+    },
+    {
+      "ano": 2016,
+      "titulo": "GraPhys: Understanding Health Care Insurance Data through Graph Analytics",
+      "autores": "L. G. Moyano, A. P. Appel, V. F. de Santana, M. Ito, T. D. dos Santos",
+      "veiculo": "WWW 2016 Companion: 227–230",
+      "url": "https://doi.org/10.1145/2872518.2890544"
+    },
+    {
+      "ano": 2016,
+      "titulo": "Destiny: A Cognitive Mobile Guide for the Olympics",
+      "autores": "A. P. Appel, H. Candello, B. S. R. de Souza, B. D. Andrade",
+      "veiculo": "WWW 2016 Companion",
+      "url": "https://doi.org/10.1145/2872518.2890531"
+    },
+    {
+      "ano": 2016,
+      "titulo": "Ontological Networks: Mapping Ontological Knowledge Bases into Graphs",
+      "autores": "L. F. Navarro, E. R. Hruschka Jr., A. P. Appel",
+      "veiculo": "WWW 2016 Companion",
+      "url": "https://doi.org/10.1145/2872518.2890587"
+    },
+    {
+      "ano": 2016,
+      "titulo": "Finding Inference Rules Using Graph Mining in Ontological Knowledge Bases",
+      "autores": "L. F. Navarro, E. R. Hruschka Jr., A. P. Appel",
+      "veiculo": "BRACIS 2016: 349–354",
+      "url": "https://doi.org/10.1109/bracis.2016.070"
+    },
+    {
+      "ano": 2016,
+      "titulo": "Análise de Desempenho de Plataformas de Processamento de Grafos",
+      "autores": "D. N. R. da Silva, K. Wehmuth, C. Osthoff, A. P. Appel, A. Ziviani",
+      "veiculo": "SBBD 2016: 16–27",
+      "url": "https://doi.org/10.5753/sbbd.2016.24305"
+    },
+    {
+      "ano": 2016,
+      "titulo": "Building a Question-Answering Corpus Using Social Media and News Articles",
+      "autores": "P. Cavalin, F. Figueiredo, M. de Bayser, L. Moyano, H. Candello, A. Appel et al.",
+      "veiculo": "PROPOR 2016 (LNCS)",
+      "url": "https://doi.org/10.1007/978-3-319-41552-9_36"
+    },
+    {
+      "ano": 2016,
+      "titulo": "Análise do relacionamento na comunidade de médicos de seguradoras de saúde",
+      "autores": "M. Ito, L. G. Moyano, V. F. Santana, A. P. Appel",
+      "veiculo": "Journal of Health Informatics: 309–318"
+    },
+    {
+      "ano": 2014,
+      "titulo": "Building Socially Connected Skilled Teams to Accomplish Complex Tasks",
+      "autores": "A. P. Appel, V. F. Cavalcante, M. R. Vieira, V. F. de Santana, R. A. de Paula et al.",
+      "veiculo": "SNAKDD 2014: 1–5",
+      "url": "https://doi.org/10.1145/2659480.2659500"
+    },
+    {
+      "ano": 2014,
+      "titulo": "Weights and Multi-Edges in Link Prediction",
+      "autores": "V. F. Cavalcante, A. P. Appel",
+      "veiculo": "Encyclopedia of Business Analytics and Optimization: 2717–2726",
+      "url": "https://doi.org/10.4018/978-1-4666-5202-6.ch242"
+    },
+    {
+      "ano": 2013,
+      "titulo": "Large-Scale Multi-agent-Based Modeling and Simulation of Microblogging-Based Online Social Network",
+      "autores": "M. Gatti, P. Cavalin, S. B. Neto, C. Pinhanez, C. dos Santos, D. Gribel, A. P. Appel",
+      "veiculo": "MABS 2013 (LNCS): 17–33",
+      "url": "https://doi.org/10.1007/978-3-642-54783-6_2"
+    },
+    {
+      "ano": 2013,
+      "titulo": "A Simulation-Based Approach to Analyze the Information Diffusion in Microblogging Online Social Network",
+      "autores": "M. A. de C. Gatti, A. P. Appel, C. N. dos Santos, C. S. Pinhanez, P. R. Cavalin et al.",
+      "veiculo": "Winter Simulation Conference 2013: 1685–1696",
+      "url": "https://doi.org/10.1109/wsc.2013.6721550"
+    },
+    {
+      "ano": 2013,
+      "titulo": "Reaction Times for User Behavior Models in Microblogging Online Social Networks",
+      "autores": "S. M. Barbosa Neto, M. A. de C. Gatti, P. R. Cavalin, C. S. Pinhanez et al.",
+      "veiculo": "DUBMMSM 2013",
+      "url": "https://doi.org/10.1145/2513577.2513578"
+    },
+    {
+      "ano": 2013,
+      "titulo": "Autonomously Reviewing and Validating the Knowledge Base of a Never-Ending Learning System",
+      "autores": "S. D. S. Pedro, A. P. Appel, E. R. Hruschka Jr.",
+      "veiculo": "WWW 2013 Companion: 1195–1204",
+      "url": "https://doi.org/10.1145/2487788.2488149"
+    },
+    {
+      "ano": 2013,
+      "titulo": "Data-Driven Analytical Tools for Characterization of Productivity and Service Quality Issues in IT Service Factories",
+      "autores": "V. F. Cavalcante, C. S. Pinhanez, R. A. de Paula, C. S. Andrade, C. R. B. de Souza et al.",
+      "veiculo": "Journal of Service Research 16(3): 295–310",
+      "url": "https://doi.org/10.1177/1094670513480559"
+    },
+    {
+      "ano": 2013,
+      "titulo": "Social Network Analyses in Organizations: Challenges and Approaches for Studying Work Networks",
+      "autores": "A. P. Appel, V. F. de Santana, R. A. de Paula, C. S. Pinhanez, V. F. Cavalcante",
+      "veiculo": "IFAC Proceedings Volumes 46(24): 443–448",
+      "url": "https://doi.org/10.3182/20130911-3-br-3021.00094"
+    },
+    {
+      "ano": 2013,
+      "titulo": "GraphDB – Storing Large Graphs on Secondary Memory",
+      "autores": "L. F. Navarro, A. P. Appel, E. R. Hruschka Jr.",
+      "veiculo": "ADBIS 2013 – New Trends in Databases and Information Systems",
+      "url": "https://doi.org/10.1007/978-3-319-01863-8_20"
+    },
+    {
+      "ano": 2013,
+      "titulo": "Modeling and Storing Complex Network with Graph-Tree",
+      "autores": "A. L. Pereira, A. P. Appel",
+      "veiculo": "ADBIS – New Trends in Databases and Information Systems: 305–315",
+      "url": "https://doi.org/10.1007/978-3-642-32518-2_29"
+    },
+    {
+      "ano": 2012,
+      "titulo": "Graph Mining Techniques: Focusing on Discriminating between Real and Synthetic Graphs",
+      "autores": "A. P. Appel, C. Faloutsos, C. Traina Jr.",
+      "veiculo": "Graph Data Management: Techniques and Applications: 239–259",
+      "url": "https://doi.org/10.4018/978-1-61350-053-8.ch010"
+    },
+    {
+      "ano": 2012,
+      "titulo": "Characterizing Time-Bounded Incident Management Systems",
+      "autores": "V. Cavalcante, C. S. Pinhanez, C. B. de Souza, R. A. de Paula, A. P. Appel et al.",
+      "veiculo": "SRII Global Conference 2012: 750–759",
+      "url": "https://doi.org/10.1109/srii.2012.110"
+    },
+    {
+      "ano": 2012,
+      "titulo": "Using Social Analytics for Studying Work-Networks: A Novel, Initial Approach",
+      "autores": "R. A. de Paula, A. P. Appel, C. S. Pinhanez, V. F. Cavalcante, C. S. Andrade",
+      "veiculo": "SBSC 2012: 146–153",
+      "url": "https://doi.org/10.1109/sbsc.2012.35"
+    },
+    {
+      "ano": 2011,
+      "titulo": "HADI: Mining Radii of Large Graphs",
+      "autores": "U. Kang, C. E. Tsourakakis, A. P. Appel, C. Faloutsos, J. Leskovec",
+      "veiculo": "ACM TKDD 5(2): 1–24",
+      "url": "https://doi.org/10.1145/1921632.1921634"
+    },
+    {
+      "ano": 2011,
+      "titulo": "Prophet – A Link-Predictor to Learn New Rules on NELL",
+      "autores": "A. P. Appel, E. R. Hruschka Jr.",
+      "veiculo": "ICDM Workshops 2011: 917–924",
+      "url": "https://doi.org/10.1109/icdmw.2011.142"
+    },
+    {
+      "ano": 2011,
+      "titulo": "Centaurs – A Component Based Framework to Mine Large Graphs",
+      "autores": "A. P. Appel, E. R. Hruschka Jr.",
+      "veiculo": "Journal of Information and Data Management 2(1)",
+      "url": "https://doi.org/10.5753/jidm.2011.1381"
+    },
+    {
+      "ano": 2011,
+      "titulo": "Modelagem do Armazenamento de Redes Complexas",
+      "autores": "A. L. Pereira, A. P. Appel",
+      "veiculo": "WebMedia 2011: 63–65"
+    },
+    {
+      "ano": 2010,
+      "titulo": "Radius Plots for Mining Tera-byte Scale Graphs: Algorithms, Patterns, and Observations",
+      "autores": "U. Kang, C. E. Tsourakakis, A. P. Appel, C. Faloutsos, J. Leskovec",
+      "veiculo": "SIAM SDM 2010: 548–558",
+      "url": "https://doi.org/10.1137/1.9781611972801.48"
+    },
+    {
+      "ano": 2010,
+      "titulo": "RDBMS as an Efficient Tool to Mine Cliques on Complex Networks",
+      "autores": "A. P. Appel, A. A. Paterlini, C. Traina Jr.",
+      "veiculo": "Journal of Information and Data Management 1(3)",
+      "url": "https://doi.org/10.5753/jidm.2010.1282"
+    },
+    {
+      "ano": 2010,
+      "titulo": "Métodos para o pré-processamento e mineração de grandes volumes de dados multidimensionais e redes complexas",
+      "autores": "Ana Paula Appel",
+      "veiculo": "Tese de doutorado, USP São Carlos",
+      "url": "https://doi.org/10.11606/t.55.2010.tde-13072010-101429"
+    },
+    {
+      "ano": 2009,
+      "titulo": "ShatterPlots: Fast Tools for Mining Large Graphs",
+      "autores": "A. P. Appel, R. Kumar, D. Chakrabarti, J. Leskovec, C. Faloutsos, A. Tomkins",
+      "veiculo": "SIAM SDM 2009: 802–813",
+      "url": "https://doi.org/10.1137/1.9781611972795.69"
+    },
+    {
+      "ano": 2007,
+      "titulo": "A Density-Biased Sampling Technique to Improve Cluster Representativeness",
+      "autores": "A. P. Appel, A. A. Paterlini, E. P. M. de Sousa, A. J. M. Traina, C. Traina Jr.",
+      "veiculo": "PKDD 2007 (LNCS)",
+      "url": "https://doi.org/10.1007/978-3-540-74976-9_35"
+    },
+    {
+      "ano": 2007,
+      "titulo": "Biased Box Sampling – A Density-Biased Sampling for Clustering",
+      "autores": "A. P. Appel, A. A. Paterlini, E. P. M. de Sousa, A. J. M. Traina, C. Traina Jr.",
+      "veiculo": "ACM SAC 2007: 445–446",
+      "url": "https://doi.org/10.1145/1244002.1244105"
+    },
+    {
+      "ano": 2006,
+      "titulo": "Amostragem balanceada baseada na correlação fractal",
+      "autores": "A. P. Appel, A. A. Paterlini, E. P. M. Sousa, C. Traina Jr.",
+      "veiculo": "SBBD 2006"
+    },
+    {
+      "ano": 2004,
+      "titulo": "iDFQL – Uma ferramenta para auxílio à preparação de consultas complexas",
+      "autores": "A. P. Appel, C. Traina Jr.",
+      "veiculo": "SBBD 2004 (Melhor Demo)"
+    },
+    {
+      "ano": 2004,
+      "titulo": "iDFQL: A Query-Based Tool to Help the Teaching Process of the Relational Algebra",
+      "autores": "A. P. Appel, E. Q. Silva, C. Traina Jr., A. J. M. Traina",
+      "veiculo": "Proceedings, 2004"
+    },
+    {
+      "ano": 2003,
+      "titulo": "Uma linguagem visual de consulta a banco de dados utilizando o paradigma de fluxo de dados",
+      "autores": "Ana Paula Appel",
+      "veiculo": "Dissertação de mestrado, USP São Carlos",
+      "url": "https://doi.org/10.11606/d.55.2003.tde-04102004-211125"
+    }
+  ]
+}

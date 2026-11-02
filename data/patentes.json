@@ -1,0 +1,1088 @@
+{
+ "atualizado_em": "2026-11-02",
+ "fonte": "USPTO PPUBS (Ana + Appel) e Google Patents",
+ "patentes": [
+  {
+   "titulo": "Predict change request's risks based on components interrelationship issues",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20260330372A1",
+     "data": "2026-10-22"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2026-10-22"
+  },
+  {
+   "titulo": "Resolution of domain-specific issues",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20260278405A1",
+     "data": "2026-09-17"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2026-09-17"
+  },
+  {
+   "titulo": "Processing folder extracting and summarizing content",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US12737321B1",
+     "data": "2026-09-15"
+    }
+   ],
+   "publicacoes_us": [],
+   "fora_dos_eua": [],
+   "ultima_data": "2026-09-15"
+  },
+  {
+   "titulo": "Automated complaint management and resolution",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US12718252B2",
+     "data": "2026-08-25"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20260111904A1",
+     "data": "2026-04-23"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2026-08-25"
+  },
+  {
+   "titulo": "Model-tiering machine learning model",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US12694345B2",
+     "data": "2026-07-28"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20240346387A1",
+     "data": "2024-10-17"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2026-07-28"
+  },
+  {
+   "titulo": "Model document creation in source code development environments using semantic-aware detectable action impacts",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US12639047B2",
+     "data": "2026-05-26"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20220405065A1",
+     "data": "2022-12-22"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2026-05-26"
+  },
+  {
+   "titulo": "Automated graph embedding recommendations based on extracted graph features",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US12572592B2",
+     "data": "2026-03-10"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20210279279A1",
+     "data": "2021-09-09"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2026-03-10"
+  },
+  {
+   "titulo": "Selectively disposing of a physical asset",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US12511620B2",
+     "data": "2025-12-30"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20250104010A1",
+     "data": "2025-03-27"
+    }
+   ],
+   "fora_dos_eua": [
+    {
+     "numero": "JP2025051756A",
+     "data": "2025-04-04",
+     "status": "publicada"
+    }
+   ],
+   "ultima_data": "2025-12-30"
+  },
+  {
+   "titulo": "Training example generation to create new intents for chatbots",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US12468938B2",
+     "data": "2025-11-11"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20230092274A1",
+     "data": "2023-03-23"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2025-11-11"
+  },
+  {
+   "titulo": "License compliance failure risk management",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US12443963B2",
+     "data": "2025-10-14"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20240386439A1",
+     "data": "2024-11-21"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2025-10-14"
+  },
+  {
+   "titulo": "Augmenting objects for immersive gaming environments",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US12437488B2",
+     "data": "2025-10-07"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20250104362A1",
+     "data": "2025-03-27"
+    }
+   ],
+   "fora_dos_eua": [
+    {
+     "numero": "WO2025067956A1",
+     "data": "2025-04-03",
+     "status": "publicada"
+    }
+   ],
+   "ultima_data": "2025-10-07"
+  },
+  {
+   "titulo": "Intelligent event prediction and visualization",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20250061374A1",
+     "data": "2025-02-20"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2025-02-20"
+  },
+  {
+   "titulo": "Machine learning optimization of multiple stock portfolios closeout",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20240428328A1",
+     "data": "2024-12-26"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2024-12-26"
+  },
+  {
+   "titulo": "Automated machine learning model selection",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US12159238B2",
+     "data": "2024-12-03"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20220188663A1",
+     "data": "2022-06-16"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2024-12-03"
+  },
+  {
+   "titulo": "Dynamic multimodal graph prediction supported by digital twins",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20240394631A1",
+     "data": "2024-11-28"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2024-11-28"
+  },
+  {
+   "titulo": "Predicting and mitigating controversial language in digital communications",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20240394480A1",
+     "data": "2024-11-28"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2024-11-28"
+  },
+  {
+   "titulo": "Internet activity compartmentalization",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US11979334B2",
+     "data": "2024-05-07"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20210029055A1",
+     "data": "2021-01-28"
+    }
+   ],
+   "fora_dos_eua": [
+    {
+     "numero": "WO2021014304A1",
+     "data": "2021-01-28",
+     "status": "publicada"
+    }
+   ],
+   "ultima_data": "2024-05-07"
+  },
+  {
+   "titulo": "Crop yield estimation",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US11935242B2",
+     "data": "2024-03-19"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20210279867A1",
+     "data": "2021-09-09"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2024-03-19"
+  },
+  {
+   "titulo": "Artificial intelligence financial restructuring",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20240078597A1",
+     "data": "2024-03-07"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2024-03-07"
+  },
+  {
+   "titulo": "Composing a machine learning model for complex data sources",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20230419162A1",
+     "data": "2023-12-28"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2023-12-28"
+  },
+  {
+   "titulo": "Predicting user question in question and answer system",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US10607146B2",
+     "data": "2020-03-31"
+    },
+    {
+     "numero": "US11687811B2",
+     "data": "2023-06-27"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20170351962A1",
+     "data": "2017-12-07"
+    },
+    {
+     "numero": "US20200019876A1",
+     "data": "2020-01-16"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2023-06-27"
+  },
+  {
+   "titulo": "Managing sensitive user information",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US11681822B2",
+     "data": "2023-06-20"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20200394328A1",
+     "data": "2020-12-17"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2023-06-20"
+  },
+  {
+   "titulo": "Conversational systems content related to external events",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US11677692B2",
+     "data": "2023-06-13"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20230084688A1",
+     "data": "2023-03-16"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2023-06-13"
+  },
+  {
+   "titulo": "Egocentric network entity robustness prediction",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20230136972A1",
+     "data": "2023-05-04"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2023-05-04"
+  },
+  {
+   "titulo": "Chaincode recommendation based on existing chaincode",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US11636094B2",
+     "data": "2023-04-25"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20210117408A1",
+     "data": "2021-04-22"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2023-04-25"
+  },
+  {
+   "titulo": "Concept prediction to create new intents and assign examples automatically in dialog systems",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US11562028B2",
+     "data": "2023-01-24"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20220067101A1",
+     "data": "2022-03-03"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2023-01-24"
+  },
+  {
+   "titulo": "Maintaining a knowledge database based on user interactions with a user interface",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US11514334B2",
+     "data": "2022-11-29"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20210248482A1",
+     "data": "2021-08-12"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2022-11-29"
+  },
+  {
+   "titulo": "Automated microservice creation based on user interaction",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US11269596B2",
+     "data": "2022-03-08"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20200401379A1",
+     "data": "2020-12-24"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2022-03-08"
+  },
+  {
+   "titulo": "Managing tree risk",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US11244161B2",
+     "data": "2022-02-08"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20210034866A1",
+     "data": "2021-02-04"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2022-02-08"
+  },
+  {
+   "titulo": "Product quality analysis and control",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US11216768B2",
+     "data": "2022-01-04"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20210374646A1",
+     "data": "2021-12-02"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2022-01-04"
+  },
+  {
+   "titulo": "Management of concepts and intents in conversational systems",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US11194966B1",
+     "data": "2021-12-07"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20210406469A1",
+     "data": "2021-12-30"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2021-12-30"
+  },
+  {
+   "titulo": "Flexible transaction validation",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US11188521B2",
+     "data": "2021-11-30"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20200387500A1",
+     "data": "2020-12-10"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2021-11-30"
+  },
+  {
+   "titulo": "Determining the state of infrastructure in a region of interest",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US11157741B2",
+     "data": "2021-10-26"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20210049363A1",
+     "data": "2021-02-18"
+    }
+   ],
+   "fora_dos_eua": [
+    {
+     "numero": "DE112020003380B4",
+     "data": "2024-02-22",
+     "status": "concedida"
+    }
+   ],
+   "ultima_data": "2021-10-26"
+  },
+  {
+   "titulo": "System, method and computer product for classifying user expertise",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US10528874B2",
+     "data": "2020-01-07"
+    },
+    {
+     "numero": "US11138510B2",
+     "data": "2021-10-05"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20180053100A1",
+     "data": "2018-02-22"
+    },
+    {
+     "numero": "US20200005171A1",
+     "data": "2020-01-02"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2021-10-05"
+  },
+  {
+   "titulo": "Recharging for autonomous in-pipe vehicles",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US11137764B2",
+     "data": "2021-10-05"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20200326705A1",
+     "data": "2020-10-15"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2021-10-05"
+  },
+  {
+   "titulo": "Supply chain forecasting system",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US11126957B2",
+     "data": "2021-09-21"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20200134545A1",
+     "data": "2020-04-30"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2021-09-21"
+  },
+  {
+   "titulo": "Dynamic cognitive user interface",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US11025741B2",
+     "data": "2021-06-01"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20170344645A1",
+     "data": "2017-11-30"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2021-06-01"
+  },
+  {
+   "titulo": "Automatic evapotranspiration mitigation",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US10990076B2",
+     "data": "2021-04-27"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20200218227A1",
+     "data": "2020-07-09"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2021-04-27"
+  },
+  {
+   "titulo": "Dynamically streaming social media live content and displaying advertisements on a public display",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20210049649A1",
+     "data": "2021-02-18"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2021-02-18"
+  },
+  {
+   "titulo": "Human steering dashboard to analyze 360-degree market view for merchants based on financial transactions",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US10614402B2",
+     "data": "2020-04-07"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20190087760A1",
+     "data": "2019-03-21"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2020-04-07"
+  },
+  {
+   "titulo": "Method and system for temporal sampling in evolving network",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US10110449B2",
+     "data": "2018-10-23"
+    },
+    {
+     "numero": "US10608905B2",
+     "data": "2020-03-31"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20170180221A1",
+     "data": "2017-06-22"
+    },
+    {
+     "numero": "US20180337842A1",
+     "data": "2018-11-22"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2020-03-31"
+  },
+  {
+   "titulo": "Steering graph mining algorithms applied to complex networks",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US10572501B2",
+     "data": "2020-03-31"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20170185910A1",
+     "data": "2017-06-29"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2020-03-31"
+  },
+  {
+   "titulo": "System and method to recommend mitigation action using conversational agent",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20190188583A1",
+     "data": "2019-06-20"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2019-06-20"
+  },
+  {
+   "titulo": "Predicting a need for and creating temporary access to a computer component in infrastructure information technology",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US10171442B2",
+     "data": "2019-01-01"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20180054428A1",
+     "data": "2018-02-22"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2019-01-01"
+  },
+  {
+   "titulo": "Assisting people with understanding charts",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US10025980B2",
+     "data": "2018-07-17"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20170185835A1",
+     "data": "2017-06-29"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2018-07-17"
+  },
+  {
+   "titulo": "Detecting vulnerabilities in a supply chain",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20180197129A1",
+     "data": "2018-07-12"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2018-07-12"
+  },
+  {
+   "titulo": "Delivering personalized advertising",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20180189831A1",
+     "data": "2018-07-05"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2018-07-05"
+  },
+  {
+   "titulo": "Role-based tracking and surveillance",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US9613277B2",
+     "data": "2017-04-04"
+    },
+    {
+     "numero": "US9646228B2",
+     "data": "2017-05-09"
+    },
+    {
+     "numero": "US9977971B2",
+     "data": "2018-05-22"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20160217345A1",
+     "data": "2016-07-28"
+    },
+    {
+     "numero": "US20160224836A1",
+     "data": "2016-08-04"
+    },
+    {
+     "numero": "US20170061255A1",
+     "data": "2017-03-02"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2018-05-22"
+  },
+  {
+   "titulo": "Enterprise peer-to-peer storage and method of managing peer network storage",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US9800659B2",
+     "data": "2017-10-24"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20160226973A1",
+     "data": "2016-08-04"
+    }
+   ],
+   "fora_dos_eua": [
+    {
+     "numero": "DE102016100895A1",
+     "data": "2016-08-04",
+     "status": "publicada"
+    }
+   ],
+   "ultima_data": "2017-10-24"
+  },
+  {
+   "titulo": "Social recommendation across heterogeneous networks",
+   "status": "concedida",
+   "concedidas_us": [
+    {
+     "numero": "US9710470B2",
+     "data": "2017-07-18"
+    }
+   ],
+   "publicacoes_us": [
+    {
+     "numero": "US20150074122A1",
+     "data": "2015-03-12"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2017-07-18"
+  },
+  {
+   "titulo": "Analyzing doctor-doctor, patient-doctor, and patient-patient social networks",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20170185735A1",
+     "data": "2017-06-29"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2017-06-29"
+  },
+  {
+   "titulo": "Dynamic estimation of geographical locations using multiple data sources",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20170169532A1",
+     "data": "2017-06-15"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2017-06-15"
+  },
+  {
+   "titulo": "Service monitoring and evaluation system, method and program product",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20170132380A1",
+     "data": "2017-05-11"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2017-05-11"
+  },
+  {
+   "titulo": "Implementing workflow based on social network nodes",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20160350686A1",
+     "data": "2016-12-01"
+    },
+    {
+     "numero": "US20160350694A1",
+     "data": "2016-12-01"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2016-12-01"
+  },
+  {
+   "titulo": "Automatically detecting lost sales",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20140039950A1",
+     "data": "2014-02-06"
+    },
+    {
+     "numero": "US20160132910A1",
+     "data": "2016-05-12"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2016-05-12"
+  },
+  {
+   "titulo": "Confidence in online reviews",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20150262264A1",
+     "data": "2015-09-17"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2015-09-17"
+  },
+  {
+   "titulo": "Characterizing Statistical Time-Bounded Incident Management Systems",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20140350995A1",
+     "data": "2014-11-27"
+    },
+    {
+     "numero": "US20140351416A1",
+     "data": "2014-11-27"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2014-11-27"
+  },
+  {
+   "titulo": "Method and system for simulation of online social network",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20140330548A1",
+     "data": "2014-11-06"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2014-11-06"
+  },
+  {
+   "titulo": "Scheduling based on customer tracking",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20140229224A1",
+     "data": "2014-08-14"
+    }
+   ],
+   "fora_dos_eua": [
+    {
+     "numero": "WO2014126926A1",
+     "data": "2014-08-21",
+     "status": "publicada"
+    }
+   ],
+   "ultima_data": "2014-08-14"
+  },
+  {
+   "titulo": "Automatically detecting lost sales due to an out-of-shelf condition in a retail environment",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20140039951A1",
+     "data": "2014-02-06"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2014-02-06"
+  },
+  {
+   "titulo": "Characterizing Time-Bounded Incident Management Systems",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20140023185A1",
+     "data": "2014-01-23"
+    },
+    {
+     "numero": "US20140025417A1",
+     "data": "2014-01-23"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2014-01-23"
+  },
+  {
+   "titulo": "Automatically evaluating customer satisfaction",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20140019199A1",
+     "data": "2014-01-16"
+    },
+    {
+     "numero": "US20140019201A1",
+     "data": "2014-01-16"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2014-01-16"
+  }
+ ]
+}

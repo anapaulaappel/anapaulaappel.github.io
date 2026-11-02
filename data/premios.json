@@ -1,0 +1,14 @@
+{
+  "premios": [
+    { "ano": "2023", "titulo": "Prêmio da SWE (Society of Women Engineers) por sete patentes" },
+    { "ano": "2023", "titulo": "SWE Women Engineers You Should Know" },
+    { "ano": "2021–2024", "titulo": "IBM Master Inventor", "detalhe": "Reconhecimento por grande número de patentes depositadas." },
+    { "ano": "2022", "titulo": "Prêmio da SWE (Society of Women Engineers) por quatro patentes" },
+    { "ano": "2021", "titulo": "Prêmio da SWE (Society of Women Engineers) por três patentes" },
+    { "ano": "—", "titulo": "Data Science Certification L3, The Open Group" },
+    { "ano": "2020", "titulo": "Prêmio da SWE (Society of Women Engineers) por duas patentes" },
+    { "ano": "—", "titulo": "Data Science Certification L2, The Open Group" },
+    { "ano": "2016–2019", "titulo": "IBM Master Inventor", "detalhe": "Reconhecimento por grande número de patentes depositadas." },
+    { "ano": "2004", "titulo": "Melhor Demo (Ferramenta): \"iDFQL – Uma ferramenta para criação de consultas complexas\", SBBD", "detalhe": "Projeto de mestrado." }
+  ]
+}
