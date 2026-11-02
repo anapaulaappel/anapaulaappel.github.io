@@ -168,9 +168,15 @@
   function temForaConcedida(p){
     return p.fora_dos_eua.some(function(f){ return f.status === 'concedida'; });
   }
-  function paisesFora(p){
-    return p.fora_dos_eua.map(function(f){ return f.numero.slice(0, 2); })
+  var PAISES = {CN:'China', JP:'Japão', GB:'Reino Unido', DE:'Alemanha', TW:'Taiwan', EP:'Europa', KR:'Coreia', WO:'internacional (PCT)'};
+  function paises(lista){
+    return lista.map(function(f){ var c = f.numero.slice(0, 2); return PAISES[c] || c; })
       .filter(function(c, i, a){ return a.indexOf(c) === i; }).join(', ');
+  }
+  function etiquetaFora(p){
+    var conc = p.fora_dos_eua.filter(function(f){ return f.status === 'concedida'; });
+    if (conc.length) return 'Concedida também em: ' + paises(conc);
+    return 'Publicada também em: ' + paises(p.fora_dos_eua);
   }
   function render(){
     var q = document.getElementById('busca').value.trim().toLowerCase();
@@ -189,7 +195,7 @@
       n++;
       var badges = el('div', null, [
         p.status === 'concedida' ? el('span', {class:'badge ok', text:'Concedida nos EUA'}) : el('span', {class:'badge warn', text:'Pedido (não concedida)'}),
-        p.fora_dos_eua.length ? el('span', {class:'badge info', text:(temForaConcedida(p) ? 'Concedida' : 'Publicada') + ' fora dos EUA (' + paisesFora(p) + ')'}) : null,
+        p.fora_dos_eua.length ? el('span', {class:'badge info', text:etiquetaFora(p)}) : null,
         p.titular_atual ? el('span', {class:'badge venda', text:'Vendida para ' + p.titular_atual}) : null
       ]);
       var meta = el('div', {class:'meta'});
@@ -211,11 +217,10 @@
       var conc = ALL.filter(function(p){return p.status === 'concedida';}).length;
       var comFora = ALL.filter(function(p){ return p.fora_dos_eua.length; });
       var fora = comFora.filter(temForaConcedida).length;
-      var paises = comFora.map(paisesFora).join(', ').split(', ').filter(function(c, i, a){ return a.indexOf(c) === i; }).join(', ');
       var vend = ALL.filter(function(p){return p.titular_atual;}).length;
       document.getElementById('pat-resumo').textContent =
         ALL.length + ' patentes · ' + conc + ' concedidas nos EUA · ' + (ALL.length - conc) + ' ainda como pedido · ' +
-        comFora.length + ' com publicação fora dos EUA (' + paises + '), ' + fora + ' já concedida lá' + (vend ? ' · ' + vend + ' vendidas para a Airbnb' : '');
+        comFora.length + ' publicadas também fora dos EUA, ' + fora + ' concedidas lá' + (vend ? ' · ' + vend + ' vendidas para a Airbnb' : '');
 
       var pesq = document.querySelectorAll('.pill');
       Array.prototype.forEach.call(pesq, function(b){

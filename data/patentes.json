@@ -130,6 +130,11 @@
    ],
    "fora_dos_eua": [
     {
+     "numero": "CN119692918A",
+     "data": "2025-03-25",
+     "status": "publicada"
+    },
+    {
      "numero": "JP2025051756A",
      "data": "2025-04-04",
      "status": "publicada"
@@ -287,6 +292,26 @@
      "numero": "WO2021014304A1",
      "data": "2021-01-28",
      "status": "publicada"
+    },
+    {
+     "numero": "CN114072797A",
+     "data": "2022-02-18",
+     "status": "publicada"
+    },
+    {
+     "numero": "JP2022541029A",
+     "data": "2022-09-21",
+     "status": "publicada"
+    },
+    {
+     "numero": "CN114072797B",
+     "data": "2022-10-21",
+     "status": "concedida"
+    },
+    {
+     "numero": "JP7427073B2",
+     "data": "2024-02-02",
+     "status": "concedida"
     }
    ],
    "ultima_data": "2024-05-07"
@@ -394,7 +419,33 @@
      "data": "2023-03-16"
     }
    ],
-   "fora_dos_eua": [],
+   "fora_dos_eua": [
+    {
+     "numero": "CN115827832A",
+     "data": "2023-03-21",
+     "status": "publicada"
+    },
+    {
+     "numero": "JP2023043160A",
+     "data": "2023-03-28",
+     "status": "publicada"
+    },
+    {
+     "numero": "TW202314582A",
+     "data": "2023-04-01",
+     "status": "publicada"
+    },
+    {
+     "numero": "CN115827832B",
+     "data": "2026-04-17",
+     "status": "concedida"
+    },
+    {
+     "numero": "JP7874380B2",
+     "data": "2026-06-16",
+     "status": "concedida"
+    }
+   ],
    "ultima_data": "2023-06-13"
   },
   {
@@ -425,7 +476,33 @@
      "data": "2021-04-22"
     }
    ],
-   "fora_dos_eua": [],
+   "fora_dos_eua": [
+    {
+     "numero": "WO2021074742A1",
+     "data": "2021-04-22",
+     "status": "publicada"
+    },
+    {
+     "numero": "CN114450708A",
+     "data": "2022-05-06",
+     "status": "publicada"
+    },
+    {
+     "numero": "JP2022553674A",
+     "data": "2022-12-26",
+     "status": "publicada"
+    },
+    {
+     "numero": "CN114450708B",
+     "data": "2024-10-18",
+     "status": "concedida"
+    },
+    {
+     "numero": "JP7586605B2",
+     "data": "2024-11-19",
+     "status": "concedida"
+    }
+   ],
    "ultima_data": "2023-04-25"
   },
   {
@@ -443,7 +520,33 @@
      "data": "2022-03-03"
     }
    ],
-   "fora_dos_eua": [],
+   "fora_dos_eua": [
+    {
+     "numero": "WO2022041980A1",
+     "data": "2022-03-03",
+     "status": "publicada"
+    },
+    {
+     "numero": "CN115989489A",
+     "data": "2023-04-18",
+     "status": "publicada"
+    },
+    {
+     "numero": "GB2613750A",
+     "data": "2023-06-14",
+     "status": "publicada"
+    },
+    {
+     "numero": "JP2023540266A",
+     "data": "2023-09-22",
+     "status": "publicada"
+    },
+    {
+     "numero": "JP7737208B2",
+     "data": "2025-09-10",
+     "status": "concedida"
+    }
+   ],
    "ultima_data": "2023-01-24"
   },
   {
@@ -551,7 +654,18 @@
      "data": "2020-12-10"
     }
    ],
-   "fora_dos_eua": [],
+   "fora_dos_eua": [
+    {
+     "numero": "CN112053157A",
+     "data": "2020-12-08",
+     "status": "publicada"
+    },
+    {
+     "numero": "CN112053157B",
+     "data": "2024-04-12",
+     "status": "concedida"
+    }
+   ],
    "ultima_data": "2021-11-30"
   },
   {
@@ -571,8 +685,48 @@
    ],
    "fora_dos_eua": [
     {
+     "numero": "WO2021028751A1",
+     "data": "2021-02-18",
+     "status": "publicada"
+    },
+    {
+     "numero": "CN114174949A",
+     "data": "2022-03-11",
+     "status": "publicada"
+    },
+    {
+     "numero": "DE112020003380T5",
+     "data": "2022-04-28",
+     "status": "publicada"
+    },
+    {
+     "numero": "GB2601689A",
+     "data": "2022-06-08",
+     "status": "publicada"
+    },
+    {
+     "numero": "JP2022543993A",
+     "data": "2022-10-17",
+     "status": "publicada"
+    },
+    {
+     "numero": "CN114174949B",
+     "data": "2023-03-14",
+     "status": "concedida"
+    },
+    {
+     "numero": "GB2601689B",
+     "data": "2023-03-15",
+     "status": "concedida"
+    },
+    {
      "numero": "DE112020003380B4",
      "data": "2024-02-22",
+     "status": "concedida"
+    },
+    {
+     "numero": "JP7688459B2",
+     "data": "2025-06-04",
      "status": "concedida"
     }
    ],
@@ -881,6 +1035,16 @@
      "numero": "DE102016100895A1",
      "data": "2016-08-04",
      "status": "publicada"
+    },
+    {
+     "numero": "CN105843838A",
+     "data": "2016-08-10",
+     "status": "publicada"
+    },
+    {
+     "numero": "CN105843838B",
+     "data": "2020-04-17",
+     "status": "concedida"
     }
    ],
    "ultima_data": "2017-10-24"
@@ -974,7 +1138,13 @@
      "data": "2016-05-12"
     }
    ],
-   "fora_dos_eua": [],
+   "fora_dos_eua": [
+    {
+     "numero": "CN103578018A",
+     "data": "2014-02-12",
+     "status": "publicada"
+    }
+   ],
    "ultima_data": "2016-05-12"
   },
   {
@@ -1049,7 +1219,13 @@
      "data": "2014-02-06"
     }
    ],
-   "fora_dos_eua": [],
+   "fora_dos_eua": [
+    {
+     "numero": "CN103578018A",
+     "data": "2014-02-12",
+     "status": "publicada"
+    }
+   ],
    "ultima_data": "2014-02-06"
   },
   {
@@ -1083,7 +1259,13 @@
      "data": "2014-01-16"
     }
    ],
-   "fora_dos_eua": [],
+   "fora_dos_eua": [
+    {
+     "numero": "CN103544205A",
+     "data": "2014-01-29",
+     "status": "publicada"
+    }
+   ],
    "ultima_data": "2014-01-16"
   }
  ]
