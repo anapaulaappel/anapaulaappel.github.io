@@ -102,7 +102,7 @@
       <button class="pill" data-f="todas" aria-pressed="true">Todas</button>
       <button class="pill" data-f="concedida" aria-pressed="false">Concedidas</button>
       <button class="pill" data-f="pedido" aria-pressed="false">Só pedido</button>
-      <button class="pill" data-f="fora" aria-pressed="false">Concedidas fora dos EUA</button>
+      <button class="pill" data-f="fora" aria-pressed="false">Fora dos EUA</button>
       <button class="pill" data-f="vendida" aria-pressed="false">Vendidas</button>
       <input type="search" id="busca" placeholder="Buscar por título ou número" aria-label="Buscar patentes">
     </div>
@@ -168,6 +168,10 @@
   function temForaConcedida(p){
     return p.fora_dos_eua.some(function(f){ return f.status === 'concedida'; });
   }
+  function paisesFora(p){
+    return p.fora_dos_eua.map(function(f){ return f.numero.slice(0, 2); })
+      .filter(function(c, i, a){ return a.indexOf(c) === i; }).join(', ');
+  }
   function render(){
     var q = document.getElementById('busca').value.trim().toLowerCase();
     var box = document.getElementById('pat-lista');
@@ -176,7 +180,7 @@
     ALL.forEach(function(p){
       if (filtro === 'concedida' && p.status !== 'concedida') return;
       if (filtro === 'pedido' && p.status !== 'pedido') return;
-      if (filtro === 'fora' && !temForaConcedida(p)) return;
+      if (filtro === 'fora' && !p.fora_dos_eua.length) return;
       if (filtro === 'vendida' && !p.titular_atual) return;
       if (q){
         var hay = (p.titulo + ' ' + p.concedidas_us.concat(p.publicacoes_us, p.fora_dos_eua).map(function(x){return x.numero;}).join(' ')).toLowerCase();
@@ -185,7 +189,7 @@
       n++;
       var badges = el('div', null, [
         p.status === 'concedida' ? el('span', {class:'badge ok', text:'Concedida nos EUA'}) : el('span', {class:'badge warn', text:'Pedido (não concedida)'}),
-        temForaConcedida(p) ? el('span', {class:'badge info', text:'Concedida fora dos EUA'}) : null,
+        p.fora_dos_eua.length ? el('span', {class:'badge info', text:(temForaConcedida(p) ? 'Concedida' : 'Publicada') + ' fora dos EUA (' + paisesFora(p) + ')'}) : null,
         p.titular_atual ? el('span', {class:'badge venda', text:'Vendida para ' + p.titular_atual}) : null
       ]);
       var meta = el('div', {class:'meta'});
@@ -205,11 +209,13 @@
       ALL = pat.patentes;
 
       var conc = ALL.filter(function(p){return p.status === 'concedida';}).length;
-      var fora = ALL.filter(temForaConcedida).length;
+      var comFora = ALL.filter(function(p){ return p.fora_dos_eua.length; });
+      var fora = comFora.filter(temForaConcedida).length;
+      var paises = comFora.map(paisesFora).join(', ').split(', ').filter(function(c, i, a){ return a.indexOf(c) === i; }).join(', ');
       var vend = ALL.filter(function(p){return p.titular_atual;}).length;
       document.getElementById('pat-resumo').textContent =
         ALL.length + ' patentes · ' + conc + ' concedidas nos EUA · ' + (ALL.length - conc) + ' ainda como pedido · ' +
-        fora + ' concedida fora dos EUA' + (vend ? ' · ' + vend + ' vendidas para a Airbnb' : '');
+        comFora.length + ' com publicação fora dos EUA (' + paises + '), ' + fora + ' já concedida lá' + (vend ? ' · ' + vend + ' vendidas para a Airbnb' : '');
 
       var pesq = document.querySelectorAll('.pill');
       Array.prototype.forEach.call(pesq, function(b){
