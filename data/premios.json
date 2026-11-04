@@ -1,6 +1,11 @@
 {
   "premios": [
     {
+      "ano": "2025",
+      "titulo": "Prêmio da SWE (Society of Women Engineers) por patentes",
+      "url": "https://alltogether.swe.org/2025/09/2025-swe-recognition-recipients/"
+    },
+    {
       "ano": "2024–2027",
       "titulo": "IBM Master Inventor",
       "detalhe": "Reconhecimento por grande número de patentes depositadas.",
@@ -13,9 +18,9 @@
       "url": "https://alltogether.swe.org/2024/08/swe-awards-recipients/"
     },
     {
-      "ano": "2024–2025",
+      "ano": "2024",
       "titulo": "Prêmio da SWE (Society of Women Engineers) por patentes",
-      "url": "https://swe.org/awards/swe-recognition-program/"
+      "url": "https://alltogether.swe.org/2024/09/swe-recognition-recipients/"
     },
     {
       "ano": "2023",
