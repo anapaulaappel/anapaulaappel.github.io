@@ -1,7 +1,20 @@
 {
- "atualizado_em": "2026-11-02",
+ "atualizado_em": "2026-11-05",
  "fonte": "USPTO PPUBS (Ana + Appel) e Google Patents",
  "patentes": [
+  {
+   "titulo": "Quantum queue optimization for error mitigation",
+   "status": "pedido",
+   "concedidas_us": [],
+   "publicacoes_us": [
+    {
+     "numero": "US20260350448A1",
+     "data": "2026-11-05"
+    }
+   ],
+   "fora_dos_eua": [],
+   "ultima_data": "2026-11-05"
+  },
   {
    "titulo": "Predict change request's risks based on components interrelationship issues",
    "status": "pedido",
