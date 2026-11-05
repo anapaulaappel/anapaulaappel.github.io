@@ -23,6 +23,8 @@ Copie um bloco de `data/patentes.json` e ajuste:
 - `publicacoes_us`: pedidos publicados nos EUA
 - `fora_dos_eua`: outros países, com `status` `"concedida"` ou `"publicada"`
 
+**Link de publicação recente:** o Google Patents demora semanas ou meses para indexar uma publicação nova, e até lá o link dá erro 404. Nesse caso, acrescente `"uspto": true` no número (ex.: `{"numero": "US20260350448A1", "uspto": true, "data": "2026-11-05"}`): o link passa a abrir o PDF oficial do USPTO. Quando o Google indexar, apague o campo.
+
 Quando um pedido virar patente concedida, mova o número para `concedidas_us` e mude `status` para `"concedida"`. Atualize também `atualizado_em` no topo do arquivo.
 
 ## Dica

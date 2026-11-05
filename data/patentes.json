@@ -9,6 +9,7 @@
    "publicacoes_us": [
     {
      "numero": "US20260350448A1",
+     "uspto": true,
      "data": "2026-11-05"
     }
    ],
@@ -22,6 +23,7 @@
    "publicacoes_us": [
     {
      "numero": "US20260330372A1",
+     "uspto": true,
      "data": "2026-10-22"
     }
    ],
@@ -35,6 +37,7 @@
    "publicacoes_us": [
     {
      "numero": "US20260278405A1",
+     "uspto": true,
      "data": "2026-09-17"
     }
    ],
@@ -47,6 +50,7 @@
    "concedidas_us": [
     {
      "numero": "US12737321B1",
+     "uspto": true,
      "data": "2026-09-15"
     }
    ],
@@ -60,6 +64,7 @@
    "concedidas_us": [
     {
      "numero": "US12718252B2",
+     "uspto": true,
      "data": "2026-08-25"
     }
    ],

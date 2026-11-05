@@ -180,12 +180,14 @@
   }
   function fmt(d){ var p = d.split('-'); return p.length < 3 ? d : p[2] + '/' + p[1] + '/' + p[0]; }
   function gp(num){ return 'https://patents.google.com/patent/' + num + '/en'; }
+  // Publicação recente que o Google Patents ainda não indexou: PDF oficial do USPTO (campo "uspto": true).
+  function uspto(num){ return 'https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/' + num.replace(/^US/, '').replace(/[A-Z]\d?$/, ''); }
   function pretty(num){
     var m = num.match(/^US(\d{7,8})(B\d)$/);
     return m ? 'US ' + Number(m[1]).toLocaleString('en-US') + ' ' + m[2] : num;
   }
-  function numLink(num, date, label){
-    var a = el('a', {href: gp(num), target:'_blank', rel:'noopener', text: pretty(num)});
+  function numLink(num, date, label, usaUspto){
+    var a = el('a', {href: usaUspto ? uspto(num) : gp(num), target:'_blank', rel:'noopener', text: pretty(num)});
     var s = el('span', {class:'nums'}, [a, el('span', {text: label + ' ' + fmt(date)})]);
     return s;
   }
@@ -226,8 +228,8 @@
         p.titular_atual ? el('span', {class:'badge venda', text:'Vendida para ' + p.titular_atual}) : null
       ]);
       var meta = el('div', {class:'meta'});
-      p.concedidas_us.forEach(function(x){ meta.appendChild(numLink(x.numero, x.data, 'concedida em')); });
-      p.publicacoes_us.forEach(function(x){ meta.appendChild(numLink(x.numero, x.data, 'publicada em')); });
+      p.concedidas_us.forEach(function(x){ meta.appendChild(numLink(x.numero, x.data, 'concedida em', x.uspto)); });
+      p.publicacoes_us.forEach(function(x){ meta.appendChild(numLink(x.numero, x.data, 'publicada em', x.uspto)); });
       p.fora_dos_eua.forEach(function(x){
         meta.appendChild(numLink(x.numero, x.data, x.status === 'concedida' ? 'concedida em' : 'publicada em'));
       });
