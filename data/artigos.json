@@ -16,6 +16,22 @@
   "artigos": [
     {
       "ano": 2026,
+      "titulo": "When Does Fine-Tuning Beat Prompting for Qiskit-to-CUDA-Q Translation? An Execution-Verified Study",
+      "autores": "Ana Paula Appel",
+      "veiculo": "arXiv:2611.29793",
+      "url": "https://arxiv.org/abs/2611.29793",
+      "codigo": "https://github.com/anapaulaappel/qiskit-to-cudaq"
+    },
+    {
+      "ano": 2026,
+      "titulo": "Transpilation-Aware Multi-Vendor QPU Scheduling with Predicted Post-Transpilation Fidelity",
+      "autores": "Ana Paula Appel",
+      "veiculo": "arXiv:2611.27927",
+      "url": "https://arxiv.org/abs/2611.27927",
+      "codigo": "https://github.com/anapaulaappel/QPUScheduler"
+    },
+    {
+      "ano": 2026,
       "titulo": "Quantum Encoding Agents: A Natural Language Interface for Data Embedding Strategy Selection in Quantum Machine Learning",
       "autores": "Ana Paula Appel",
       "veiculo": "arXiv:2609.31902",
